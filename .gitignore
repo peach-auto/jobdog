@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# 数据库文件(每次全量重建，不必进版本库)
+data/*.db
+
+# Node
+web/node_modules/
+web/.next/
+web/out/
