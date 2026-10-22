@@ -14,10 +14,10 @@
     "education": null,
     "experience": null,
     "description": "  About Stripe  \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.  \n  About the team  \n Stripe Terminal helps Stripe users extend their online presence into the physical world. The Terminal team’s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. With Terminal, businesses can unlock in-person payments use cases that are right for their business model—whether it’s creating a flagship retail experience, extending their website to a pop-up store, or enabling a mobile point-of-sale at their next event.  \n  What we are looking for:  \n As an Android BSP Engineer, you will be responsible for the kernel and driver level system development, which includes building, troubleshooting, and writing automated tests for the Android system on our embedded payments platforms. This team works closely with partner teams throughout the hardware and software product lifecycle, from hardware manufacturing to Android app teams. We also work with external vendors on part selection and initial hardware bring-up. \n  What you’ll do:  \n \n Bring up new devices and lead debugging and performance tuning exercises that span multiple hardware/firmware/software teams. \n Design, implement, and maintain drivers and Android services that operate efficiently in a constrained environment and meet the reliability and security requirements of the industry. \n Own the definition of one or more work streams focused on hardware bring-up, peripheral drivers and communication, and power and performance management and optimization. \n Analyze bug reports and manage the defect resolution process (disposition issues, resolve issues, and report issue status). \n Interact with global teams with excellent communication skills to provide support information \n Routinely perform code reviews to ensure high quality designs and implementation \n Assist in ensuring quality and timeliness of product/feature development. Work closely with QA staff to ensure appropriate test cases are created, maintained, and executed. \n Proactively solve problems and work independently and within a team environment, with limited guidance. \n \n  Who you are  \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. \n  Minimum requirements  \n \n 2+ years software engineering experience in device driver development, embedded systems, or operating systems \n 2+ years working with mobile or other connected devices \n Experience using automated testing, build systems, and inter-component communication protocols such as UART, GPIO, SPI, I2C, etc. \n Proficiency in C/C++ or Kotlin/Java \n Experience with Android OS, and familiarity with associated software development tools \n Degree in CS, CE, EE, or equivalent practical experience \n Experience adding, monitoring and parsing telemetry data to proactively resolve issues \n Fluency in both written and spoken English and Mandarin Chinese to be able to communicate with our vendors and users/customers \n \n  Preferred qualifications  \n \n Experience with ARM platform \n Experience working with microcontrollers \n Knowledge of EMV. \n Knowledge of cryptography, symmetric, asymmetric, key management and exchange is an asset. \n Experience with POS Hardware and peripherals. \n Knowledge and expertise of PCI technology, transaction processing, and related retail standards. \n ",
-    "published_at": "2026-10-20T17:25:59-04:00",
+    "published_at": "2026-10-21T14:53:01-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8239006",
-    "fetched_at": "2026-10-21T00:18:44+00:00"
+    "fetched_at": "2026-10-22T00:21:00+00:00"
   },
   {
     "title": "Firmware Engineer",
@@ -34,10 +34,10 @@
     "education": null,
     "experience": null,
     "description": "  About Stripe  \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.    \n  About the team  \n Stripe Terminal helps Stripe users extend their online presence into the physical world. The Terminal team’s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. With Terminal, businesses can unlock in-person payments use cases that are right for their business model—whether it’s creating a flagship retail experience, extending their website to a pop-up store, or enabling a mobile point-of-sale at their next event.  \n  We are looking for:  \n You will be responsible for all aspects of software development, which includes building, writing automated tests, and deploying software on our embedded payments platforms. This team works closely with partner teams throughout the hardware and software product lifecycle, from hardware manufacturing to Android application teams.  \n  What you’ll do  \n \n Design, develop and maintain user interfaces and underlying functionality for embedded point-of-sale software that handle secure payment processing across several products simultaneously. \n Implement industry standard protocols to match product capabilities. \n Create, maintain, and execute application unit tests as part of Continuous Integration. \n Analyze bug reports and manage the defect resolution process (disposition issues, resolve issues, and report issue status). \n Work closely with QA staff to ensure appropriate test cases are created, maintained, and executed. \n Collaborate on system-side code, communication protocol design, and kernel development. \n Interact with global teams with excellent communication skills to provide support information. \n Routinely perform code reviews to ensure high quality designs and implementation. \n Assist in ensuring quality and timeliness of product and feature development. \n Proactively solve problems and work independently and within a team environment, with limited guidance. \n Work closely with your hardware counterparts on product design and have the ability to read schematics, provide feedback on I/O mapping, developing manufacturing test software to ensure the devices are built to specification. \n \n  Who you are  \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. \n  Minimum requirements  \n \n 2+ years software development experience. \n 2+ years working with embedded, mobile, or other connected devices. \n Proficiency in embedded programming language C. \n Experience using automated testing, build systems, or device firmware communication. \n Experience with embedded systems, knowledge of operating systems, familiarity with software development tools, understanding of hardware-software interfaces. \n Experience architecting and developing multithreaded applications, preferably in embedded systems. \n Experience with common communications protocols (e.g., SPI, UART, I2C, USB, and others), debugging practices (e.g., JTAG and associated GDB integrations), and basic electrical design principles. \n Experience adding, monitoring and parsing telemetry data to proactively resolve issues. \n Degree in CS, EE, or equivalent practical experience. \n Fluent in spoken and written English. \n \n  Preferred qualifications  \n \n Proficiency in C++ or Golang is highly advantageous. \n Experience developing on ARM platforms. \n Experience with point-of-sale hardware and ",
-    "published_at": "2026-10-20T17:25:46-04:00",
+    "published_at": "2026-10-21T14:53:01-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8040825",
-    "fetched_at": "2026-10-21T00:18:44+00:00"
+    "fetched_at": "2026-10-22T00:21:00+00:00"
   },
   {
     "title": "Senior Mechanical and Industrial Design Engineer",
@@ -51,10 +51,10 @@
     "education": null,
     "experience": null,
     "description": "  Who we are  \n  About Stripe  \n Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. \n  About the team  \n Stripe Terminal helps businesses extend their online presence into the physical world. Our mission is to make it as easy for businesses to accept in-person payments as the Stripe API has made it for online payments. With Terminal, businesses can create flagship retail experiences, extend their websites to pop-up stores, or enable mobile point-of-sale payments at their next event. All of this is built on the Stripe Payments Platform, so businesses can maintain a single view of customers and sales across online and offline channels. \n Our hardware engineering team in Taiwan designs and builds the physical payment devices at the heart of that experience, including products such as the Stripe Reader S700 and Stripe Reader M2. We are expanding the team and seeking an experienced Senior Mechanical and Industrial Design Engineer who can own both the structural engineering and aesthetic form language of our next generation of payment terminals. This is a blended role. You will be equally comfortable driving design for manufacturability (DFM) for a plastic enclosure and sketching form concepts that express Stripe's design identity in hardware. \n  What you'll do  \n You will lead the industrial and mechanical design of next-generation Stripe Terminal payment devices, shaping their form, feel, usability, and structural performance from early concepts through mass production. You will partner with cross-functional teams and suppliers to deliver manufacturable, high-quality hardware, including enclosure design, color, material, and finish specifications, packaging, validation, and production readiness. \n  Responsibilities  \n  Industrial design  \n \n Lead ideation and concept development through rapid hand sketching, digital sketching, and physical foam or 3D-printed models to explore form factors early in the product lifecycle. \n Define the visual and tactile design language of Terminal hardware, including proportion, form, surface transitions, button feel, and overall product character. \n Produce photorealistic product renders using KeyShot or similar tools to communicate design intent to cross-functional teams and executive stakeholders. \n Define and manage color, material, and finish (CMF) specifications. Work directly with suppliers to qualify target surfaces, textures, and coatings. \n Manage packaging design, working directly with suppliers to qualify final deliverables and the unboxing experience. \n Apply ergonomics and human factors principles to ensure products are intuitive and comfortable for a diverse range of users and environments. \n Maintain visual consistency and brand coherence across the Terminal hardware product family, in alignment with Stripe's design identity. \n \n  Mechanical engineering  \n \n Design mechanical components and assemblies using SolidWorks or Creo, following professional engineering standards. \n Hands on experience in mechanical designs and drawings, assess manufacturability, and resolve technical problems. \n Lead and plan problem-solving activities using scientific approaches, such as tolerance analysis, computer-aided engineering (CAE) and finite element method (FEM) simulations, design of experiments (DOE), and physical prototyping. \n Independently analyze and verify mechanical designs, identify risks, and propose mitigations. \n Manage bill of materials (BOM) cost and design schedules from a mechanical engineering perspective. \n Prepare mechanical engineering deli",
-    "published_at": "2026-10-20T17:25:53-04:00",
+    "published_at": "2026-10-21T14:53:01-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8170920",
-    "fetched_at": "2026-10-21T00:18:44+00:00"
+    "fetched_at": "2026-10-22T00:21:00+00:00"
   },
   {
     "title": "Software Quality Assurance Engineer",
@@ -68,10 +68,10 @@
     "education": null,
     "experience": null,
     "description": "  Who we are   \n  About Stripe  \n  Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.  \n  About the team  \n Stripe Terminal helps Stripe users extend their online presence into the physical world. The Terminal team’s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. With Terminal, businesses can unlock in-person payments use cases that are right for their business model, whether it’s creating a flagship retail experience, extending their website to a pop-up store, or enabling a mobile point of sale at their next event. \n  What you’ll do  \n We are looking for a  Software Quality Assurance Engineer to join the Stripe Terminal Device Software Quality Assurance team. In this role, you will own the quality assurance process and results for firmware and device operating system components across our payment terminal devices. You'll work closely with software development teams to define quality standards, develop test strategies, and drive software quality improvements through technical expertise and process enhancements. \n   \n  Responsibilities  \n \n Own software quality for Terminal device software components, including firmware and the device operating system, and ensure software quality targets are met for customers. Collaborate with developers during software planning, change review, and release meetings to understand new features, specifications, expected behaviors, and the impact and risks of changes. Create spot tests before branch cut. \n Deeply understand customer use cases, Product Requirements Documents, and Software Design Documents. Work with developers to create test plans that improve coverage across configurations, user scenarios, and reliability testing. \n Perform Bluetooth validation across multiple devices, edge cases, and recovery scenarios. Validate devices with enterprise network configurations and security types. \n Design and execute testing for power performance, battery behavior, sleep and wake reliability, and resilience under extended or degraded operating conditions. \n Design, build, and maintain lab setups and test environments that reflect production-like usage conditions and support repeatable validation. \n Co-lead software quality incident remediation with engineering teams, including root cause analysis and solution development. Establish and maintain software quality assurance processes, and influence cross-functional teams at Stripe and drive quality and process improvements. \n Create and optimize test cases. Collaborate with automation engineers to expand automated test coverage, guide manual software quality assurance team members in high-quality software testing, and mentor junior software quality engineers on technical skills, test design, work quality, and efficiency. \n \n  Who you are  \n  We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.  \n  Minimum requirements  \n \n Bachelor’s degree in computer science, software engineering, or a related technical field \n 4+ years of software quality assurance experience for embedded systems or firmware, including analyzing software changes and assessing their impact on test coverage by reviewing release notes and software design documents \n Experience developing test strategies, test plans, and test cases based on product requirements \n Ability to identify the root causes of software defe",
-    "published_at": "2026-10-20T17:25:52-04:00",
+    "published_at": "2026-10-21T14:53:01-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8153331",
-    "fetched_at": "2026-10-21T00:18:44+00:00"
+    "fetched_at": "2026-10-22T00:21:00+00:00"
   },
   {
     "title": "Machine Learning Engineer, Assistance Engineering",
@@ -91,10 +91,10 @@
     "published_at": "2026-09-29T20:00:54-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
-    "fetched_at": "2026-10-21T00:18:45+00:00"
+    "fetched_at": "2026-10-22T00:21:01+00:00"
   },
   {
-    "title": "Office Manager, China",
+    "title": "Office Manager, China (Executive Administration and Workplace)",
     "company": "Airbnb",
     "company_type": "外企",
     "location": "Beijing, China",
@@ -105,10 +105,10 @@
     "education": null,
     "experience": null,
     "description": "   Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.     Your Location:  \n This position needs to be   based in the Beijing, China office 5 days a week. No Visa/Relocation Support.   \n   \n  The Community you will join:  \n The Office Manager plays a critical role in delivering a seamless and welcoming office experience by coordinating daily office operations, supporting local leaders and employees, and ensuring the office is prepared to enable great work, connection, and gathering. \n This role partners closely with the country manager and several teams to ensure the office remains an effective, connected, and highly functional workplace. This role serves as a key coordinator across many teams including: Workplace Operations, vendors, Gathering, Security, IT, Office of the CEO, Mission Control and Employee Experience. The Office Manager helps ensure the office is consistently ready to welcome employees, leaders, guests, and visitors while supporting the experiences that bring Airbnb's culture to life. \n This role combines strong operational execution, hospitality, organization, and administrative coordination to create an environment where employees feel supported and connected. \n This role reports to the Country Manager and has dotted line accountability to the Regional Workplace Operations and Gathering Teams and will join team meetings. \n   \n  The Difference You Will Make:  \n As an Office Manager, you help bring Airbnb's culture to life through exceptional execution and service. \n You will coordinate daily office operations, support local leaders, facilitate gatherings and leadership visits, and serve as a trusted resource for employees and visitors. Through strong organization, hospitality, and attention to detail, you help create an office experience that feels welcoming, seamless, and connected. \n Success in this role requires excellent judgment, strong relationship-building skills, operational rigor, and a proactive approach to identifying and resolving issues before they impact the employee experience. \n   \n  A Typical Day:  \n  Support the Office Experience  \n \n Help ensure the office is welcoming, organized, and operationally ready each day. \n Serve as a visible and approachable presence for employees, visitors, and guests. \n Support day-to-day workplace experience programs and services. \n Monitor office needs and proactively address issues or escalate to global and regional counterparts as needed. \n Help maintain hospitality standards across office spaces, meeting rooms, and shared environments. \n \n  Coordinate Office Operations  \n \n Support the daily coordination of workplace operations, hospitality services, food programs, and office amenities. \n Partner with vendors and service providers to ensure consistent delivery of services and timely issue resolution. \n Monitor workplace conditions and employee feedback. \n Track office requests, operational issues, and follow-up actions. \n Identify opportunities for improvement and communicate recommendations to regional leader and global ops team. \n Maintain office documentation, communications, and operational processes. \n Support implementation of office standards and playbooks. \n Support office utilization reporting. \n \n  Leadership & Administrative Support  \n \n Serve as a trusted admin partner to the Country Manager. \n Provide calendar booking support, meeting coordination and room scheduling support for the Country Manager. \n Partner with executive administrative partners to coordinate logistics for leadership visits, executive meetings, and business gatherings. \n Serve as a local resource for employees and leaders navigating office services and resources. \n \n  Thi",
-    "published_at": "2026-10-18T21:34:11-04:00",
+    "published_at": "2026-10-21T06:07:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.airbnb.com/positions/8299386?gh_jid=8299386",
-    "fetched_at": "2026-10-21T00:18:45+00:00"
+    "fetched_at": "2026-10-22T00:21:01+00:00"
   },
   {
     "title": "Senior Machine Learning Engineer, Assistance Engineering",
@@ -128,7 +128,7 @@
     "published_at": "2026-09-29T20:00:54-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.airbnb.com/positions/7975743?gh_jid=7975743",
-    "fetched_at": "2026-10-21T00:18:45+00:00"
+    "fetched_at": "2026-10-22T00:21:01+00:00"
   },
   {
     "title": "Enterprise Account Executive - China",
@@ -147,7 +147,7 @@
     "published_at": "2026-10-06T07:05:59-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8844022002",
-    "fetched_at": "2026-10-21T00:18:47+00:00"
+    "fetched_at": "2026-10-22T00:21:03+00:00"
   },
   {
     "title": "Strategic DNB Hunter Account Executive (China)",
@@ -164,7 +164,7 @@
     "published_at": "2026-10-06T06:35:23-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8644185002",
-    "fetched_at": "2026-10-21T00:18:47+00:00"
+    "fetched_at": "2026-10-22T00:21:03+00:00"
   },
   {
     "title": "Customer Success Manager (Scaled)",
@@ -185,7 +185,7 @@
     "published_at": "2026-10-16T17:59:16-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8153054",
-    "fetched_at": "2026-10-21T00:18:48+00:00"
+    "fetched_at": "2026-10-22T00:21:04+00:00"
   },
   {
     "title": "Enterprise Account Executive, Growth",
@@ -206,7 +206,7 @@
     "published_at": "2026-10-16T17:59:16-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=6740470",
-    "fetched_at": "2026-10-21T00:18:48+00:00"
+    "fetched_at": "2026-10-22T00:21:04+00:00"
   },
   {
     "title": "Enterprise Account Manager - OEM",
@@ -227,7 +227,7 @@
     "published_at": "2026-10-16T17:59:16-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=6829771",
-    "fetched_at": "2026-10-21T00:18:48+00:00"
+    "fetched_at": "2026-10-22T00:21:04+00:00"
   },
   {
     "title": "Manager, Solutions Architecture",
@@ -248,7 +248,7 @@
     "published_at": "2026-10-16T17:59:16-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8138913",
-    "fetched_at": "2026-10-21T00:18:48+00:00"
+    "fetched_at": "2026-10-22T00:21:04+00:00"
   },
   {
     "title": "Principal Partner Specialist",
@@ -269,7 +269,7 @@
     "published_at": "2026-10-16T17:59:16-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8141592",
-    "fetched_at": "2026-10-21T00:18:48+00:00"
+    "fetched_at": "2026-10-22T00:21:04+00:00"
   },
   {
     "title": "Project Manager",
@@ -290,7 +290,7 @@
     "published_at": "2026-10-16T17:59:16-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8173798",
-    "fetched_at": "2026-10-21T00:18:48+00:00"
+    "fetched_at": "2026-10-22T00:21:04+00:00"
   },
   {
     "title": "Senior Solutions Architect",
@@ -319,7 +319,7 @@
     "published_at": "2026-10-16T17:59:16-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=7157100",
-    "fetched_at": "2026-10-21T00:18:48+00:00"
+    "fetched_at": "2026-10-22T00:21:04+00:00"
   },
   {
     "title": "Solutions Architect",
@@ -348,7 +348,7 @@
     "published_at": "2026-10-16T17:59:16-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8226040",
-    "fetched_at": "2026-10-21T00:18:48+00:00"
+    "fetched_at": "2026-10-22T00:21:04+00:00"
   },
   {
     "title": "Beijing Office Administrator",
@@ -365,7 +365,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7267406",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Embedded Devices Software Solution Sales Manager (Taipei)",
@@ -384,7 +384,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7911759",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Engineering Director, Devices Software Engineering",
@@ -403,7 +403,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7074861",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Engineering Manager - Ubuntu Hardware Certification Quality and Test Engineering",
@@ -423,7 +423,7 @@
     "published_at": "2026-07-16T11:10:59-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5996326",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "IoT Field Engineer - China & Region",
@@ -442,7 +442,7 @@
     "published_at": "2026-07-16T11:10:59-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/2169848",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Linux Devices Software Engineer",
@@ -465,7 +465,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5140562",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Linux Enablement - Software Engineering Manager",
@@ -488,7 +488,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560182",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Linux Enablement - Software Engineering Manager",
@@ -511,7 +511,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/3262042",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU",
@@ -535,7 +535,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5660661",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "PC Platforms Kernel Engineer - Ubuntu Linux",
@@ -556,7 +556,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5396437",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Project Manager - Ubuntu Embedded Systems",
@@ -575,7 +575,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5422728",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Python Engineer - Data Center Hardware Integration (Taipei)",
@@ -595,7 +595,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/4536726",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Senior Ubuntu Embedded IoT System Engineer",
@@ -615,7 +615,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/6731174",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Silicon Alliances Ecosystem Development Manager - APAC",
@@ -635,7 +635,7 @@
     "published_at": "2026-10-16T11:44:32-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5570923",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Silicon Alliances Ecosystem Development Manager - Shanghai or Beijing",
@@ -652,7 +652,7 @@
     "published_at": "2026-10-16T11:44:32-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7561124",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Software Engineer, Ubuntu Commercial Computers",
@@ -671,7 +671,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560784",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
@@ -692,7 +692,7 @@
     "published_at": "2026-10-02T10:54:05-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7975990",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
@@ -713,7 +713,7 @@
     "published_at": "2026-10-02T11:01:20-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/8248986",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Taipei Office Administrator",
@@ -730,7 +730,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7364802",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Ubuntu Enablement Engineer",
@@ -749,7 +749,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560823",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Ubuntu Enablement Engineer",
@@ -768,7 +768,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7102393",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Ubuntu Enablement - Software Engineering Manager",
@@ -791,7 +791,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/4605464",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Ubuntu Linux Kernel Test Engineer",
@@ -816,7 +816,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7965671",
-    "fetched_at": "2026-10-21T00:18:50+00:00"
+    "fetched_at": "2026-10-22T00:21:05+00:00"
   },
   {
     "title": "Junior Developer - C++",
@@ -835,7 +835,7 @@
     "published_at": "2026-10-08T02:30:13-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.akunacapital.com/careers/job/6690496/?gh_jid=6690496",
-    "fetched_at": "2026-10-21T00:18:51+00:00"
+    "fetched_at": "2026-10-22T00:21:06+00:00"
   },
   {
     "title": "Junior Quantitative Researcher - Deep Learning (Time Series)",
@@ -858,7 +858,7 @@
     "published_at": "2026-10-08T02:30:47-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994",
-    "fetched_at": "2026-10-21T00:18:51+00:00"
+    "fetched_at": "2026-10-22T00:21:06+00:00"
   },
   {
     "title": "Senior Product Designer",
@@ -875,7 +875,7 @@
     "published_at": "2026-08-04T09:42:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8675713002?gh_jid=8675713002",
-    "fetched_at": "2026-10-21T00:18:59+00:00"
+    "fetched_at": "2026-10-22T00:21:13+00:00"
   },
   {
     "title": "Senior Product Manager",
@@ -892,7 +892,7 @@
     "published_at": "2026-08-04T09:21:41-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8675670002?gh_jid=8675670002",
-    "fetched_at": "2026-10-21T00:18:59+00:00"
+    "fetched_at": "2026-10-22T00:21:13+00:00"
   },
   {
     "title": "Senior Software Engineer, Android, Monetization",
@@ -911,7 +911,7 @@
     "published_at": "2026-08-19T06:34:46-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8702391002?gh_jid=8702391002",
-    "fetched_at": "2026-10-21T00:18:59+00:00"
+    "fetched_at": "2026-10-22T00:21:13+00:00"
   },
   {
     "title": "Senior Software Engineer, Backend, Monetization",
@@ -932,7 +932,7 @@
     "published_at": "2026-08-19T06:34:01-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8702288002?gh_jid=8702288002",
-    "fetched_at": "2026-10-21T00:18:59+00:00"
+    "fetched_at": "2026-10-22T00:21:13+00:00"
   },
   {
     "title": "Senior Software Engineer, iOS, Growth",
@@ -949,7 +949,7 @@
     "published_at": "2026-08-19T06:31:20-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8693210002?gh_jid=8693210002",
-    "fetched_at": "2026-10-21T00:18:59+00:00"
+    "fetched_at": "2026-10-22T00:21:13+00:00"
   },
   {
     "title": "Senior Software Engineer, iOS, Monetization",
@@ -968,7 +968,7 @@
     "published_at": "2026-08-19T06:30:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8701378002?gh_jid=8701378002",
-    "fetched_at": "2026-10-21T00:18:59+00:00"
+    "fetched_at": "2026-10-22T00:21:13+00:00"
   },
   {
     "title": "Software Engineer II, iOS, Growth",
@@ -985,7 +985,7 @@
     "published_at": "2026-08-19T06:32:30-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8612120002?gh_jid=8612120002",
-    "fetched_at": "2026-10-21T00:18:59+00:00"
+    "fetched_at": "2026-10-22T00:21:13+00:00"
   },
   {
     "title": "Analyst, Business Development",
@@ -1002,10 +1002,10 @@
     "published_at": "2026-10-15T02:49:07-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4721840006?gh_jid=4721840006",
-    "fetched_at": "2026-10-21T00:19:00+00:00"
+    "fetched_at": "2026-10-22T00:21:14+00:00"
   },
   {
-    "title": "Business Development Associate(Consumer)",
+    "title": "Business Development Associate (Consumer)",
     "company": "AppLovin",
     "company_type": "外企",
     "location": "Guangzhou - Remote; Remote - Shenzhen; Shanghai",
@@ -1016,10 +1016,10 @@
     "education": null,
     "experience": null,
     "description": "    About AppLovin   \n  AppLovin  makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end advertising solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit:  www.applovin.com . \n  To deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others.     About AppLovin’s Consumer Team  \n AppLovin is a leading global mobile technology company empowering app developers and e-commerce brands to grow, monetize, and scale their businesses through cutting-edge advertising, user acquisition, and in-app monetization solutions. With a strong footprint across the Asia-Pacific region, our APAC team focuses on unlocking high-growth opportunities within the e-commerce and non-gaming app sectors, partnering with top industry players to deliver data-driven, scalable growth results. \n AppLovin's global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our customers around the world. We are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others. \n We are powering the next wave of eCommerce and non-gaming Apps growth. Specializing in performance advertising, we help  global brands and merchants, with a strong focus on Chinese cross-border eCommerce D2C companies and non-gaming Apps advertisers,  achieve profitable growth by connecting them to over 1 billion daily users across thousands of the world’s top mobile games. This scale is driven by AppLovin’s advertising platform, which enables businesses of all sizes to find their ideal customers and maximize ROI. \n  Please note that this role requires onsite presence at our Shanghai office (remote work in Guangzhou and Shenzhen).  \n  About the Role  \n We are seeking a driven, analytical, and results-focused  Business Development Associate  to join our fast-paced and expanding Consumer (eCommerce & Apps) team in  Shanghai/Guangzhou/Shenzhen . This is a unique opportunity to contribute to a new business line from the ground up and gain hands-on experience at the intersection of performance marketing and business development within the rapidly growing Consumer (eCommerce & Apps) space. \n In this client-facing role, you’ll work with the team to help non-gaming apps unlock growth through AppLovin’s marketing platform. You’ll help build relationships with clients, support campaign optimization, and contribute to initiatives that drive business outcomes. You’ll also work closely with experienced business development colleagues and product experts to support the adoption of our Consumer advertising solution in the market. \n  Responsibilities  \n \n Client Development & Expansion: Identify and research potential clients in the APAC e-commerce and non-gaming app verticals. Support the sales cycle, including lead generation, needs analysis, solution presentations, negotiation, and contract closing, with guidance from experienced team members. Help identify growth opportunities within existing accounts. \n Regional Business Growth: Support the execution of localized sales and BD strategies for APAC markets. Research regional market trends, competitor activities, and the needs of e-commerce and non-gaming app businesses to identify potential growth opportunities. \n Client Relationship Management: Support day-to-day client communication and help build long-term relationships. Assist with business reviews, communicate product updates and industry insights, and work with the team to address clients’ user acquisition and business growth needs. \n Cross-tea",
-    "published_at": "2026-10-20T05:53:17-04:00",
+    "published_at": "2026-10-21T06:54:43-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4681211006?gh_jid=4681211006",
-    "fetched_at": "2026-10-21T00:19:00+00:00"
+    "fetched_at": "2026-10-22T00:21:14+00:00"
   },
   {
     "title": "Manager, Business Development - Consumer",
@@ -1036,10 +1036,10 @@
     "published_at": "2026-10-20T06:33:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4723008006?gh_jid=4723008006",
-    "fetched_at": "2026-10-21T00:19:00+00:00"
+    "fetched_at": "2026-10-22T00:21:14+00:00"
   },
   {
-    "title": "Sr. Analyst, Business Development",
+    "title": "Sr. Analyst, Business Development - Consumer",
     "company": "AppLovin",
     "company_type": "外企",
     "location": "Beijing; Shanghai",
@@ -1050,10 +1050,10 @@
     "education": null,
     "experience": null,
     "description": "    About AppLovin   \n  AppLovin  makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end advertising solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit:  www.applovin.com . \n  To deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others.     About AppLovin’s Consumer Team  \n We are powering the next wave of consumer growth. Specializing in performance advertising, we help global brands and leading consumer apps across verticals such as e-Commerce / DTC, fintech, meal delivery, ride hailing, video streaming and more achieve profitable growth by connecting them to over 1 billion daily users across thousands of the world’s top mobile games apps. This scale is driven by AppLovin’s advertising platform, which enables businesses of all sizes to find their ideal customers and maximize ROI. \n AppLovin’s global team combines people from different backgrounds and perspectives, united by a shared ambition to always pursue excellence and win together in a fast-moving market. We are intentional about the culture we are building and seek candidates who are outstanding in their own right while remaining deeply committed to the success of others. \n   \n  Please note that this role requires onsite presence at our Beijing or Shanghai office.  \n   \n  About the Role  \n We are seeking a driven, analytical, and results-focused  Sr. Analyst, Business Development  to join our fast-paced and expanding Consumer (eCommerce & Apps) team in Beijing or Shanghai. This is a unique opportunity to shape a new business line from the ground up and work at the intersection of performance marketing and business development within the rapidly growing Consumer(eCommerce & Apps) space. \n In this client-facing role, you’ll partner with eCommerce brands and non-gaming Apps to unlock growth by leveraging AppLovin’s marketing platform. You’ll build strong relationships with key stakeholders, help them optimize campaigns, and lead strategic initiatives that drive business outcomes. You’ll also work closely with AppLovin leadership and product experts to evolve our Consumer advertising solution and drive adoption in the market. \n   \n  Responsibilities  \n \n Own the onboarding, campaign launch, and day-to-day growth of a portfolio of eCommerce clients, educating partners on AppLovin’s Consumer growth solution. \n Develop data-backed account plans based on each partner’s business objectives, growth priorities, and performance targets. \n Launch and optimize campaigns by applying best practices across measurement, creative strategy, testing, and performance targets. \n Define and analyze key metrics, identify performance issues, and translate complex data into clear recommendations and actions. \n Build trusted relationships with client stakeholders and communicate campaign performance, product updates, and growth opportunities effectively. \n Coordinate with Product, Operations, Technical, Creative, and other Business Development teams to resolve account issues and execute growth initiatives. \n Identify expansion opportunities within existing accounts and independently lead routine commercial discussions, escalating complex negotiations when appropriate. \n Share learnings and best practices across the regional Business Development team. \n \n  Basic Qualifications  \n \n 3–5 years of professional experience in account management, business development, sales, performance marketing, media buying, digital strategy, or a related field. \n Bachelor’s degree in a related field or equivalent practical experience. \n Demonstrated ability to manage client relationships",
-    "published_at": "2026-10-20T06:30:08-04:00",
+    "published_at": "2026-10-21T06:47:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4723009006?gh_jid=4723009006",
-    "fetched_at": "2026-10-21T00:19:00+00:00"
+    "fetched_at": "2026-10-22T00:21:14+00:00"
   },
   {
     "title": "Sr. Manager, Business Development - Consumer",
@@ -1070,7 +1070,7 @@
     "published_at": "2026-10-20T06:34:51-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4723011006?gh_jid=4723011006",
-    "fetched_at": "2026-10-21T00:19:00+00:00"
+    "fetched_at": "2026-10-22T00:21:14+00:00"
   },
   {
     "title": "Expression of Interest: Senior Growth Manager (Ad Sales)",
@@ -1089,7 +1089,7 @@
     "published_at": "2026-10-08T19:10:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/moloco/jobs/5687340003",
-    "fetched_at": "2026-10-21T00:19:02+00:00"
+    "fetched_at": "2026-10-22T00:21:16+00:00"
   },
   {
     "title": "New Business Account Manager (Implementation Manager)",
@@ -1108,7 +1108,7 @@
     "published_at": "2026-10-08T19:10:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/moloco/jobs/7788201003",
-    "fetched_at": "2026-10-21T00:19:02+00:00"
+    "fetched_at": "2026-10-22T00:21:16+00:00"
   },
   {
     "title": "Brand & Communications Manager - GCR",
@@ -1125,7 +1125,7 @@
     "published_at": "2026-03-26T04:48:25-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8480742002?gh_jid=8480742002",
-    "fetched_at": "2026-10-21T00:19:04+00:00"
+    "fetched_at": "2026-10-22T00:21:18+00:00"
   },
   {
     "title": "General Manager, Greater China Region",
@@ -1142,7 +1142,7 @@
     "published_at": "2026-09-17T03:27:55-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8816080002?gh_jid=8816080002",
-    "fetched_at": "2026-10-21T00:19:04+00:00"
+    "fetched_at": "2026-10-22T00:21:18+00:00"
   },
   {
     "title": "Growth Marketing Manager, GCR",
@@ -1159,7 +1159,7 @@
     "published_at": "2026-10-20T06:34:36-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8793780002?gh_jid=8793780002",
-    "fetched_at": "2026-10-21T00:19:04+00:00"
+    "fetched_at": "2026-10-22T00:21:18+00:00"
   },
   {
     "title": "Senior Strategic Partnership Development Manager, APAC",
@@ -1176,7 +1176,7 @@
     "published_at": "2026-07-14T05:08:52-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8591924002?gh_jid=8591924002",
-    "fetched_at": "2026-10-21T00:19:04+00:00"
+    "fetched_at": "2026-10-22T00:21:18+00:00"
   },
   {
     "title": "Senior Technical Sourcer, APAC (Contractor)",
@@ -1195,7 +1195,7 @@
     "published_at": "2026-10-04T03:14:19-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5256388007",
-    "fetched_at": "2026-10-21T00:19:06+00:00"
+    "fetched_at": "2026-10-22T00:21:20+00:00"
   },
   {
     "title": "Sr Accountant",
@@ -1212,7 +1212,7 @@
     "published_at": "2026-09-28T23:06:57-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5139683007",
-    "fetched_at": "2026-10-21T00:19:06+00:00"
+    "fetched_at": "2026-10-22T00:21:20+00:00"
   },
   {
     "title": "North Asia Director Sales",
@@ -1229,7 +1229,7 @@
     "published_at": "2026-10-07T04:44:45-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7417625",
-    "fetched_at": "2026-10-21T00:19:28+00:00"
+    "fetched_at": "2026-10-22T00:21:40+00:00"
   },
   {
     "title": "Sr. Staff Engineer, Data Engineering",
@@ -1258,7 +1258,7 @@
     "published_at": "2026-09-24T13:27:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8184639",
-    "fetched_at": "2026-10-21T00:19:28+00:00"
+    "fetched_at": "2026-10-22T00:21:40+00:00"
   },
   {
     "title": "Sr. Staff Engineer, Endpoint Security",
@@ -1279,7 +1279,7 @@
     "published_at": "2026-09-24T13:27:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8185095",
-    "fetched_at": "2026-10-21T00:19:28+00:00"
+    "fetched_at": "2026-10-22T00:21:40+00:00"
   },
   {
     "title": "Staff Engineer, AI Gateway",
@@ -1308,7 +1308,7 @@
     "published_at": "2026-09-24T13:27:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8211204",
-    "fetched_at": "2026-10-21T00:19:28+00:00"
+    "fetched_at": "2026-10-22T00:21:40+00:00"
   },
   {
     "title": "Staff Engineer, CASB API",
@@ -1341,7 +1341,7 @@
     "published_at": "2026-10-05T01:12:17-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8038887",
-    "fetched_at": "2026-10-21T00:19:28+00:00"
+    "fetched_at": "2026-10-22T00:21:40+00:00"
   },
   {
     "title": "Staff SDET, AI Gateway",
@@ -1368,7 +1368,7 @@
     "published_at": "2026-09-28T01:22:14-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8168624",
-    "fetched_at": "2026-10-21T00:19:28+00:00"
+    "fetched_at": "2026-10-22T00:21:40+00:00"
   },
   {
     "title": "Staff / Sr. Staff Engineer, AI Gateway",
@@ -1395,7 +1395,7 @@
     "published_at": "2026-10-15T23:45:29-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8171690",
-    "fetched_at": "2026-10-21T00:19:28+00:00"
+    "fetched_at": "2026-10-22T00:21:40+00:00"
   },
   {
     "title": "Campus AI/ML Researcher (Intern)",
@@ -1419,7 +1419,7 @@
     "published_at": "2026-08-28T07:28:48-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027938",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Campus C++ Software Engineer (Intern)",
@@ -1440,7 +1440,7 @@
     "published_at": "2026-10-06T10:25:10-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027860",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Campus Python Software Engineer (Intern)",
@@ -1464,7 +1464,7 @@
     "published_at": "2026-10-06T10:21:01-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Campus Quantitative Researcher (Intern)",
@@ -1485,7 +1485,7 @@
     "published_at": "2026-08-28T07:27:49-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern)",
@@ -1506,7 +1506,7 @@
     "published_at": "2026-08-28T07:26:21-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Campus Quantitative Trader (Intern)",
@@ -1523,7 +1523,7 @@
     "published_at": "2026-08-28T07:28:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Data Scientist | Post Trade Analytics",
@@ -1545,7 +1545,7 @@
     "published_at": "2026-10-12T05:30:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7483202",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Deep Learning Researcher | Trading Team",
@@ -1567,7 +1567,7 @@
     "published_at": "2026-08-08T01:01:15-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6603013",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "HR Operations Specialist",
@@ -1584,7 +1584,7 @@
     "published_at": "2026-09-14T23:03:44-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8045867",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Leadership and Professional Development Specialist | Talent Development",
@@ -1601,7 +1601,7 @@
     "published_at": "2026-08-08T01:01:40-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7946175",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Legal Counsel",
@@ -1618,7 +1618,7 @@
     "published_at": "2026-09-17T05:09:11-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8210461",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Python Software Engineer",
@@ -1638,7 +1638,7 @@
     "published_at": "2026-09-09T03:38:11-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8104832",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Quantitative Developer",
@@ -1658,7 +1658,7 @@
     "published_at": "2026-08-08T01:01:38-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7822791",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Quantitative Developer | Trading team",
@@ -1679,7 +1679,27 @@
     "published_at": "2026-08-08T01:01:12-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6172858",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
+  },
+  {
+    "title": "Quantitative Developer | Trading Team",
+    "company": "Jump Trading",
+    "company_type": "外企",
+    "location": "Shanghai",
+    "salary_raw": "面议",
+    "salary_min": null,
+    "salary_max": null,
+    "skills": [
+      "Python",
+      "C++"
+    ],
+    "education": null,
+    "experience": null,
+    "description": " Jump Trading established its dedication to the China market with the launch of our Shanghai office in late 2017 with the ambition of building an independently operational office. Due to this ambition, we are growing our competencies in Trading, Technology and Operations. We bring together the best of two worlds; A start-up environment powered by Global Jump Trading dedication and resources. \n This position is part of software development in a trading team. As a Quantitative Developer, you will work on a core team of technologists that build and improve the platforms that drive the trading team. You will work closely with the quantitative researchers on the team to create and improve research, trading infrastructure, improve the scalability of the production systems, maintaining the production trading environment, troubleshooting problems, and developing software to automate and improve deployment, configuration, validation. \n The team is looking for someone who will be passionate about development and demonstrates intellectual curiosity and an ability to solve difficult technical problems in a fast-paced and energetic environment. \n   What You'll Do:  \n \n Full cycle development including researching and prod system, writing, testing & debugging code, deployment of finished code into the production environment and ensuring that all code is checked into the source code control system. \n Direct support of end users, trouble-shooting problems and upgrading applications \n Monitoring, troubleshooting, break/fix of production trading system \n Other duties as assigned or needed \n \n  Skills You’ll Need:  \n \n Efficient in python, C++ and able to develop/maintain code for prod applications \n Strong analytical and problem solving skills \n Must be extremely detail-oriented \n Proven success working with large data sets \n Self-directed and comfortable taking ownership of projects and responsibilities. \n Reliable and predictable availability  \n \n   ",
+    "published_at": "2026-08-08T01:01:12-04:00",
+    "source_site": "Greenhouse",
+    "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6190021",
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Quantitative Developer | Trading Team",
@@ -1704,27 +1724,7 @@
     "published_at": "2026-08-25T03:30:03-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8105914",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
-  },
-  {
-    "title": "Quantitative Developer | Trading Team",
-    "company": "Jump Trading",
-    "company_type": "外企",
-    "location": "Shanghai",
-    "salary_raw": "面议",
-    "salary_min": null,
-    "salary_max": null,
-    "skills": [
-      "Python",
-      "C++"
-    ],
-    "education": null,
-    "experience": null,
-    "description": " Jump Trading established its dedication to the China market with the launch of our Shanghai office in late 2017 with the ambition of building an independently operational office. Due to this ambition, we are growing our competencies in Trading, Technology and Operations. We bring together the best of two worlds; A start-up environment powered by Global Jump Trading dedication and resources. \n This position is part of software development in a trading team. As a Quantitative Developer, you will work on a core team of technologists that build and improve the platforms that drive the trading team. You will work closely with the quantitative researchers on the team to create and improve research, trading infrastructure, improve the scalability of the production systems, maintaining the production trading environment, troubleshooting problems, and developing software to automate and improve deployment, configuration, validation. \n The team is looking for someone who will be passionate about development and demonstrates intellectual curiosity and an ability to solve difficult technical problems in a fast-paced and energetic environment. \n   What You'll Do:  \n \n Full cycle development including researching and prod system, writing, testing & debugging code, deployment of finished code into the production environment and ensuring that all code is checked into the source code control system. \n Direct support of end users, trouble-shooting problems and upgrading applications \n Monitoring, troubleshooting, break/fix of production trading system \n Other duties as assigned or needed \n \n  Skills You’ll Need:  \n \n Efficient in python, C++ and able to develop/maintain code for prod applications \n Strong analytical and problem solving skills \n Must be extremely detail-oriented \n Proven success working with large data sets \n Self-directed and comfortable taking ownership of projects and responsibilities. \n Reliable and predictable availability  \n \n   ",
-    "published_at": "2026-08-08T01:01:12-04:00",
-    "source_site": "Greenhouse",
-    "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6190021",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Quantitative Researcher | Trading Team",
@@ -1747,7 +1747,7 @@
     "published_at": "2026-08-08T01:01:11-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6098760",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Senior Software Engineer",
@@ -1767,7 +1767,7 @@
     "published_at": "2026-08-26T23:26:22-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7809758",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Software Engineer | Post Trade Analytics",
@@ -1790,7 +1790,7 @@
     "published_at": "2026-10-12T05:30:25-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7495806",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Software Engineer | Trading Team",
@@ -1809,7 +1809,7 @@
     "published_at": "2026-10-19T21:20:50-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7929540",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Talent Acquisition Coordinator",
@@ -1826,7 +1826,7 @@
     "published_at": "2026-09-28T07:02:00-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8236626",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Workplace Experience Coordinator",
@@ -1840,10 +1840,10 @@
     "education": null,
     "experience": null,
     "description": " Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incentivizing collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n People and culture are really important at Jump. Our Office Workplace Services team are key ambassadors and we’re looking to add to the team in our Hong Kong office! \n As an Office Workplace Coordinator you will be responsible for providing first class facilities and administration in partnership with the Global Workplace Services teams. This role suits a resourceful self-starter and team player who will thrive in a dynamic and fast-paced environment, working across our APAC offices. \n  What You'll Do:  \n \n  Front-of-house & reception —  Serve as a warm, professional first point of contact for guests and visitors. Prepare meeting and conference rooms ahead of bookings, arrange refreshments, and provide hands-on support for video-conferencing and AV equipment. \n  Office operations & facilities —  Support the smooth day-to-day running of the Hong Kong office, logging and following up on facility maintenance, keeping supplies well stocked, and handling occasional courier dispatches and business-card orders. \n  Pantry & workplace amenities —  Keep the office pantry well stocked and thoughtfully curated, and help administer the corporate accounts and platforms that support it (e.g. Lyreco and HKTVmall for supplies, foodpanda for food delivery, and Uber for Business for ground transport). \n  Vendor coordination —  Help coordinate on-site vendors — including catering, cleaning, and facilities suppliers — by gathering quotations, tracking service agreements, and monitoring day-to-day delivery to ensure consistent quality and value. \n  Visitor & desk coordination —  Maintain the visitor travel log, process office visit requests, and prepare desks, foodpanda registration, access cards, and weekly visitor QR-code passes. Partner with the Tech Services team on desk planning, people moves, and visitor facilitation. \n  Events & employee experience —  Help plan and deliver the Hong Kong events calendar — from team lunches, happy hours, and milestone celebrations to larger social and community events — and support managers in organising in-office and off-site activities that bring people together. \n  Finance & administration —  Provide light accounting and administrative support, including cross-checking team invoices, coding expenses, and liaising with the Accounts Payable team on invoices and annual team-spend reporting. \n  Other duties —  Take on additional responsibilities as needed to support the team and keep the office running smoothly. \n \n  Skills You’ll Need:  \n \n A bachelor's degree in business management or a related field, or equivalent experience and training. \n Some administrative or office-support experience; a proactive, willing-to-learn attitude is highly valued in this early-career role. \n Strong customer-service skills and a warm, professional, and approachable manner. \n The ability to work independently, take initiative, prioritise effectively, and manage multiple tasks at once. \n A keen eye for detail, with strong organisation and time-management skills. \n Clear and confident written and verbal communication skills. \n Proficiency across Microsoft Office, including Excel, Word, and PowerPoint. \n Confidence engaging with internal and external stakeholders, and the c",
-    "published_at": "2026-10-02T01:47:32-04:00",
+    "published_at": "2026-10-21T04:07:13-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8248589",
-    "fetched_at": "2026-10-21T00:19:33+00:00"
+    "fetched_at": "2026-10-22T00:21:44+00:00"
   },
   {
     "title": "Delta One Trader",
@@ -1863,7 +1863,7 @@
     "published_at": "2026-10-13T04:26:15-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7708220",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   },
   {
     "title": "Digital Assets Trader",
@@ -1883,7 +1883,7 @@
     "published_at": "2026-10-13T10:21:11-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7770955",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   },
   {
     "title": "Experienced MFT Quantitative Researcher",
@@ -1902,7 +1902,7 @@
     "published_at": "2026-09-21T23:23:04-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8222298",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   },
   {
     "title": "Experienced Quantitative Researcher",
@@ -1921,7 +1921,7 @@
     "published_at": "2026-09-18T04:15:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/4003450",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   },
   {
     "title": "Graduate Trader",
@@ -1938,7 +1938,7 @@
     "published_at": "2026-08-31T23:25:22-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/4782837",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   },
   {
     "title": "Operations Specialist",
@@ -1958,7 +1958,7 @@
     "published_at": "2026-10-13T04:28:03-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7978456",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   },
   {
     "title": "PhD Graduate Quantitative Researcher",
@@ -1980,7 +1980,7 @@
     "published_at": "2026-09-21T03:22:51-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8213037",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   },
   {
     "title": "Python Engineer, Trading Automation",
@@ -2004,7 +2004,7 @@
     "published_at": "2026-10-07T22:53:37-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7064123",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   },
   {
     "title": "Risk Manager",
@@ -2024,7 +2024,7 @@
     "published_at": "2026-09-01T00:04:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8168790",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   },
   {
     "title": "Senior Research Engineer",
@@ -2051,7 +2051,7 @@
     "published_at": "2026-10-20T05:17:56-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7431246",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   },
   {
     "title": "Senior Software Engineer, C++",
@@ -2073,7 +2073,7 @@
     "published_at": "2026-08-31T23:30:25-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/6993714",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   },
   {
     "title": "Senior Software Engineer, C++ (Market Data)",
@@ -2092,7 +2092,7 @@
     "published_at": "2026-09-20T22:24:50-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8212740",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   },
   {
     "title": "Trading Intern",
@@ -2111,6 +2111,6 @@
     "published_at": "2026-09-30T06:42:48-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8102618",
-    "fetched_at": "2026-10-21T00:19:35+00:00"
+    "fetched_at": "2026-10-22T00:21:47+00:00"
   }
 ]
