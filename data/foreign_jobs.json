@@ -17,7 +17,7 @@
     "published_at": "2026-10-29T10:42:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8239006",
-    "fetched_at": "2026-10-30T01:29:28+00:00"
+    "fetched_at": "2026-10-31T01:20:30+00:00"
   },
   {
     "title": "Firmware Engineer",
@@ -37,7 +37,7 @@
     "published_at": "2026-10-29T10:42:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8040825",
-    "fetched_at": "2026-10-30T01:29:28+00:00"
+    "fetched_at": "2026-10-31T01:20:30+00:00"
   },
   {
     "title": "Senior Mechanical and Industrial Design Engineer",
@@ -54,7 +54,7 @@
     "published_at": "2026-10-29T10:42:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8170920",
-    "fetched_at": "2026-10-30T01:29:28+00:00"
+    "fetched_at": "2026-10-31T01:20:30+00:00"
   },
   {
     "title": "Software Quality Assurance Engineer",
@@ -71,7 +71,7 @@
     "published_at": "2026-10-29T10:42:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8153331",
-    "fetched_at": "2026-10-30T01:29:28+00:00"
+    "fetched_at": "2026-10-31T01:20:30+00:00"
   },
   {
     "title": "Machine Learning Engineer, Assistance Engineering",
@@ -91,7 +91,7 @@
     "published_at": "2026-09-29T20:00:54-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
-    "fetched_at": "2026-10-30T01:29:29+00:00"
+    "fetched_at": "2026-10-31T01:20:32+00:00"
   },
   {
     "title": "Office Manager, China (Executive Administration and Workplace)",
@@ -108,7 +108,7 @@
     "published_at": "2026-10-21T06:07:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.airbnb.com/positions/8299386?gh_jid=8299386",
-    "fetched_at": "2026-10-30T01:29:29+00:00"
+    "fetched_at": "2026-10-31T01:20:32+00:00"
   },
   {
     "title": "Senior Machine Learning Engineer, Assistance Engineering",
@@ -128,7 +128,7 @@
     "published_at": "2026-09-29T20:00:54-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.airbnb.com/positions/7975743?gh_jid=7975743",
-    "fetched_at": "2026-10-30T01:29:29+00:00"
+    "fetched_at": "2026-10-31T01:20:32+00:00"
   },
   {
     "title": "Enterprise Account Executive - China",
@@ -147,7 +147,29 @@
     "published_at": "2026-10-06T07:05:59-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8844022002",
-    "fetched_at": "2026-10-30T01:29:30+00:00"
+    "fetched_at": "2026-10-31T01:20:33+00:00"
+  },
+  {
+    "title": "Lakebase Sales Specialist (Greater China Region)",
+    "company": "Databricks",
+    "company_type": "外企",
+    "location": "China",
+    "salary_raw": "面议",
+    "salary_min": null,
+    "salary_max": null,
+    "skills": [
+      "MySQL",
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "education": null,
+    "experience": null,
+    "description": " SLSQ327R376  Databricks is seeking a  Lakebase Sales Specialist Account Executive  to help customers modernize their operational data foundation with Databricks Lakebase, our fully-managed Postgres offering for intelligent applications. This high-impact role sits within the Lakebase Go-To-Market team and partners closely with regional Account Executives to drive adoption of Lakebase with platform, application, and data teams.  \n The role will cover strategic enterprise customers within the Greater China region.  \n Lakebase gives customers a unified, governed foundation for operational workloads and AI-native applications, helping them move away from a fragmented estate of point databases toward a modern, scalable, serverless Postgres service. If you want to be at the forefront of operational databases for AI and intelligent applications at one of the fastest-growing data and AI companies in the world, this is your opportunity. \n  The impact you will have  \n \n Drive new Lakebase revenue by identifying, qualifying, and closing Lakebase opportunities within a defined territory, in partnership with regional Account Executives and the broader account team. \n Lead with outcomes for key Lakebase personas — including platform teams and developers, data teams, and central IT — articulating how Lakebase helps them ship features faster, simplify operational data architectures, and improve governance and cost efficiency. \n Sell the value of fully-managed Postgres for intelligent applications, positioning Lakebase as the optimal choice for operational workloads that power real-time, AI-driven experiences. \n Run complex, multi-threaded sales cycles from discovery and value hypothesis through commercial negotiation and close, navigating executive, technical, and line-of-business stakeholders. \n Orchestrate proof-of-value and POCs that validate Lakebase’s benefits for OLTP-style workloads, reverse ETL, and AI/ML-driven applications, in partnership with solution architects and specialists. \n Compete and win against legacy and cloud-native operational databases by leveraging our compete assets, benchmarks, and customer references. \n Align to measurable business outcomes such as performance, developer productivity, time-to-market for new features, cost reduction, and simplification of the operational data landscape. \n Partner cross-functionally with Product Management, Marketing, Customer Success, and Partner teams to shape territory plans, launch plays, and co-selling motions with key ISVs and GSIs. \n Enable the field by sharing Lakebase best practices, success stories, and sales motions with broader sales teams, helping scale Lakebase proficiency across the organization. \n \n  What success looks like in this role  \n This role requires the ability to operate across  two key motions  simultaneously: \n \n  Establish top strategic focus accounts  by engaging application development teams to create net-new intelligent applications leveraging Lakebase. \n  Drive longer-term Postgres standardization and migration  within Databricks' most strategic accounts. \n \n Candidates should demonstrate how they can act as a force multiplier across multiple dimensions of the business. \n Success in this role requires strength in four areas: \n \n  Business ownership  – Operate at a business-unit level by tracking revenue, pipeline, and key observations, and by identifying areas needing additional focus or support. \n  Strategic account engagement  – Partner with account teams to engage priority accounts across the global DB700, driving strategic opportunities from initial engagement through successful outcomes. \n  Field enablement  – Build and execute enablement plans that empower AEs and SAs to confidently carry the Lakebase conversation even when the specialist is not present. \n  Market voice and thought leadership  – Develop an internal and external presence by contributing to global AMAs and internal forums, and by representing Databricks at key first- and third-pa",
+    "published_at": "2026-10-30T02:58:27-04:00",
+    "source_site": "Greenhouse",
+    "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924844002",
+    "fetched_at": "2026-10-31T01:20:33+00:00"
   },
   {
     "title": "Strategic DNB Hunter Account Executive (China)",
@@ -160,11 +182,11 @@
     "skills": [],
     "education": null,
     "experience": null,
-    "description": " SLSQ327R457  As a Strategic DNB Hunter Account Executive, your mission will be to acquire key strategic digital native enterprise within the Greater China Region. You know how to sell innovation and change and can guide deals forward to compress decision cycles. You love understanding a product in-depth and are passionate about communicating its value to customers and partners. Always prospecting for new opportunities, you will close new accounts while growing our business in existing accounts. You will report to the Director of Sales, Greater China. This position will be based in Singapore. \n  The impact you will have:  \n \n Prospect for new customers \n Assess your existing customers and develop a strategy to identify and engage all buying centers \n Use a solution approach to selling and creating value for customers \n Identify the most viable use cases in each account to maximize Databricks' impact \n Orchestrate and work with teams to maximize the impact of the Databrick ecosystem on your territory \n Build value with all engagements to promote successful negotiations and close \n Promote the Databricks enterprise cloud data platform \n Be customer-focused by delivering technical and business results using the Databricks Platform \n \n  What we look for:  \n \n Proven success in Digital Native Sales roles, ideally in Big Data, Cloud, or SaaS technology \n Solution and business-outcomes focused sales approach (Command of the Message, MEDDPIC, Challenger Sale) \n Ability to simply articulate intricate cloud & big data technologies and their business value for the customer \n Proven success and upward trajectory in whatever you have done \n Bachelors Degree and 7+ years of experience selling SaaS solutions to Enterprise Customers \n    About Databricks  \n  Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on  LinkedIn ,  X ,  YouTube , and  Instagram .   Benefits    At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click  here .   \n  Our Commitment to Diversity and Inclusion  \n At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. \n  Compliance  \n   If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.    ",
-    "published_at": "2026-10-06T06:35:23-04:00",
+    "description": " SLSQ327R457  As a Strategic DNB Hunter Account Executive, your mission will be to acquire key strategic digital native enterprise within the Greater China Region. You know how to sell innovation and change and can guide deals forward to compress decision cycles. You love understanding a product in-depth and are passionate about communicating its value to customers and partners. Always prospecting for new opportunities, you will close new accounts while growing our business in existing accounts. You will report to the Director of Sales, Greater China. This position will be based in Singapore. \n  The impact you will have:  \n \n Prospect for new customers \n Assess your existing customers and develop a strategy to identify and engage all buying centers \n Use a solution approach to selling and creating value for customers \n Identify the most viable use cases in each account to maximize Databricks' impact \n Orchestrate and work with teams to maximize the impact of the Databrick ecosystem on your territory \n Build value with all engagements to promote successful negotiations and close \n Promote the Databricks enterprise cloud data platform \n Be customer-focused by delivering technical and business results using the Databricks Platform \n \n  What we look for:  \n \n Proven success in Digital Native Sales roles, ideally in Big Data, Cloud, or SaaS technology \n Solution and business-outcomes focused sales approach (Command of the Message, MEDDPIC, Challenger Sale) \n Ability to simply articulate intricate cloud & big data technologies and their business value for the customer \n Proven success and upward trajectory in whatever you have done \n Bachelors Degree and 7+ years of experience selling SaaS solutions to Enterprise Customers \n Business proficiency in Mandarin and experience in the GCR territory are required to enable effective collaboration and understanding of client needs. The successful candidate will engage with the customers in Mandarin to conduct technical and business discussions, address sales challenges, and present clear value propositions and outcomes. \n   \n    About Databricks  \n  Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on  LinkedIn ,  X ,  YouTube , and  Instagram .   Benefits    At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click  here .   \n  Our Commitment to Diversity and Inclusion  \n At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. \n  Compliance  \n   If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.    ",
+    "published_at": "2026-10-30T02:57:39-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8644185002",
-    "fetched_at": "2026-10-30T01:29:30+00:00"
+    "fetched_at": "2026-10-31T01:20:33+00:00"
   },
   {
     "title": "Customer Success Manager (Scaled)",
@@ -185,7 +207,7 @@
     "published_at": "2026-10-28T13:44:05-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8153054",
-    "fetched_at": "2026-10-30T01:29:31+00:00"
+    "fetched_at": "2026-10-31T01:20:34+00:00"
   },
   {
     "title": "Enterprise Account Executive, Growth",
@@ -206,7 +228,7 @@
     "published_at": "2026-10-28T13:44:05-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=6740470",
-    "fetched_at": "2026-10-30T01:29:31+00:00"
+    "fetched_at": "2026-10-31T01:20:34+00:00"
   },
   {
     "title": "Enterprise Account Manager - OEM",
@@ -227,7 +249,7 @@
     "published_at": "2026-10-28T13:44:05-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=6829771",
-    "fetched_at": "2026-10-30T01:29:31+00:00"
+    "fetched_at": "2026-10-31T01:20:34+00:00"
   },
   {
     "title": "Principal Partner Specialist",
@@ -248,7 +270,7 @@
     "published_at": "2026-10-28T13:44:05-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8141592",
-    "fetched_at": "2026-10-30T01:29:31+00:00"
+    "fetched_at": "2026-10-31T01:20:34+00:00"
   },
   {
     "title": "Project Manager",
@@ -269,7 +291,7 @@
     "published_at": "2026-10-28T13:44:05-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8173798",
-    "fetched_at": "2026-10-30T01:29:31+00:00"
+    "fetched_at": "2026-10-31T01:20:34+00:00"
   },
   {
     "title": "Senior Solutions Architect",
@@ -298,7 +320,7 @@
     "published_at": "2026-10-28T13:44:05-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=7157100",
-    "fetched_at": "2026-10-30T01:29:31+00:00"
+    "fetched_at": "2026-10-31T01:20:34+00:00"
   },
   {
     "title": "Solutions Architect",
@@ -327,7 +349,7 @@
     "published_at": "2026-10-28T13:44:05-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8226040",
-    "fetched_at": "2026-10-30T01:29:31+00:00"
+    "fetched_at": "2026-10-31T01:20:34+00:00"
   },
   {
     "title": "Beijing Office Administrator",
@@ -344,7 +366,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7267406",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:35+00:00"
   },
   {
     "title": "Embedded Devices Software Solution Sales Manager (Taipei)",
@@ -363,7 +385,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7911759",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:35+00:00"
   },
   {
     "title": "Engineering Director, Devices Software Engineering",
@@ -382,7 +404,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7074861",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:35+00:00"
   },
   {
     "title": "Engineering Manager - Ubuntu Hardware Certification Quality and Test Engineering",
@@ -402,7 +424,7 @@
     "published_at": "2026-07-16T11:10:59-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5996326",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:35+00:00"
   },
   {
     "title": "IoT Field Engineer - China & Region",
@@ -421,7 +443,7 @@
     "published_at": "2026-07-16T11:10:59-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/2169848",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:35+00:00"
   },
   {
     "title": "Linux Devices Software Engineer",
@@ -444,30 +466,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5140562",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
-  },
-  {
-    "title": "Linux Enablement - Software Engineering Manager",
-    "company": "Canonical",
-    "company_type": "外企",
-    "location": "Office Based - Beijing, China",
-    "salary_raw": "面议",
-    "salary_min": null,
-    "salary_max": null,
-    "skills": [
-      "Python",
-      "PostgreSQL",
-      "Kubernetes",
-      "Linux",
-      "CI/CD"
-    ],
-    "education": null,
-    "experience": null,
-    "description": " Canonical's Device Delivery Team works with tier-1 OEM and ODM customers to pre-load Ubuntu Desktop and Ubuntu Core, bringing Ubuntu directly to millions of users. \n As a ​Software Engineering Manager​ you will lead and manage the software engineering team to deliver OEM enablement projects. This fast-paced environment requires excellent time management, deep knowledge of the Linux system​, low-level debugging, critical thinking, problem-solving skills and management ability. \n Key responsibilities \n \n Recruit, motivate, mentor, and enable your team to succeed in delivering quality products \n Set goals with the team; prioritize tasks, identify and measure team health indicators \n Maximise the results of team members and support their career growth \n Coordinate with project managers, HWE, QA and certification management \n Monitor projects from kickoff to post-mortem and handle escalations \n Communicate, understand, and resolve the technical challenge with OEMs, ODMs, SiPs, IHVs \n Prioritize customer requests globally \n Collaborate with product engineering teams (including Desktop, Foundations, Kernel, and Security) \n Provide leadership for methodologies, strategies, standards, tools, and best practices \n Must be able to travel to the EU, USA, China, and Taiwan \n \n Required skills and experience \n \n A Bachelor (or higher) degree in STEM, preferably computer science or software engineering \n Proven track record in technical roles with Linux, preferably Ubuntu or Debian \n Commitment to development and testing methodologies, and maintainable code quality \n Experience with management responsibilities \n Ability to work collaboratively in a team environment \n Ability to be productive in a globally distributed team through self-discipline and self-motivation \n Commitment and energy to deliver on schedule \n Strong English and Chinese language communication skills, both written and verbal \n \n Desirable skills and experience \n \n Making technical decisions for a team as a tech lead \n Software architecture and design experience \n Software development or operations experience with: Ubuntu - kernel and userspace, deb/snap packaging, QEMU/KVM, LXC/LXD, Containers, Python, Go, C, bash, Postgresql, Mongo, Kubernetes, OpenStack, Ceph, AI/ML \n Participation in open-source development projects \n Experience with CI/CD \n \n Canonical is an equal opportunity employer \n  Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the world’s computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.  \n #LI-ET1 #stack ",
-    "published_at": "2026-08-05T18:23:33-04:00",
-    "source_site": "Greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560182",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:35+00:00"
   },
   {
     "title": "Linux Enablement - Software Engineering Manager",
@@ -490,7 +489,30 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/3262042",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:35+00:00"
+  },
+  {
+    "title": "Linux Enablement - Software Engineering Manager",
+    "company": "Canonical",
+    "company_type": "外企",
+    "location": "Office Based - Beijing, China",
+    "salary_raw": "面议",
+    "salary_min": null,
+    "salary_max": null,
+    "skills": [
+      "Python",
+      "PostgreSQL",
+      "Kubernetes",
+      "Linux",
+      "CI/CD"
+    ],
+    "education": null,
+    "experience": null,
+    "description": " Canonical's Device Delivery Team works with tier-1 OEM and ODM customers to pre-load Ubuntu Desktop and Ubuntu Core, bringing Ubuntu directly to millions of users. \n As a ​Software Engineering Manager​ you will lead and manage the software engineering team to deliver OEM enablement projects. This fast-paced environment requires excellent time management, deep knowledge of the Linux system​, low-level debugging, critical thinking, problem-solving skills and management ability. \n Key responsibilities \n \n Recruit, motivate, mentor, and enable your team to succeed in delivering quality products \n Set goals with the team; prioritize tasks, identify and measure team health indicators \n Maximise the results of team members and support their career growth \n Coordinate with project managers, HWE, QA and certification management \n Monitor projects from kickoff to post-mortem and handle escalations \n Communicate, understand, and resolve the technical challenge with OEMs, ODMs, SiPs, IHVs \n Prioritize customer requests globally \n Collaborate with product engineering teams (including Desktop, Foundations, Kernel, and Security) \n Provide leadership for methodologies, strategies, standards, tools, and best practices \n Must be able to travel to the EU, USA, China, and Taiwan \n \n Required skills and experience \n \n A Bachelor (or higher) degree in STEM, preferably computer science or software engineering \n Proven track record in technical roles with Linux, preferably Ubuntu or Debian \n Commitment to development and testing methodologies, and maintainable code quality \n Experience with management responsibilities \n Ability to work collaboratively in a team environment \n Ability to be productive in a globally distributed team through self-discipline and self-motivation \n Commitment and energy to deliver on schedule \n Strong English and Chinese language communication skills, both written and verbal \n \n Desirable skills and experience \n \n Making technical decisions for a team as a tech lead \n Software architecture and design experience \n Software development or operations experience with: Ubuntu - kernel and userspace, deb/snap packaging, QEMU/KVM, LXC/LXD, Containers, Python, Go, C, bash, Postgresql, Mongo, Kubernetes, OpenStack, Ceph, AI/ML \n Participation in open-source development projects \n Experience with CI/CD \n \n Canonical is an equal opportunity employer \n  Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the world’s computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.  \n #LI-ET1 #stack ",
+    "published_at": "2026-08-05T18:23:33-04:00",
+    "source_site": "Greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560182",
+    "fetched_at": "2026-10-31T01:20:35+00:00"
   },
   {
     "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU",
@@ -514,7 +536,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5660661",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:35+00:00"
   },
   {
     "title": "PC Platforms Kernel Engineer - Ubuntu Linux",
@@ -535,7 +557,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5396437",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:35+00:00"
   },
   {
     "title": "Project Manager - Ubuntu Embedded Systems",
@@ -554,7 +576,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5422728",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:35+00:00"
   },
   {
     "title": "Python Engineer - Data Center Hardware Integration (Taipei)",
@@ -574,7 +596,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/4536726",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:36+00:00"
   },
   {
     "title": "Senior Ubuntu Embedded IoT System Engineer",
@@ -594,7 +616,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/6731174",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:36+00:00"
   },
   {
     "title": "Silicon Alliances Ecosystem Development Manager - APAC",
@@ -614,7 +636,7 @@
     "published_at": "2026-10-16T11:44:32-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5570923",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:36+00:00"
   },
   {
     "title": "Silicon Alliances Ecosystem Development Manager - Shanghai or Beijing",
@@ -631,7 +653,7 @@
     "published_at": "2026-10-16T11:44:32-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7561124",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:36+00:00"
   },
   {
     "title": "Software Engineer, Ubuntu Commercial Computers",
@@ -650,7 +672,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560784",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:36+00:00"
   },
   {
     "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
@@ -671,7 +693,7 @@
     "published_at": "2026-10-02T10:54:05-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7975990",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:36+00:00"
   },
   {
     "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
@@ -692,7 +714,7 @@
     "published_at": "2026-10-02T11:01:20-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/8248986",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:36+00:00"
   },
   {
     "title": "Taipei Office Administrator",
@@ -709,7 +731,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7364802",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:36+00:00"
   },
   {
     "title": "Ubuntu Enablement Engineer",
@@ -728,7 +750,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7102393",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:36+00:00"
   },
   {
     "title": "Ubuntu Enablement Engineer",
@@ -747,7 +769,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560823",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:36+00:00"
   },
   {
     "title": "Ubuntu Enablement - Software Engineering Manager",
@@ -770,7 +792,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/4605464",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:36+00:00"
   },
   {
     "title": "Ubuntu Linux Kernel Test Engineer",
@@ -795,7 +817,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7965671",
-    "fetched_at": "2026-10-30T01:29:33+00:00"
+    "fetched_at": "2026-10-31T01:20:36+00:00"
   },
   {
     "title": "Junior Developer - C++",
@@ -814,7 +836,7 @@
     "published_at": "2026-10-08T02:30:13-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.akunacapital.com/careers/job/6690496/?gh_jid=6690496",
-    "fetched_at": "2026-10-30T01:29:34+00:00"
+    "fetched_at": "2026-10-31T01:20:37+00:00"
   },
   {
     "title": "Junior Quantitative Researcher - Deep Learning (Time Series)",
@@ -837,7 +859,7 @@
     "published_at": "2026-10-08T02:30:47-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994",
-    "fetched_at": "2026-10-30T01:29:34+00:00"
+    "fetched_at": "2026-10-31T01:20:37+00:00"
   },
   {
     "title": "Quantitative Developer",
@@ -858,7 +880,7 @@
     "published_at": "2026-10-29T06:33:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.akunacapital.com/careers/job/8330722/?gh_jid=8330722",
-    "fetched_at": "2026-10-30T01:29:34+00:00"
+    "fetched_at": "2026-10-31T01:20:37+00:00"
   },
   {
     "title": "Senior Product Designer",
@@ -875,7 +897,7 @@
     "published_at": "2026-08-04T09:42:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8675713002?gh_jid=8675713002",
-    "fetched_at": "2026-10-30T01:29:41+00:00"
+    "fetched_at": "2026-10-31T01:20:44+00:00"
   },
   {
     "title": "Senior Product Manager",
@@ -892,7 +914,7 @@
     "published_at": "2026-08-04T09:21:41-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8675670002?gh_jid=8675670002",
-    "fetched_at": "2026-10-30T01:29:41+00:00"
+    "fetched_at": "2026-10-31T01:20:44+00:00"
   },
   {
     "title": "Senior Software Engineer, Android, Monetization",
@@ -911,7 +933,7 @@
     "published_at": "2026-08-19T06:34:46-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8702391002?gh_jid=8702391002",
-    "fetched_at": "2026-10-30T01:29:41+00:00"
+    "fetched_at": "2026-10-31T01:20:44+00:00"
   },
   {
     "title": "Senior Software Engineer, Backend, Monetization",
@@ -932,7 +954,7 @@
     "published_at": "2026-08-19T06:34:01-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8702288002?gh_jid=8702288002",
-    "fetched_at": "2026-10-30T01:29:41+00:00"
+    "fetched_at": "2026-10-31T01:20:44+00:00"
   },
   {
     "title": "Senior Software Engineer, iOS, Growth",
@@ -949,7 +971,7 @@
     "published_at": "2026-08-19T06:31:20-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8693210002?gh_jid=8693210002",
-    "fetched_at": "2026-10-30T01:29:41+00:00"
+    "fetched_at": "2026-10-31T01:20:44+00:00"
   },
   {
     "title": "Senior Software Engineer, iOS, Monetization",
@@ -968,7 +990,7 @@
     "published_at": "2026-08-19T06:30:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8701378002?gh_jid=8701378002",
-    "fetched_at": "2026-10-30T01:29:41+00:00"
+    "fetched_at": "2026-10-31T01:20:44+00:00"
   },
   {
     "title": "Software Engineer II, iOS, Growth",
@@ -985,7 +1007,7 @@
     "published_at": "2026-08-19T06:32:30-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8612120002?gh_jid=8612120002",
-    "fetched_at": "2026-10-30T01:29:41+00:00"
+    "fetched_at": "2026-10-31T01:20:44+00:00"
   },
   {
     "title": "Analyst, Business Development",
@@ -999,10 +1021,10 @@
     "education": null,
     "experience": null,
     "description": "    About AppLovin   \n  AppLovin  makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end advertising solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit:  www.applovin.com . \n  To deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others.     About the Team  \n    The AppLovin Business Development team develops and sustains partnerships with mobile game and application developers. The team is customer-facing and works closely with mobile platform publishers and developers. Coupling strategic sales, strong negotiation skills, a deep knowledge of industry trends along with market analyses, the BD team transforms new opportunities into long term relationships and endurable revenues. \n   \n  Please note that this role requires onsite presence at our Beijing office.  \n   \n  Responsibilities  \n \n     You will interface, negotiate and develop high-impact relationships with mobile game & app developers to build business partnerships and support company growth on both User Acquisition and Ad Monetization in GCR.  ●Collaborate directly with gaming app developers to improve their advertising campaign performance as well as monetization stacks, troubleshoot and resolve account issues in a timely manner. ● Use data to guide strategy and implementation of AppLovin solutions, become an expert in AppLovin products and solutions. ● Liaise with our internal technical & operation teams regarding any developer-focused technical queries, and provide customer support. ● Leverage competitive analysis and understand the mobile advertising landscape, able to distill complex messages into simple narrative and action on it. \n \n   \n  Basic Qualifications  \n \n     1-3 years experience in an Account Management/Business Development/Sales role, in mobile advertising, gaming, or relevant industries is essential. ● Must be fluent in Chinese and English. ● Exceptional client management skills, with proven success in business/client retention and business growth. ● Must be data-driven and detail oriented, with strong analytical and negotiation skills. ● Proactive problem solving capabilities and outstanding interpersonal skills. ● Deep seeded curiosity to dive into issues, thoroughly understand them and come up with creative solutions - Proactive problem solving capabilities or a joy for solving puzzles. \n A highly developed inner motor and hunger to grow. \n BA/BS degree or equivalent. \n \n   \n  Preferred Qualifications  \n \n A passion for technology and a curiosity to keep learning. We value people who stay ahead of the curve — whether that means experimenting with the latest AI tools to work smarter, geeking out over a new gadget, mastering Excel, or having a background in computer science. As a high-tech, big data company, comfort with technology and collaboration with developers is part of the job. ● Being a fan of mobile games. You’ll be working with app developers on their apps, especially on games, so having a passion for the vertical that you’re working on is a benefit. \n Having worked at or founded a start-up is a plus. We’re always looking for people who were key contributors in a fast paced environment. \n \n      AppLovin is proud to be an equal opportunity employer that is committed to inclusion and diversity. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status, or other legally protected characteristics. Learn more about EEO rights as an applicant  here . \n   \n If you need assistance and/or a reasonab",
-    "published_at": "2026-10-15T02:49:07-04:00",
+    "published_at": "2026-10-30T10:13:44-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4721840006?gh_jid=4721840006",
-    "fetched_at": "2026-10-30T01:29:42+00:00"
+    "fetched_at": "2026-10-31T01:20:45+00:00"
   },
   {
     "title": "Business Development Associate (Consumer)",
@@ -1016,10 +1038,10 @@
     "education": null,
     "experience": null,
     "description": "    About AppLovin   \n  AppLovin  makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end advertising solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit:  www.applovin.com . \n  To deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others.     About AppLovin’s Consumer Team  \n AppLovin is a leading global mobile technology company empowering app developers and e-commerce brands to grow, monetize, and scale their businesses through cutting-edge advertising, user acquisition, and in-app monetization solutions. With a strong footprint across the Asia-Pacific region, our APAC team focuses on unlocking high-growth opportunities within the e-commerce and non-gaming app sectors, partnering with top industry players to deliver data-driven, scalable growth results. \n AppLovin's global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our customers around the world. We are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others. \n We are powering the next wave of eCommerce and non-gaming Apps growth. Specializing in performance advertising, we help  global brands and merchants, with a strong focus on Chinese cross-border eCommerce D2C companies and non-gaming Apps advertisers,  achieve profitable growth by connecting them to over 1 billion daily users across thousands of the world’s top mobile games. This scale is driven by AppLovin’s advertising platform, which enables businesses of all sizes to find their ideal customers and maximize ROI. \n  Please note that this role requires onsite presence at our Shanghai office (remote work in Guangzhou and Shenzhen).  \n  About the Role  \n We are seeking a driven, analytical, and results-focused  Business Development Associate  to join our fast-paced and expanding Consumer (eCommerce & Apps) team in  Shanghai/Guangzhou/Shenzhen . This is a unique opportunity to contribute to a new business line from the ground up and gain hands-on experience at the intersection of performance marketing and business development within the rapidly growing Consumer (eCommerce & Apps) space. \n In this client-facing role, you’ll work with the team to help non-gaming apps unlock growth through AppLovin’s marketing platform. You’ll help build relationships with clients, support campaign optimization, and contribute to initiatives that drive business outcomes. You’ll also work closely with experienced business development colleagues and product experts to support the adoption of our Consumer advertising solution in the market. \n  Responsibilities  \n \n Client Development & Expansion: Identify and research potential clients in the APAC e-commerce and non-gaming app verticals. Support the sales cycle, including lead generation, needs analysis, solution presentations, negotiation, and contract closing, with guidance from experienced team members. Help identify growth opportunities within existing accounts. \n Regional Business Growth: Support the execution of localized sales and BD strategies for APAC markets. Research regional market trends, competitor activities, and the needs of e-commerce and non-gaming app businesses to identify potential growth opportunities. \n Client Relationship Management: Support day-to-day client communication and help build long-term relationships. Assist with business reviews, communicate product updates and industry insights, and work with the team to address clients’ user acquisition and business growth needs. \n Cross-tea",
-    "published_at": "2026-10-21T06:54:43-04:00",
+    "published_at": "2026-10-30T10:11:44-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4681211006?gh_jid=4681211006",
-    "fetched_at": "2026-10-30T01:29:42+00:00"
+    "fetched_at": "2026-10-31T01:20:45+00:00"
   },
   {
     "title": "Manager, Business Development - Consumer",
@@ -1033,10 +1055,10 @@
     "education": null,
     "experience": null,
     "description": "    About AppLovin   \n  AppLovin  makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end advertising solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit:  www.applovin.com . \n  To deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others.     About AppLovin’s Consumer Team  \n We are powering the next wave of consumer growth. Specializing in performance advertising, we help global brands and leading consumer apps across verticals such as e-Commerce / DTC, fintech, meal delivery, ride hailing, video streaming and more achieve profitable growth by connecting them to over 1 billion daily users across thousands of the world’s top mobile games apps. This scale is driven by AppLovin’s advertising platform, which enables businesses of all sizes to find their ideal customers and maximize ROI. \n AppLovin’s global team combines people from different backgrounds and perspectives, united by a shared ambition to always pursue excellence and win together in a fast-moving market. We are intentional about the culture we are building and seek candidates who are outstanding in their own right while remaining deeply committed to the success of others. \n   \n  Please note that this role requires onsite presence at our Beijing or Shanghai office.  \n   \n  About the Role  \n We are seeking a driven, analytical, and results-focused  Manager, Business Development  to join our fast-paced and expanding Consumer (eCommerce & Apps) team in Beijing or Shanghai. This is a unique opportunity to shape a new business line from the ground up and work at the intersection of performance marketing and business development within the rapidly growing Consumer(eCommerce & Apps) space. \n In this client-facing role, you’ll partner with eCommerce brands and non-gaming Apps to unlock growth by leveraging AppLovin’s marketing platform. You’ll build strong relationships with key stakeholders, help them optimize campaigns, and lead strategic initiatives that drive business outcomes. You’ll also work closely with AppLovin leadership and product experts to evolve our Consumer advertising solution and drive adoption in the market. \n   \n  Responsibilities  \n \n Own the growth and commercial outcomes of a portfolio of mid-to-large eCommerce clients, with clear accountability for retention, expansion, and revenue growth. \n Manage the full client lifecycle—from prospecting and qualification through onboarding, campaign scaling, business reviews, renewal, and expansion. \n Serve as the primary strategic contact for senior client stakeholders, including Heads of Growth, Heads of Marketing, and other decision-makers. \n Develop and execute account strategies that connect AppLovin’s platform capabilities with each client’s broader growth and profitability objectives. \n Identify, structure, negotiate, and close expansion opportunities and new business within the assigned market or portfolio. \n Lead complex performance discussions and escalations, mobilizing Product, Operations, Technical, Creative, Data Science, and leadership partners to deliver solutions. \n Synthesize recurring client feedback, market trends, and competitive insights, and provide actionable recommendations to improve product positioning, sales messaging, and account strategy. \n Maintain a disciplined pipeline and forecast, communicate risks and opportunities early, and align cross-functional support around the highest-impact opportunities. \n Raise the team’s execution standard by sharing best practices and providing deal or account guidance to Senior Analysts and Analysts. \n \n  Basic Qualificatio",
-    "published_at": "2026-10-20T06:33:09-04:00",
+    "published_at": "2026-10-30T10:13:48-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4723008006?gh_jid=4723008006",
-    "fetched_at": "2026-10-30T01:29:42+00:00"
+    "fetched_at": "2026-10-31T01:20:45+00:00"
   },
   {
     "title": "Sr. Analyst, Business Development - Consumer",
@@ -1050,10 +1072,10 @@
     "education": null,
     "experience": null,
     "description": "    About AppLovin   \n  AppLovin  makes technologies that help businesses of every size connect to their ideal customers. The company provides end-to-end advertising solutions for businesses to reach, monetize and grow their global audiences. For more information about AppLovin, visit:  www.applovin.com . \n  To deliver on this mission, our global team is composed of team members with life experiences, backgrounds, and perspectives that mirror our developers and customers around the world. At AppLovin, we are intentional about the team and culture we are building, seeking candidates who are outstanding in their own right and also demonstrate their support of others.     About AppLovin’s Consumer Team  \n We are powering the next wave of consumer growth. Specializing in performance advertising, we help global brands and leading consumer apps across verticals such as e-Commerce / DTC, fintech, meal delivery, ride hailing, video streaming and more achieve profitable growth by connecting them to over 1 billion daily users across thousands of the world’s top mobile games apps. This scale is driven by AppLovin’s advertising platform, which enables businesses of all sizes to find their ideal customers and maximize ROI. \n AppLovin’s global team combines people from different backgrounds and perspectives, united by a shared ambition to always pursue excellence and win together in a fast-moving market. We are intentional about the culture we are building and seek candidates who are outstanding in their own right while remaining deeply committed to the success of others. \n   \n  Please note that this role requires onsite presence at our Beijing or Shanghai office.  \n   \n  About the Role  \n We are seeking a driven, analytical, and results-focused  Sr. Analyst, Business Development  to join our fast-paced and expanding Consumer (eCommerce & Apps) team in Beijing or Shanghai. This is a unique opportunity to shape a new business line from the ground up and work at the intersection of performance marketing and business development within the rapidly growing Consumer(eCommerce & Apps) space. \n In this client-facing role, you’ll partner with eCommerce brands and non-gaming Apps to unlock growth by leveraging AppLovin’s marketing platform. You’ll build strong relationships with key stakeholders, help them optimize campaigns, and lead strategic initiatives that drive business outcomes. You’ll also work closely with AppLovin leadership and product experts to evolve our Consumer advertising solution and drive adoption in the market. \n   \n  Responsibilities  \n \n Own the onboarding, campaign launch, and day-to-day growth of a portfolio of eCommerce clients, educating partners on AppLovin’s Consumer growth solution. \n Develop data-backed account plans based on each partner’s business objectives, growth priorities, and performance targets. \n Launch and optimize campaigns by applying best practices across measurement, creative strategy, testing, and performance targets. \n Define and analyze key metrics, identify performance issues, and translate complex data into clear recommendations and actions. \n Build trusted relationships with client stakeholders and communicate campaign performance, product updates, and growth opportunities effectively. \n Coordinate with Product, Operations, Technical, Creative, and other Business Development teams to resolve account issues and execute growth initiatives. \n Identify expansion opportunities within existing accounts and independently lead routine commercial discussions, escalating complex negotiations when appropriate. \n Share learnings and best practices across the regional Business Development team. \n \n  Basic Qualifications  \n \n 3–5 years of professional experience in account management, business development, sales, performance marketing, media buying, digital strategy, or a related field. \n Bachelor’s degree in a related field or equivalent practical experience. \n Demonstrated ability to manage client relationships",
-    "published_at": "2026-10-21T06:47:08-04:00",
+    "published_at": "2026-10-30T10:13:55-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4723009006?gh_jid=4723009006",
-    "fetched_at": "2026-10-30T01:29:42+00:00"
+    "fetched_at": "2026-10-31T01:20:45+00:00"
   },
   {
     "title": "Senior Account Manager, Demand",
@@ -1070,7 +1092,7 @@
     "published_at": "2026-10-28T18:38:22-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://liftoff.io/job/8328903?gh_jid=8328903",
-    "fetched_at": "2026-10-30T01:29:43+00:00"
+    "fetched_at": "2026-10-31T01:20:46+00:00"
   },
   {
     "title": "Expression of Interest: Senior Growth Manager (Ad Sales)",
@@ -1089,7 +1111,7 @@
     "published_at": "2026-10-08T19:10:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/moloco/jobs/5687340003",
-    "fetched_at": "2026-10-30T01:29:44+00:00"
+    "fetched_at": "2026-10-31T01:20:47+00:00"
   },
   {
     "title": "Senior New Business Manager",
@@ -1108,7 +1130,7 @@
     "published_at": "2026-10-26T23:10:42-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/moloco/jobs/8042407003",
-    "fetched_at": "2026-10-30T01:29:44+00:00"
+    "fetched_at": "2026-10-31T01:20:47+00:00"
   },
   {
     "title": "Brand & Communications Manager - GCR",
@@ -1125,7 +1147,7 @@
     "published_at": "2026-03-26T04:48:25-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8480742002?gh_jid=8480742002",
-    "fetched_at": "2026-10-30T01:29:45+00:00"
+    "fetched_at": "2026-10-31T01:20:48+00:00"
   },
   {
     "title": "Customer Success Associate",
@@ -1142,7 +1164,7 @@
     "published_at": "2026-10-29T04:59:49-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8923149002?gh_jid=8923149002",
-    "fetched_at": "2026-10-30T01:29:45+00:00"
+    "fetched_at": "2026-10-31T01:20:48+00:00"
   },
   {
     "title": "General Manager, Greater China Region",
@@ -1159,7 +1181,7 @@
     "published_at": "2026-09-17T03:27:55-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8816080002?gh_jid=8816080002",
-    "fetched_at": "2026-10-30T01:29:45+00:00"
+    "fetched_at": "2026-10-31T01:20:48+00:00"
   },
   {
     "title": "Growth Marketing Manager, GCR",
@@ -1176,7 +1198,7 @@
     "published_at": "2026-10-20T06:34:36-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8793780002?gh_jid=8793780002",
-    "fetched_at": "2026-10-30T01:29:45+00:00"
+    "fetched_at": "2026-10-31T01:20:48+00:00"
   },
   {
     "title": "Associate Account Director (DTC Outbound)",
@@ -1190,10 +1212,10 @@
     "education": null,
     "experience": null,
     "description": "  The Trade Desk is a global technology company and the world’s leading independent platform for digital advertising, with over 3,000 employees across more than 30 offices. Our technology helps advertisers reach the right audiences across the open internet — from streaming TV and podcasts to mobile apps, news, and more.    Advertising powers the content people love. By making it more transparent, effective, and responsible, we help support trusted journalism, quality entertainment, and creators worldwide. The world’s brands and agencies rely on us to reach their customers and grow their businesses responsibly.   The scale of our platform brings unique technical challenges — from processing massive datasets in real time to building systems that operate reliably on a global scale. When you work here, your impact is worldwide. We welcome diverse perspectives, encourage curiosity, and build teams that learn from one another. If you’re driven to solve meaningful challenges, we’d love to meet you.   WHO WE ARE LOOKING FOR \n We are seeking a highly strategic, commercially minded, and technically savvy Associate Account Director to oversee a premier portfolio of our most valuable brand-direct accounts. This role is designed for a senior client services professional who thrives on strategic partnership, executional excellence, and solving complex business challenges. The ideal candidate is a trusted advisor who can influence senior stakeholders, drive client success, and identify opportunities to grow long-term partnerships. \n WHAT YOU WILL BE DOING \n 1. Strategic Client Partnership & Executional Excellence \n \n Executive-Level Advisory: Serve as a trusted strategic advisor to senior client stakeholders and their partner ecosystem, translating business objectives and market insights into high-impact media strategies that drive measurable outcomes. \n Strategic Relationship Management: Build and deepen executive-level relationships, confidently navigating complex account dynamics, managing ambiguity, and resolving challenging situations with maturity, sound judgment, and strong negotiation skills. \n Executional Excellence: Lead flawless campaign execution in a fast-paced environment through exceptional project management, prioritization, and operational rigor, ensuring the highest level of client satisfaction. \n Platform & Industry Expertise: Maintain deep hands-on expertise across platform capabilities and industry best practices, proactively identifying optimization opportunities and providing strategic recommendations to clients. \n \n 2. Commercial Growth & Portfolio Leadership \n \n Drive Client Growth: Own and grow a portfolio of strategic accounts by identifying opportunities for retention, expansion, and increased platform adoption aligned with clients' evolving business objectives. \n Cross-Functional Partnership: Partner closely with Business Development, Trading, Measurement, and Product teams to onboard strategic customers, unlock new opportunities, and deliver integrated client solutions. \n Strategic Account Planning: Develop long-term account strategies that strengthen client partnerships, increase business impact, and position The Trade Desk as a trusted strategic partner. \n \n WHAT YOU BRING TO THE TABLE \n \n Bachelor's degree or above. \n At least 8 years of experience in digital advertising client facing role, with a proven track record of growing strategic accounts and building long-term client partnerships. \n Strong commercial acumen with the ability to identify growth opportunities and influence business outcomes. \n Exceptional analytical, troubleshooting, and problem-solving skills, with the ability to collaborate effectively across cross-functional teams in a fast-paced environment. \n Excellent communication, presentation, and stakeholder management skills, with demonstrated ability to influence senior decision-makers. \n Hands-on expertise in programmatic advertising (DSP, SSP, DMP, MMP, Martech, etc.) or experience in bran",
-    "published_at": "2026-10-23T03:54:42-04:00",
+    "published_at": "2026-10-30T09:03:39-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5160619007",
-    "fetched_at": "2026-10-30T01:29:47+00:00"
+    "fetched_at": "2026-10-31T01:20:50+00:00"
   },
   {
     "title": "Senior Technical Sourcer, APAC (Contractor)",
@@ -1212,7 +1234,7 @@
     "published_at": "2026-10-04T03:14:19-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5256388007",
-    "fetched_at": "2026-10-30T01:29:47+00:00"
+    "fetched_at": "2026-10-31T01:20:50+00:00"
   },
   {
     "title": "Sr Accountant",
@@ -1226,10 +1248,10 @@
     "education": null,
     "experience": null,
     "description": "  The Trade Desk is a global technology company and the world’s leading independent platform for digital advertising, with over 3,000 employees across more than 30 offices. Our technology helps advertisers reach the right audiences across the open internet — from streaming TV and podcasts to mobile apps, news, and more.    Advertising powers the content people love. By making it more transparent, effective, and responsible, we help support trusted journalism, quality entertainment, and creators worldwide. The world’s brands and agencies rely on us to reach their customers and grow their businesses responsibly.   The scale of our platform brings unique technical challenges — from processing massive datasets in real time to building systems that operate reliably on a global scale. When you work here, your impact is worldwide. We welcome diverse perspectives, encourage curiosity, and build teams that learn from one another. If you’re driven to solve meaningful challenges, we’d love to meet you.    Who we are  \n The Trade Desk is changing the way global brands and their agencies advertise to audiences around the world. How? With a media-buying platform that helps brands deliver a more insightful and relevant ad experience for consumers — and sets a new standard for global reach, accuracy, and transparency. We are proud of the culture we have built. We value the unique experiences and perspectives that each person brings to The Trade Desk, and we are committed to fostering inclusive spaces where everyone can bring their authentic selves to work every day. \n So if you’re talented, driven, creative, and hungry to join a dynamic, globally-connected team, then we want to talk! \n The Trade Desk is seeking a China country specialist at the Senior Accountant level based in our Shanghai office. Reporting to the Assistant Controller, a successful candidate will have a good understanding of financial accounting and China compliance and tax requirements, be hands-on in resolving accounting operation issues and able to provide solutions drawing on past experiences. The Senior Accountant will work as an individual contributor and collaborate with other stakeholders (e.g., stakeholders within the organization, external third-party consultants, external auditors, etc.) \n  What you’ll do   \n \n Perform month end close tasks including but not limited to, preparation of journal entries for cash activities, accruals, reserves, intercompany transactions and other business transactions, account reconciliations and reporting under US GAAP and China GAAP for China legal entities. \n Collect, compile, verify and analyze information required for the preparation of statutory and compliance reports, including preparation or review of financial statements, analytical reports and regulatory or tax filings (i.e. VAT and CIT declarations). \n Manage third party external service providers that provide statutory compliance, tax consultancy, treasury, and statutory audit. \n Act as the first point of contact for local tax authorities in China and respond to their requests in timely manner. \n Collaborate with accounting operations functions, including credit and collections, accounts payable, payroll and stock admin teams, to provide country-level support. \n Act as a finance business partner for business, engineering and support teams in China, assisting internal stakeholders while escalating concerns to appropriate levels of the controllership organization. \n Develop initiatives or takes on duties in process improvement and reporting enhancement projects with the goal of promoting efficiency, effective customer service and/or improved employee relations. \n Builds strong working relationships with internal and external stakeholders, with the ability to steer through organizational mazes to get things done. \n Understand organizational processes and make recommendations when adopting global standards to local practices. \n Operate as a country financial liaison providing e",
-    "published_at": "2026-09-28T23:06:57-04:00",
+    "published_at": "2026-10-30T09:03:10-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5139683007",
-    "fetched_at": "2026-10-30T01:29:47+00:00"
+    "fetched_at": "2026-10-31T01:20:50+00:00"
   },
   {
     "title": "VP, Greater China Region (GCR)",
@@ -1246,7 +1268,7 @@
     "published_at": "2026-10-28T19:45:15-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5278873007",
-    "fetched_at": "2026-10-30T01:29:47+00:00"
+    "fetched_at": "2026-10-31T01:20:50+00:00"
   },
   {
     "title": "IT Support Analyst",
@@ -1265,7 +1287,7 @@
     "published_at": "2026-10-29T21:16:43-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8335814",
-    "fetched_at": "2026-10-30T01:30:08+00:00"
+    "fetched_at": "2026-10-31T01:21:11+00:00"
   },
   {
     "title": "North Asia Director Sales",
@@ -1282,7 +1304,7 @@
     "published_at": "2026-10-27T01:34:04-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7417625",
-    "fetched_at": "2026-10-30T01:30:08+00:00"
+    "fetched_at": "2026-10-31T01:21:11+00:00"
   },
   {
     "title": "Sr. Staff Engineer, Data Engineering",
@@ -1311,7 +1333,7 @@
     "published_at": "2026-09-24T13:27:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8184639",
-    "fetched_at": "2026-10-30T01:30:08+00:00"
+    "fetched_at": "2026-10-31T01:21:11+00:00"
   },
   {
     "title": "Sr. Staff Engineer, Endpoint Security",
@@ -1332,7 +1354,7 @@
     "published_at": "2026-09-24T13:27:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8185095",
-    "fetched_at": "2026-10-30T01:30:08+00:00"
+    "fetched_at": "2026-10-31T01:21:11+00:00"
   },
   {
     "title": "Staff Engineer, AI Gateway",
@@ -1361,7 +1383,7 @@
     "published_at": "2026-09-24T13:27:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8211204",
-    "fetched_at": "2026-10-30T01:30:08+00:00"
+    "fetched_at": "2026-10-31T01:21:11+00:00"
   },
   {
     "title": "Staff Engineer, CASB API",
@@ -1394,7 +1416,7 @@
     "published_at": "2026-10-05T01:12:17-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8038887",
-    "fetched_at": "2026-10-30T01:30:08+00:00"
+    "fetched_at": "2026-10-31T01:21:11+00:00"
   },
   {
     "title": "Staff Machine Learning Scientist",
@@ -1420,7 +1442,7 @@
     "published_at": "2026-10-28T22:58:12-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8329534",
-    "fetched_at": "2026-10-30T01:30:08+00:00"
+    "fetched_at": "2026-10-31T01:21:11+00:00"
   },
   {
     "title": "Staff / Sr. SDET , AI Gateway",
@@ -1447,7 +1469,7 @@
     "published_at": "2026-10-28T03:23:45-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8168624",
-    "fetched_at": "2026-10-30T01:30:08+00:00"
+    "fetched_at": "2026-10-31T01:21:11+00:00"
   },
   {
     "title": "Staff / Sr. Staff Engineer, AI Gateway",
@@ -1474,7 +1496,7 @@
     "published_at": "2026-10-28T01:24:16-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8171690",
-    "fetched_at": "2026-10-30T01:30:08+00:00"
+    "fetched_at": "2026-10-31T01:21:11+00:00"
   },
   {
     "title": "Staff / Sr. Staff Engineer, Data Engineering",
@@ -1499,7 +1521,7 @@
     "published_at": "2026-10-23T15:29:28-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8319243",
-    "fetched_at": "2026-10-30T01:30:08+00:00"
+    "fetched_at": "2026-10-31T01:21:11+00:00"
   },
   {
     "title": "Senior Developer",
@@ -1522,10 +1544,10 @@
     "education": null,
     "experience": null,
     "description": " \n \n Senior Software Developers collaborate with Business and Quality Analysts, Designers, Project Managers and more to design software solutions that will create meaningful change for our clients. They listen thoughtfully to understand the context of a business problem and write clean and iterative code to deliver a powerful end result whilst consistently advocating for better engineering practices. By balancing strong opinions with a willingness to find the right answer, Senior Software Developers bring integrity to technology, ensuring all voices are heard. \n For a team to thrive, it needs collaboration and room for healthy, respectful debate. Senior Developers are the technologists who cultivate this environment while driving teams toward delivering on an aspirational tech vision and acting as mentors for more junior-level consultants. You will leverage deep technical knowledge to solve complex business problems and proactively assess your team’s health, code quality and nonfunctional requirements. \n \n Job responsibilities \n \n \n You will learn and adopt best practices like writing clean and reusable code using TDD, pair programming and design patterns \n You will use and advocate for continuous delivery practices to deliver high-quality software as well as value to end customers as early as possible \n You will work in collaborative, value-driven teams to build innovative customer experiences for our clients \n You will create large-scale distributed systems out of microservices \n You will collaborate with a variety of teammates to build features, design concepts and interactive prototypes and ensure best practices and UX specifications are embedded along the way. \n You will apply the latest technology thinking from our  Technology Radar  to solve client problems \n You will efficiently utilize DevSecOps tools and practices to build and deploy software, advocating devops culture and shifting security left in development \n You will oversee or take part in the entire cycle of software consulting and delivery from ideation to deployment and everything in between \n You will act as a mentor for less-experienced peers through both your technical knowledge and leadership skills \n \n \n Job qualifications \n \n Technical Skills \n \n \n You have experience using one or more development languages (Java, Kotlin, JavaScript, TypeScript, Ruby, C#, etc.) with experience in Object-Oriented programming \n You can skillfully write high-quality, well-tested code and you are comfortable with Object-Oriented programming \n You are comfortable with Agile methodologies, such as Extreme Programming (XP), Scrum and/or Kanban \n You have a good awareness of TDD, continuous integration and continuous delivery approaches/tools \n Bonus points if you have working knowledge of cloud technology such as AWS, Azure, Kubernetes and Docker \n \n \n Professional Skills \n \n \n You enjoy influencing others and always advocate for technical excellence while being open to change when needed \n Presence in the external tech community: you willingly share your expertise with others via speaking engagements, contributions to open source, blogs and more \n You’re resilient in ambiguous situations and can approach challenges from multiple perspectives \n \n \n \n Other things to know \n \n Learning & Development \n \n There is no one-size-fits-all career path at Thoughtworks: however you want to develop your career is entirely up to you. But we also balance autonomy with the strength of our cultivation culture. This means your career is supported by interactive tools, numerous development programs and teammates who want to help you grow. We see value in helping each other be our best and that extends to empowering our employees in their career journeys. \n \n \n Responsible Use of AI in Recruitment \n \n At Thoughtworks, we use AI tools to support our recruitment team with administrative tasks such as drafting communications, scheduling interviews and writing job descriptions.  Crucially, our AI to",
-    "published_at": "2026-10-28T06:09:12-04:00",
+    "published_at": "2026-10-30T11:10:43-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.thoughtworks.com/careers/jobs/8330381?gh_jid=8330381",
-    "fetched_at": "2026-10-30T01:30:09+00:00"
+    "fetched_at": "2026-10-31T01:21:12+00:00"
   },
   {
     "title": "Software Developer",
@@ -1546,10 +1568,10 @@
     "education": null,
     "experience": null,
     "description": " \n \n Software Developers collaborate with Business and Quality Analysts, Designers, Project Managers and more to design software solutions that will create meaningful change for our clients. They listen thoughtfully to understand the context of a business problem and write clean and iterative code to deliver a powerful end result. By balancing strong opinions with a willingness to find the right answer, Software Developers bring integrity to technology, ensuring all voices are heard. \n At Thoughtworks, we believe in going above and beyond the standard and are committed to delivering best-in-class solutions that exceed our clients' expectations. Our standard engineering and delivery practices reflect our commitment to quality, and our team is always looking to innovate and improve. \n \n Job responsibilities \n \n \n You will learn and adopt best practices like writing clean and reusable code using TDD, pair programming and design patterns \n You will use continuous delivery practices as needed to deliver high-quality software and value to end customers \n You will work in collaborative, value-driven teams to build innovative customer experiences for our clients \n You will collaborate with a variety of teammates to build features, design concepts and interactive prototypes and ensure best practices and UX specifications are embedded along the way \n You will partner with other technologists from cross-functional teams advocating and demonstrating DevOps culture \n You will take ownership and accountability beyond individual deliverables, always pushing the envelope in order to deliver awesome results for our clients \n You will learn, digest and subsequently apply the latest technology thinking from our  Technology Radar  to solve client problems \n \n \n Job qualifications \n \n Technical Skills \n \n \n You have two or more years* of experience \n You have experience using one or more development languages (Java, Kotlin, React, TypeScript etc.) with experience in Object-Oriented programming \n You can write clean, high-quality code in a variety of languages and are also able to spot (and improve) bad code \n You are familiar with Agile, Lean and/or Continuous Delivery \n You have a good awareness of TDD, continuous integration and continuous delivery approaches/tools \n Bonus points if you have knowledge of cloud technology such as AWS, Docker or Kubernetes \n \n \n Professional Skills \n \n \n You thrive in a collaborative, non-hierarchical environment that values transparency, openness, feedback and change \n You have a passion for learning and sharing knowledge as well as a desire to create the right solutions for business problems \n You’re resilient in ambiguous situations and can approach challenges from multiple perspectives \n You're fluent in English, with the ability to handle full English conversations and job interviews seamlessly.（Must have) \n \n \n \n  *For candidates with less than two years of experience,    please visit the Grads and career changers page on our careers site.   \n \n \n Other things to know \n \n Learning & Development \n \n There is no one-size-fits-all career path at Thoughtworks: however you want to develop your career is entirely up to you. But we also balance autonomy with the strength of our cultivation culture. This means your career is supported by interactive tools, numerous development programs and teammates who want to help you grow. We see value in helping each other be our best and that extends to empowering our employees in their career journeys. \n \n \n Responsible Use of AI in Recruitment \n \n At Thoughtworks, we use AI tools to support our recruitment team with administrative tasks such as drafting communications, scheduling interviews and writing job descriptions.  Crucially, our AI tools do not screen, assess, rank or make hiring decisions. Every application is reviewed by our team and all selection decisions are made exclusively by our interviewers and hiring managers.  We are committed to fairness and responsible AI.",
-    "published_at": "2026-10-29T05:19:32-04:00",
+    "published_at": "2026-10-30T11:10:44-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.thoughtworks.com/careers/jobs/8330382?gh_jid=8330382",
-    "fetched_at": "2026-10-30T01:30:09+00:00"
+    "fetched_at": "2026-10-31T01:21:12+00:00"
   },
   {
     "title": "Campus AI/ML Researcher (Intern)",
@@ -1573,7 +1595,7 @@
     "published_at": "2026-08-28T07:28:48-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027938",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Campus C++ Software Engineer (Intern)",
@@ -1594,7 +1616,7 @@
     "published_at": "2026-10-06T10:25:10-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027860",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Campus Python Software Engineer (Intern)",
@@ -1618,7 +1640,7 @@
     "published_at": "2026-10-06T10:21:01-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Campus Quantitative Researcher (Intern)",
@@ -1639,7 +1661,7 @@
     "published_at": "2026-08-28T07:27:49-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern)",
@@ -1660,7 +1682,7 @@
     "published_at": "2026-08-28T07:26:21-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Campus Quantitative Trader (Intern)",
@@ -1677,7 +1699,7 @@
     "published_at": "2026-08-28T07:28:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Data Scientist | Post Trade Analytics",
@@ -1699,7 +1721,7 @@
     "published_at": "2026-10-12T05:30:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7483202",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Deep Learning Researcher | Trading Team",
@@ -1721,7 +1743,7 @@
     "published_at": "2026-08-08T01:01:15-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6603013",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "HR Operations Specialist",
@@ -1738,7 +1760,7 @@
     "published_at": "2026-09-14T23:03:44-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8045867",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Lead Data Analyst",
@@ -1758,7 +1780,7 @@
     "published_at": "2026-10-26T04:55:31-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8236517",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Leadership and Professional Development Specialist | Talent Development",
@@ -1775,7 +1797,7 @@
     "published_at": "2026-08-08T01:01:40-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7946175",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Python Software Engineer",
@@ -1795,7 +1817,7 @@
     "published_at": "2026-09-09T03:38:11-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8104832",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Quantitative Developer",
@@ -1815,7 +1837,7 @@
     "published_at": "2026-08-08T01:01:38-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7822791",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Quantitative Developer | Trading team",
@@ -1836,7 +1858,7 @@
     "published_at": "2026-08-08T01:01:12-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6172858",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Quantitative Developer | Trading Team",
@@ -1856,7 +1878,7 @@
     "published_at": "2026-08-08T01:01:12-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6190021",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Quantitative Developer | Trading Team",
@@ -1881,7 +1903,7 @@
     "published_at": "2026-08-25T03:30:03-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8105914",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Quantitative Researcher | Trading Team",
@@ -1904,7 +1926,7 @@
     "published_at": "2026-08-08T01:01:11-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6098760",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Senior Human Resources Business Partner",
@@ -1921,7 +1943,7 @@
     "published_at": "2026-10-27T22:24:49-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8329789",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Senior Software Engineer",
@@ -1941,7 +1963,7 @@
     "published_at": "2026-08-26T23:26:22-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7809758",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Software Engineer | Post Trade Analytics",
@@ -1964,7 +1986,7 @@
     "published_at": "2026-10-12T05:30:25-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7495806",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Software Engineer | Trading Team",
@@ -1983,7 +2005,7 @@
     "published_at": "2026-10-19T21:20:50-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7929540",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Talent Acquisition Coordinator",
@@ -2000,7 +2022,7 @@
     "published_at": "2026-09-28T07:02:00-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8236626",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Workplace Experience Coordinator",
@@ -2017,7 +2039,7 @@
     "published_at": "2026-10-21T04:07:13-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8248589",
-    "fetched_at": "2026-10-30T01:30:13+00:00"
+    "fetched_at": "2026-10-31T01:21:15+00:00"
   },
   {
     "title": "Delta One Trader",
@@ -2037,7 +2059,7 @@
     "published_at": "2026-10-13T04:26:15-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7708220",
-    "fetched_at": "2026-10-30T01:30:15+00:00"
+    "fetched_at": "2026-10-31T01:21:17+00:00"
   },
   {
     "title": "Digital Assets Trader",
@@ -2057,7 +2079,7 @@
     "published_at": "2026-10-13T10:21:11-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7770955",
-    "fetched_at": "2026-10-30T01:30:15+00:00"
+    "fetched_at": "2026-10-31T01:21:17+00:00"
   },
   {
     "title": "Experienced MFT Quantitative Researcher",
@@ -2076,7 +2098,7 @@
     "published_at": "2026-09-21T23:23:04-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8222298",
-    "fetched_at": "2026-10-30T01:30:15+00:00"
+    "fetched_at": "2026-10-31T01:21:17+00:00"
   },
   {
     "title": "Experienced Quantitative Researcher",
@@ -2095,7 +2117,7 @@
     "published_at": "2026-09-18T04:15:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/4003450",
-    "fetched_at": "2026-10-30T01:30:15+00:00"
+    "fetched_at": "2026-10-31T01:21:17+00:00"
   },
   {
     "title": "PhD Graduate Quantitative Researcher",
@@ -2117,7 +2139,7 @@
     "published_at": "2026-09-21T03:22:51-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8213037",
-    "fetched_at": "2026-10-30T01:30:15+00:00"
+    "fetched_at": "2026-10-31T01:21:17+00:00"
   },
   {
     "title": "Python Engineer, Trading Automation",
@@ -2141,7 +2163,7 @@
     "published_at": "2026-10-07T22:53:37-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7064123",
-    "fetched_at": "2026-10-30T01:30:15+00:00"
+    "fetched_at": "2026-10-31T01:21:17+00:00"
   },
   {
     "title": "Risk Manager",
@@ -2161,7 +2183,7 @@
     "published_at": "2026-09-01T00:04:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8168790",
-    "fetched_at": "2026-10-30T01:30:15+00:00"
+    "fetched_at": "2026-10-31T01:21:17+00:00"
   },
   {
     "title": "Senior Research Engineer",
@@ -2188,7 +2210,7 @@
     "published_at": "2026-10-20T05:17:56-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7431246",
-    "fetched_at": "2026-10-30T01:30:15+00:00"
+    "fetched_at": "2026-10-31T01:21:17+00:00"
   },
   {
     "title": "Senior Software Engineer, C++",
@@ -2210,7 +2232,7 @@
     "published_at": "2026-08-31T23:30:25-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/6993714",
-    "fetched_at": "2026-10-30T01:30:15+00:00"
+    "fetched_at": "2026-10-31T01:21:17+00:00"
   },
   {
     "title": "Senior Software Engineer, C++ (Market Data)",
@@ -2229,7 +2251,7 @@
     "published_at": "2026-09-20T22:24:50-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8212740",
-    "fetched_at": "2026-10-30T01:30:15+00:00"
+    "fetched_at": "2026-10-31T01:21:17+00:00"
   },
   {
     "title": "Trading Intern",
@@ -2248,6 +2270,6 @@
     "published_at": "2026-09-30T06:42:48-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8102618",
-    "fetched_at": "2026-10-30T01:30:15+00:00"
+    "fetched_at": "2026-10-31T01:21:17+00:00"
   }
 ]
