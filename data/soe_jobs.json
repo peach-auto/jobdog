@@ -1,5 +1,23 @@
 [
   {
+    "title": "财务管理岗位",
+    "company": "国家电投集团五凌电力有限公司",
+    "company_type": "国企",
+    "location": "湖南 / 贵州",
+    "salary_raw": "面议",
+    "salary_min": null,
+    "salary_max": null,
+    "skills": [],
+    "education": "本科",
+    "experience": "应届生",
+    "description": "【岗位职责】\n1.本科及以上学历，应届毕业生，会计、财务管理相关专业；\n2.性别：不限；\n3.具备一定的学习理解、沟通协调、数据分析能力，较强的文字表达能力，熟练操作各类常用办公软件；\n4.具有较强的团队意识、责任意识，工作严谨、勤奋；\n5.工作地点为五凌电力所属基层单位，入职后再进行双向选择分配。",
+    "recruitment_type": "校园招聘",
+    "published_at": "2026-09-14 00:00:00",
+    "source_site": "国聘",
+    "source_url": "https://www.iguopin.com/job/detail?id=218162582312191531",
+    "fetched_at": "2026-11-08T01:00:35+00:00"
+  },
+  {
     "title": "普工（残疾人岗位）",
     "company": "上海泷得自动化技术有限公司",
     "company_type": "国企",
@@ -15,7 +33,7 @@
     "published_at": "2026-10-16 09:05:15",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952315289372029",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "物业强电领班",
@@ -33,7 +51,7 @@
     "published_at": "2026-10-16 09:26:45",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952314786055549",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "市场策划员",
@@ -51,7 +69,7 @@
     "published_at": "2026-10-16 09:30:13",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952314651837842",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "行政办公人员",
@@ -69,7 +87,7 @@
     "published_at": "2026-10-16 09:29:49",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952314484065682",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "自媒体运营编辑",
@@ -87,7 +105,7 @@
     "published_at": "2026-10-16 09:29:59",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952314333070717",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "多媒体软件制作",
@@ -105,7 +123,7 @@
     "published_at": "2026-10-16 09:30:25",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952314198853010",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "财务",
@@ -123,7 +141,7 @@
     "published_at": "2026-10-16 09:35:08",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952311900374418",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "操作工",
@@ -141,7 +159,7 @@
     "published_at": "2026-10-16 09:37:08",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952311766156690",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "配件库管员（东风本田奉贤店）",
@@ -159,7 +177,7 @@
     "published_at": "2026-10-16 09:41:07",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952308997916050",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "邀约专员（网络销售）",
@@ -177,7 +195,7 @@
     "published_at": "2026-10-16 09:42:02",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952308846921106",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "查勘岗定损员",
@@ -195,7 +213,7 @@
     "published_at": "2026-10-16 09:44:05",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952308695926162",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "商务楼物业保安",
@@ -213,7 +231,7 @@
     "published_at": "2026-10-16 09:51:15",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952306397447570",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "软件开发工程师助理",
@@ -231,7 +249,7 @@
     "published_at": "2026-10-16 09:59:40",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952306212898194",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "物业电工",
@@ -249,7 +267,7 @@
     "published_at": "2026-10-16 09:51:29",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952304619062653",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "市场发展部 客户管理员",
@@ -267,7 +285,7 @@
     "published_at": "2026-10-16 09:59:50",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952293177001362",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "文字编辑",
@@ -285,7 +303,7 @@
     "published_at": "2026-10-16 09:59:52",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952293026006397",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "渠道经理管培生",
@@ -303,7 +321,7 @@
     "published_at": "2026-10-16 10:00:04",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952292891788690",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "维修技术员",
@@ -321,7 +339,7 @@
     "published_at": "2026-10-16 10:00:38",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952292740793725",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "市场运营人员",
@@ -339,7 +357,7 @@
     "published_at": "2026-10-16 10:00:17",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952290022884733",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "项目助理",
@@ -357,7 +375,7 @@
     "published_at": "2026-10-16 10:03:13",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952289905444242",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "标准化助理",
@@ -375,7 +393,7 @@
     "published_at": "2026-10-16 10:02:10",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952289771226514",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "人力资源助理",
@@ -393,7 +411,7 @@
     "published_at": "2026-10-16 10:03:34",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952289637008786",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "行政助理",
@@ -411,7 +429,7 @@
     "published_at": "2026-10-16 10:03:46",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952289502791058",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "专职司机（老板驾驶员）",
@@ -429,7 +447,7 @@
     "published_at": "2026-10-16 10:09:47",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952289385350546",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "运营支持见习生",
@@ -447,7 +465,7 @@
     "published_at": "2026-10-16 10:10:23",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952287120426365",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "大模型工程师助理",
@@ -471,7 +489,7 @@
     "published_at": "2026-10-16 10:11:36",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952287002985874",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "项目管理助理",
@@ -489,7 +507,7 @@
     "published_at": "2026-10-16 10:13:40",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952286868768125",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "外贸单证员",
@@ -507,7 +525,7 @@
     "published_at": "2026-10-16 10:12:20",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952286751327613",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "大模型防御研究助理",
@@ -533,7 +551,7 @@
     "published_at": "2026-10-16 10:14:07",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952286617109885",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "安全产品研发工程师",
@@ -556,7 +574,7 @@
     "published_at": "2026-10-16 10:14:52",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952286482892178",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "车载系统模糊测试研究助理",
@@ -577,7 +595,7 @@
     "published_at": "2026-10-16 10:14:23",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952286348674450",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "零信任研发工程师助理",
@@ -597,7 +615,7 @@
     "published_at": "2026-10-16 10:15:22",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952286214456722",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "售前技术支持",
@@ -615,7 +633,7 @@
     "published_at": "2026-10-16 10:15:34",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952283462993298",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "国外货运代理操作操作",
@@ -633,7 +651,7 @@
     "published_at": "2026-10-16 10:17:46",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952280795415954",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "保洁员",
@@ -651,7 +669,7 @@
     "published_at": "2026-10-16 10:19:41",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952280677975442",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "国际货运操作/单证",
@@ -669,7 +687,7 @@
     "published_at": "2026-10-16 10:18:24",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952280543757693",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "pc肉仓分拣（零工）",
@@ -687,7 +705,7 @@
     "published_at": "2026-10-16 10:19:49",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952264873837970",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "装配电工",
@@ -705,7 +723,7 @@
     "published_at": "2026-10-16 10:20:03",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952264739620242",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "播种分拣岗（零工）",
@@ -723,7 +741,7 @@
     "published_at": "2026-10-16 10:19:56",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952264571848082",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "汽车美容操作工（零工）",
@@ -741,7 +759,7 @@
     "published_at": "2026-10-16 10:20:18",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952264437630333",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "装配钳工",
@@ -759,7 +777,7 @@
     "published_at": "2026-10-16 10:20:10",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952264303412626",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "验布操作员",
@@ -777,7 +795,7 @@
     "published_at": "2026-10-16 10:21:39",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952263967868285",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "医药代表",
@@ -795,7 +813,7 @@
     "published_at": "2026-10-16 10:20:25",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952263783318909",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "办公室文员（实习生）",
@@ -813,7 +831,7 @@
     "published_at": "2026-10-16 10:20:39",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952263615546770",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "上海移动柜面操作（丰镇）",
@@ -831,7 +849,7 @@
     "published_at": "2026-10-16 10:23:41",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952260528539026",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "见习技工-ME",
@@ -849,7 +867,7 @@
     "published_at": "2026-10-16 10:30:00",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952257424754045",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "见习技工-AV",
@@ -867,7 +885,7 @@
     "published_at": "2026-10-16 10:32:01",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952257189873042",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "法律销售",
@@ -885,7 +903,7 @@
     "published_at": "2026-10-16 10:38:24",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952254924948882",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "律所行政",
@@ -903,7 +921,7 @@
     "published_at": "2026-10-16 10:41:04",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952254807508370",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:35+00:00"
   },
   {
     "title": "工程领班",
@@ -921,7 +939,7 @@
     "published_at": "2026-10-16 10:57:26",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952252056044946",
-    "fetched_at": "2026-11-07T01:30:47+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "做线普工",
@@ -939,7 +957,7 @@
     "published_at": "2026-10-16 10:50:40",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952251938604413",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "综合维修",
@@ -957,7 +975,7 @@
     "published_at": "2026-10-16 10:58:12",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952251821163901",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "物业管理人员",
@@ -975,7 +993,7 @@
     "published_at": "2026-10-16 11:09:47",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952240127444370",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "车辆查勘定损",
@@ -993,7 +1011,7 @@
     "published_at": "2026-10-16 11:05:59",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952228635051389",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "生产技术助理",
@@ -1011,7 +1029,7 @@
     "published_at": "2026-10-16 11:10:30",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952217125881234",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "实验室技术助理",
@@ -1029,7 +1047,7 @@
     "published_at": "2026-10-16 11:13:12",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952216991663506",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "商务运营助理",
@@ -1047,7 +1065,7 @@
     "published_at": "2026-10-16 11:21:40",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952216857445757",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "医疗技术人员",
@@ -1065,7 +1083,7 @@
     "published_at": "2026-10-16 11:12:11",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952216689673618",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "物流客服",
@@ -1083,7 +1101,7 @@
     "published_at": "2026-10-16 11:33:42",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952216521901458",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "浦发银行大堂助理（长宁、普陀）",
@@ -1101,7 +1119,7 @@
     "published_at": "2026-10-16 11:26:45",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952216354129298",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "物流员",
@@ -1119,7 +1137,7 @@
     "published_at": "2026-10-16 11:34:01",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952216236688786",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "销售总监",
@@ -1137,7 +1155,7 @@
     "published_at": "2026-10-16 11:38:06",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952213954987410",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "冲压操作工",
@@ -1155,7 +1173,7 @@
     "published_at": "2026-10-16 12:42:39",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952213803992466",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "销售员",
@@ -1173,7 +1191,7 @@
     "published_at": "2026-10-16 11:41:31",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952211136415101",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "私厨",
@@ -1191,7 +1209,7 @@
     "published_at": "2026-10-16 12:46:07",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952211018974589",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "办公室文员",
@@ -1209,7 +1227,7 @@
     "published_at": "2026-10-16 12:46:03",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952210884756882",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "养护园长、行政管理",
@@ -1227,7 +1245,7 @@
     "published_at": "2026-10-16 12:18:36",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952210767316370",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "供体专员",
@@ -1245,7 +1263,7 @@
     "published_at": "2026-10-16 11:43:04",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952210616321405",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "储备干部",
@@ -1263,7 +1281,7 @@
     "published_at": "2026-10-16 12:46:44",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952207260878226",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "检验员",
@@ -1281,7 +1299,7 @@
     "published_at": "2026-10-16 12:47:40",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952206925333906",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "市场助理",
@@ -1299,7 +1317,7 @@
     "published_at": "2026-10-16 12:49:08",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952204660409746",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "九棵树 主管",
@@ -1317,7 +1335,7 @@
     "published_at": "2026-10-16 13:01:28",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952201942500754",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "九棵树  保洁员",
@@ -1335,7 +1353,7 @@
     "published_at": "2026-10-16 13:04:17",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952201690842514",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "软胶囊车间压丸工",
@@ -1353,7 +1371,7 @@
     "published_at": "2026-10-16 13:14:31",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952199375586706",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "长宁别墅区保安员退伍优先（做二休二）",
@@ -1371,7 +1389,7 @@
     "published_at": "2026-10-16 13:18:56",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952197077108093",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "产品工艺",
@@ -1389,7 +1407,7 @@
     "published_at": "2026-10-16 13:20:37",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952194711520658",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "加工中心编程及操作",
@@ -1407,7 +1425,7 @@
     "published_at": "2026-10-16 13:20:19",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952194577302930",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "销售经理",
@@ -1425,7 +1443,7 @@
     "published_at": "2026-10-16 13:20:56",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952194443085181",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "产品设计",
@@ -1443,7 +1461,7 @@
     "published_at": "2026-10-16 13:21:47",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952194325644669",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "阀门设计/技术工程师",
@@ -1461,7 +1479,7 @@
     "published_at": "2026-10-16 13:42:01",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952191456740733",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "式样确认",
@@ -1479,7 +1497,7 @@
     "published_at": "2026-10-16 13:40:06",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952189225371026",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "翻译",
@@ -1497,7 +1515,7 @@
     "published_at": "2026-10-16 13:45:04",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952189107930514",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "中英翻译",
@@ -1515,7 +1533,7 @@
     "published_at": "2026-10-16 13:45:52",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952188973712786",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "维修电工",
@@ -1533,7 +1551,7 @@
     "published_at": "2026-10-16 13:49:57",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952186104808850",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "校园保安",
@@ -1551,7 +1569,7 @@
     "published_at": "2026-10-16 13:57:53",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952174880851325",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "物业维修电工  退休",
@@ -1569,7 +1587,7 @@
     "published_at": "2026-10-16 14:03:11",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952174696301970",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "销售工程师",
@@ -1587,7 +1605,7 @@
     "published_at": "2026-10-16 14:42:57",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952174511752573",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "楼面管理",
@@ -1605,7 +1623,7 @@
     "published_at": "2026-10-16 14:04:11",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952174377534845",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "心理实习教师",
@@ -1623,7 +1641,7 @@
     "published_at": "2026-10-16 14:10:24",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952166441911677",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "操作工",
@@ -1641,7 +1659,7 @@
     "published_at": "2026-10-16 14:42:00",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952163640116626",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "国际商务制单员",
@@ -1659,7 +1677,7 @@
     "published_at": "2026-10-16 15:12:50",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952160754435474",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "服务员",
@@ -1677,7 +1695,7 @@
     "published_at": "2026-10-16 18:00:04",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952160636994941",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "外贸业务员（医药行业）",
@@ -1695,7 +1713,7 @@
     "published_at": "2026-10-16 15:55:16",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952160519554429",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "机械工程师",
@@ -1713,7 +1731,7 @@
     "published_at": "2026-10-16 15:45:16",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952160368559506",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "外贸实习生（医药类）",
@@ -1731,7 +1749,7 @@
     "published_at": "2026-10-16 15:56:38",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952149027161490",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "镭射切割",
@@ -1749,7 +1767,7 @@
     "published_at": "2026-10-16 16:16:35",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952146695128466",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "组装部组长",
@@ -1767,7 +1785,7 @@
     "published_at": "2026-10-16 16:17:59",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952143843001746",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "急需普工",
@@ -1785,7 +1803,7 @@
     "published_at": "2026-10-16 16:18:17",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952143708784018",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   },
   {
     "title": "线切割",
@@ -1803,24 +1821,6 @@
     "published_at": "2026-10-16 16:18:43",
     "source_site": "国聘",
     "source_url": "https://www.iguopin.com/job/detail?id=225952143473902994",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
-  },
-  {
-    "title": "模具工",
-    "company": "上海日荣樱天客金属工业有限公司",
-    "company_type": "国企",
-    "location": "上海-松江区",
-    "salary_raw": "7500~10000元/月",
-    "salary_min": 7500,
-    "salary_max": 10000,
-    "skills": [],
-    "education": "中专/中技",
-    "experience": "3-5年",
-    "description": "1.生产车间现场模具维修\n2.新模具组立调试，手工样制作\n3.生产性提高改善\n4.生产车间内的其他岗位可灵魂调整\n5.熟悉五金冲压模具结构，工装夹具结构制作\n6.熟练操作模具车间相关设备（车，铣，钻，磨）及机床维护\n7.熟知5S 能吃苦耐劳，用于担当，素质优良，按时完成领导安排的工作任务",
-    "recruitment_type": "社会招聘",
-    "published_at": "2026-10-16 16:18:30",
-    "source_site": "国聘",
-    "source_url": "https://www.iguopin.com/job/detail?id=225952143356462482",
-    "fetched_at": "2026-11-07T01:30:51+00:00"
+    "fetched_at": "2026-11-08T01:00:38+00:00"
   }
 ]
