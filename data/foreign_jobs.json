@@ -17,27 +17,7 @@
     "published_at": "2026-10-29T10:42:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8239006",
-    "fetched_at": "2026-11-13T02:19:42+00:00"
-  },
-  {
-    "title": "Firmware Engineer",
-    "company": "Stripe",
-    "company_type": "外企",
-    "location": "Taipei City",
-    "salary_raw": "面议",
-    "salary_min": null,
-    "salary_max": null,
-    "skills": [
-      "Golang",
-      "C++"
-    ],
-    "education": null,
-    "experience": null,
-    "description": "  About Stripe  \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.    \n  About the team  \n Stripe Terminal helps Stripe users extend their online presence into the physical world. The Terminal team’s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. With Terminal, businesses can unlock in-person payments use cases that are right for their business model—whether it’s creating a flagship retail experience, extending their website to a pop-up store, or enabling a mobile point-of-sale at their next event.  \n  We are looking for:  \n You will be responsible for all aspects of software development, which includes building, writing automated tests, and deploying software on our embedded payments platforms. This team works closely with partner teams throughout the hardware and software product lifecycle, from hardware manufacturing to Android application teams.  \n  What you’ll do  \n \n Design, develop and maintain user interfaces and underlying functionality for embedded point-of-sale software that handle secure payment processing across several products simultaneously. \n Implement industry standard protocols to match product capabilities. \n Create, maintain, and execute application unit tests as part of Continuous Integration. \n Analyze bug reports and manage the defect resolution process (disposition issues, resolve issues, and report issue status). \n Work closely with QA staff to ensure appropriate test cases are created, maintained, and executed. \n Collaborate on system-side code, communication protocol design, and kernel development. \n Interact with global teams with excellent communication skills to provide support information. \n Routinely perform code reviews to ensure high quality designs and implementation. \n Assist in ensuring quality and timeliness of product and feature development. \n Proactively solve problems and work independently and within a team environment, with limited guidance. \n Work closely with your hardware counterparts on product design and have the ability to read schematics, provide feedback on I/O mapping, developing manufacturing test software to ensure the devices are built to specification. \n \n  Who you are  \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. \n  Minimum requirements  \n \n 2+ years software development experience. \n 2+ years working with embedded, mobile, or other connected devices. \n Proficiency in embedded programming language C. \n Experience using automated testing, build systems, or device firmware communication. \n Experience with embedded systems, knowledge of operating systems, familiarity with software development tools, understanding of hardware-software interfaces. \n Experience architecting and developing multithreaded applications, preferably in embedded systems. \n Experience with common communications protocols (e.g., SPI, UART, I2C, USB, and others), debugging practices (e.g., JTAG and associated GDB integrations), and basic electrical design principles. \n Experience adding, monitoring and parsing telemetry data to proactively resolve issues. \n Degree in CS, EE, or equivalent practical experience. \n Fluent in spoken and written English. \n \n  Preferred qualifications  \n \n Proficiency in C++ or Golang is highly advantageous. \n Experience developing on ARM platforms. \n Experience with point-of-sale hardware and ",
-    "published_at": "2026-10-29T10:42:09-04:00",
-    "source_site": "Greenhouse",
-    "source_url": "https://stripe.com/jobs/search?gh_jid=8040825",
-    "fetched_at": "2026-11-13T02:19:42+00:00"
+    "fetched_at": "2026-11-14T01:55:50+00:00"
   },
   {
     "title": "Senior Mechanical and Industrial Design Engineer",
@@ -54,7 +34,7 @@
     "published_at": "2026-10-29T10:42:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8170920",
-    "fetched_at": "2026-11-13T02:19:42+00:00"
+    "fetched_at": "2026-11-14T01:55:50+00:00"
   },
   {
     "title": "Software Quality Assurance Engineer",
@@ -71,7 +51,7 @@
     "published_at": "2026-10-29T10:42:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8153331",
-    "fetched_at": "2026-11-13T02:19:42+00:00"
+    "fetched_at": "2026-11-14T01:55:50+00:00"
   },
   {
     "title": "Machine Learning Engineer, Assistance Engineering",
@@ -91,7 +71,7 @@
     "published_at": "2026-11-10T17:52:22-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
-    "fetched_at": "2026-11-13T02:19:43+00:00"
+    "fetched_at": "2026-11-14T01:55:52+00:00"
   },
   {
     "title": "Office Manager, China (Executive Administration and Workplace)",
@@ -108,7 +88,7 @@
     "published_at": "2026-11-10T17:52:22-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.airbnb.com/positions/8299386?gh_jid=8299386",
-    "fetched_at": "2026-11-13T02:19:43+00:00"
+    "fetched_at": "2026-11-14T01:55:52+00:00"
   },
   {
     "title": "Senior Machine Learning Engineer, Assistance Engineering",
@@ -128,7 +108,7 @@
     "published_at": "2026-11-10T17:52:22-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.airbnb.com/positions/7975743?gh_jid=7975743",
-    "fetched_at": "2026-11-13T02:19:43+00:00"
+    "fetched_at": "2026-11-14T01:55:52+00:00"
   },
   {
     "title": "Enterprise Account Executive - China",
@@ -144,10 +124,10 @@
     "education": null,
     "experience": null,
     "description": " SLSQ427R594  As an Enterprise Account Executive in Databricks, you are an enterprise sales professional experienced in selling to Enterprise accounts in Greater China region. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to Customers and System Integrators. Always looking for new opportunities, you will close new accounts while maintaining existing accounts. Along with the chance to close exciting deals and solve meaningful problems. \n You will report to the Director of Enterprise Sales. \n  The impact you will have:  \n \n Present a territory plan within the first 90 days \n Meet with CIOs, IT executives, LOB executives, Program Managers, and other important partners \n Close both new accounts and existing accounts \n Identify and close quick, small wins while managing longer, complex sales cycles \n Exceed activity, pipeline, and revenue targets \n Track all customer details, including use case, purchase time frames, next steps, and forecasting in Salesforce \n Use a solution-based approach to selling and creating value for customers \n Promote Databricks' enterprise cloud data platform powered by Apache Spark \n Ensure 100% satisfaction among all customers \n Prioritize opportunities and apply appropriate resources \n Build a plan for success internally at Databricks and externally with your accounts. \n \n  What we look for:  \n \n Field sales experience within big data, Cloud, and SaaS sales, covering Greater China territory \n Prior customer relationships with CIOs, program managers, and essential decision makers \n Simply articulate intricate cloud technologies \n 7+ years of Enterprise Sales experience exceeding quotas, covering relevant accounts and industries \n Success in closing new accounts while working on existing accounts \n Understanding of Spark and big data is preferable \n Business proficiency in Mandarin and experience in the GCR territory are required to enable effective collaboration and understanding of client needs. The successful candidate will engage with the customers in Mandarin to conduct technical and business discussions, address sales challenges, and present clear value propositions and outcomes. \n    About Databricks  \n  Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on  LinkedIn ,  X ,  YouTube , and  Instagram .   Benefits    At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click  here .   \n  Our Commitment to Diversity and Inclusion  \n At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. \n  Compliance  \n   If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with a",
-    "published_at": "2026-10-06T07:05:59-04:00",
+    "published_at": "2026-11-13T15:13:15-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8844022002",
-    "fetched_at": "2026-11-13T02:19:44+00:00"
+    "fetched_at": "2026-11-14T01:55:53+00:00"
   },
   {
     "title": "Lakebase Sales Specialist (Greater China Region)",
@@ -166,10 +146,10 @@
     "education": null,
     "experience": null,
     "description": " SLSQ327R376  Databricks is seeking a  Lakebase Sales Specialist Account Executive  to help customers modernize their operational data foundation with Databricks Lakebase, our fully-managed Postgres offering for intelligent applications. This high-impact role sits within the Lakebase Go-To-Market team and partners closely with regional Account Executives to drive adoption of Lakebase with platform, application, and data teams.  \n The role will cover strategic enterprise customers within the Greater China region.  \n Lakebase gives customers a unified, governed foundation for operational workloads and AI-native applications, helping them move away from a fragmented estate of point databases toward a modern, scalable, serverless Postgres service. If you want to be at the forefront of operational databases for AI and intelligent applications at one of the fastest-growing data and AI companies in the world, this is your opportunity. \n  The impact you will have  \n \n Drive new Lakebase revenue by identifying, qualifying, and closing Lakebase opportunities within a defined territory, in partnership with regional Account Executives and the broader account team. \n Lead with outcomes for key Lakebase personas — including platform teams and developers, data teams, and central IT — articulating how Lakebase helps them ship features faster, simplify operational data architectures, and improve governance and cost efficiency. \n Sell the value of fully-managed Postgres for intelligent applications, positioning Lakebase as the optimal choice for operational workloads that power real-time, AI-driven experiences. \n Run complex, multi-threaded sales cycles from discovery and value hypothesis through commercial negotiation and close, navigating executive, technical, and line-of-business stakeholders. \n Orchestrate proof-of-value and POCs that validate Lakebase’s benefits for OLTP-style workloads, reverse ETL, and AI/ML-driven applications, in partnership with solution architects and specialists. \n Compete and win against legacy and cloud-native operational databases by leveraging our compete assets, benchmarks, and customer references. \n Align to measurable business outcomes such as performance, developer productivity, time-to-market for new features, cost reduction, and simplification of the operational data landscape. \n Partner cross-functionally with Product Management, Marketing, Customer Success, and Partner teams to shape territory plans, launch plays, and co-selling motions with key ISVs and GSIs. \n Enable the field by sharing Lakebase best practices, success stories, and sales motions with broader sales teams, helping scale Lakebase proficiency across the organization. \n \n  What success looks like in this role  \n This role requires the ability to operate across  two key motions  simultaneously: \n \n  Establish top strategic focus accounts  by engaging application development teams to create net-new intelligent applications leveraging Lakebase. \n  Drive longer-term Postgres standardization and migration  within Databricks' most strategic accounts. \n \n Candidates should demonstrate how they can act as a force multiplier across multiple dimensions of the business. \n Success in this role requires strength in four areas: \n \n  Business ownership  – Operate at a business-unit level by tracking revenue, pipeline, and key observations, and by identifying areas needing additional focus or support. \n  Strategic account engagement  – Partner with account teams to engage priority accounts across the global DB700, driving strategic opportunities from initial engagement through successful outcomes. \n  Field enablement  – Build and execute enablement plans that empower AEs and SAs to confidently carry the Lakebase conversation even when the specialist is not present. \n  Market voice and thought leadership  – Develop an internal and external presence by contributing to global AMAs and internal forums, and by representing Databricks at key first- and third-pa",
-    "published_at": "2026-10-30T02:58:27-04:00",
+    "published_at": "2026-11-13T15:13:15-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924844002",
-    "fetched_at": "2026-11-13T02:19:44+00:00"
+    "fetched_at": "2026-11-14T01:55:53+00:00"
   },
   {
     "title": "Strategic DNB Hunter Account Executive (China)",
@@ -183,10 +163,10 @@
     "education": null,
     "experience": null,
     "description": " SLSQ327R457  As a Strategic DNB Hunter Account Executive, your mission will be to acquire key strategic digital native enterprise within the Greater China Region. You know how to sell innovation and change and can guide deals forward to compress decision cycles. You love understanding a product in-depth and are passionate about communicating its value to customers and partners. Always prospecting for new opportunities, you will close new accounts while growing our business in existing accounts. You will report to the Director of Sales, Greater China. This position will be based in Singapore. \n  The impact you will have:  \n \n Prospect for new customers \n Assess your existing customers and develop a strategy to identify and engage all buying centers \n Use a solution approach to selling and creating value for customers \n Identify the most viable use cases in each account to maximize Databricks' impact \n Orchestrate and work with teams to maximize the impact of the Databrick ecosystem on your territory \n Build value with all engagements to promote successful negotiations and close \n Promote the Databricks enterprise cloud data platform \n Be customer-focused by delivering technical and business results using the Databricks Platform \n \n  What we look for:  \n \n Proven success in Digital Native Sales roles, ideally in Big Data, Cloud, or SaaS technology \n Solution and business-outcomes focused sales approach (Command of the Message, MEDDPIC, Challenger Sale) \n Ability to simply articulate intricate cloud & big data technologies and their business value for the customer \n Proven success and upward trajectory in whatever you have done \n Bachelors Degree and 7+ years of experience selling SaaS solutions to Enterprise Customers \n Business proficiency in Mandarin and experience in the GCR territory are required to enable effective collaboration and understanding of client needs. The successful candidate will engage with the customers in Mandarin to conduct technical and business discussions, address sales challenges, and present clear value propositions and outcomes. \n   \n    About Databricks  \n  Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on  LinkedIn ,  X ,  YouTube , and  Instagram .   Benefits    At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click  here .   \n  Our Commitment to Diversity and Inclusion  \n At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. \n  Compliance  \n   If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.    ",
-    "published_at": "2026-10-30T02:57:39-04:00",
+    "published_at": "2026-11-13T15:13:15-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8644185002",
-    "fetched_at": "2026-11-13T02:19:44+00:00"
+    "fetched_at": "2026-11-14T01:55:53+00:00"
   },
   {
     "title": "Account Development Representative",
@@ -207,7 +187,7 @@
     "published_at": "2026-11-12T09:41:56-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8352010",
-    "fetched_at": "2026-11-13T02:19:46+00:00"
+    "fetched_at": "2026-11-14T01:55:54+00:00"
   },
   {
     "title": "Customer Success Manager (Scaled)",
@@ -228,7 +208,7 @@
     "published_at": "2026-11-12T09:41:56-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8153054",
-    "fetched_at": "2026-11-13T02:19:46+00:00"
+    "fetched_at": "2026-11-14T01:55:54+00:00"
   },
   {
     "title": "Enterprise Account Executive, Growth",
@@ -249,7 +229,7 @@
     "published_at": "2026-11-12T09:41:56-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=6740470",
-    "fetched_at": "2026-11-13T02:19:46+00:00"
+    "fetched_at": "2026-11-14T01:55:54+00:00"
   },
   {
     "title": "Enterprise Account Manager - OEM",
@@ -270,7 +250,7 @@
     "published_at": "2026-11-12T09:41:56-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=6829771",
-    "fetched_at": "2026-11-13T02:19:46+00:00"
+    "fetched_at": "2026-11-14T01:55:54+00:00"
   },
   {
     "title": "Principal Partner Specialist",
@@ -291,7 +271,7 @@
     "published_at": "2026-11-12T09:41:56-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8141592",
-    "fetched_at": "2026-11-13T02:19:46+00:00"
+    "fetched_at": "2026-11-14T01:55:54+00:00"
   },
   {
     "title": "Project Manager",
@@ -312,7 +292,7 @@
     "published_at": "2026-11-12T09:41:56-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8173798",
-    "fetched_at": "2026-11-13T02:19:46+00:00"
+    "fetched_at": "2026-11-14T01:55:54+00:00"
   },
   {
     "title": "Renewals Specialist",
@@ -333,7 +313,7 @@
     "published_at": "2026-11-12T09:41:56-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8350841",
-    "fetched_at": "2026-11-13T02:19:46+00:00"
+    "fetched_at": "2026-11-14T01:55:54+00:00"
   },
   {
     "title": "Senior Solutions Architect",
@@ -362,7 +342,7 @@
     "published_at": "2026-11-12T09:41:56-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=7157100",
-    "fetched_at": "2026-11-13T02:19:46+00:00"
+    "fetched_at": "2026-11-14T01:55:54+00:00"
   },
   {
     "title": "Beijing Office Administrator",
@@ -379,7 +359,7 @@
     "published_at": "2026-11-11T06:46:53-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7267406",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Embedded Devices Software Solution Sales Manager (Taipei)",
@@ -398,7 +378,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7911759",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Engineering Director, Devices Software Engineering",
@@ -417,7 +397,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7074861",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Engineering Manager - Ubuntu Hardware Certification Quality and Test Engineering",
@@ -437,7 +417,7 @@
     "published_at": "2026-07-16T11:10:59-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5996326",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "IoT Field Engineer - China & Region",
@@ -456,7 +436,7 @@
     "published_at": "2026-07-16T11:10:59-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/2169848",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Linux Devices Software Engineer",
@@ -479,7 +459,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5140562",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Linux Enablement - Software Engineering Manager",
@@ -502,7 +482,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560182",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Linux Enablement - Software Engineering Manager",
@@ -525,7 +505,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/3262042",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU",
@@ -549,7 +529,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5660661",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "PC Platforms Kernel Engineer - Ubuntu Linux",
@@ -570,7 +550,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5396437",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Project Manager - Ubuntu Embedded Systems",
@@ -589,7 +569,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5422728",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Python Engineer - Data Center Hardware Integration (Taipei)",
@@ -609,7 +589,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/4536726",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Senior Ubuntu Embedded IoT System Engineer",
@@ -629,7 +609,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/6731174",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Silicon Alliances Ecosystem Development Manager - APAC",
@@ -649,7 +629,7 @@
     "published_at": "2026-10-16T11:44:32-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5570923",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Silicon Alliances Ecosystem Development Manager - Shanghai or Beijing",
@@ -666,7 +646,7 @@
     "published_at": "2026-10-16T11:44:32-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7561124",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Software Engineer, Ubuntu Commercial Computers",
@@ -685,7 +665,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560784",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
@@ -706,7 +686,7 @@
     "published_at": "2026-10-02T11:01:20-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/8248986",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
@@ -727,7 +707,7 @@
     "published_at": "2026-10-02T10:54:05-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7975990",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Taipei Office Administrator",
@@ -744,7 +724,7 @@
     "published_at": "2026-11-11T06:46:53-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7364802",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Ubuntu Enablement Engineer",
@@ -763,7 +743,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560823",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Ubuntu Enablement Engineer",
@@ -782,7 +762,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7102393",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Ubuntu Enablement - Software Engineering Manager",
@@ -805,7 +785,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/4605464",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Ubuntu Linux Kernel Test Engineer",
@@ -830,7 +810,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7965671",
-    "fetched_at": "2026-11-13T02:19:47+00:00"
+    "fetched_at": "2026-11-14T01:55:55+00:00"
   },
   {
     "title": "Junior Developer - C++",
@@ -849,7 +829,7 @@
     "published_at": "2026-10-08T02:30:13-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.akunacapital.com/careers/job/6690496/?gh_jid=6690496",
-    "fetched_at": "2026-11-13T02:19:48+00:00"
+    "fetched_at": "2026-11-14T01:55:56+00:00"
   },
   {
     "title": "Junior Quantitative Researcher - Deep Learning (Time Series)",
@@ -872,7 +852,7 @@
     "published_at": "2026-10-08T02:30:47-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994",
-    "fetched_at": "2026-11-13T02:19:48+00:00"
+    "fetched_at": "2026-11-14T01:55:56+00:00"
   },
   {
     "title": "Quantitative Developer",
@@ -893,7 +873,7 @@
     "published_at": "2026-10-29T06:33:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.akunacapital.com/careers/job/8330722/?gh_jid=8330722",
-    "fetched_at": "2026-11-13T02:19:48+00:00"
+    "fetched_at": "2026-11-14T01:55:56+00:00"
   },
   {
     "title": "Senior Business Development Manager, China",
@@ -910,7 +890,7 @@
     "published_at": "2026-11-06T11:05:06-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8933285002?gh_jid=8933285002",
-    "fetched_at": "2026-11-13T02:19:56+00:00"
+    "fetched_at": "2026-11-14T01:56:03+00:00"
   },
   {
     "title": "Senior Product Designer",
@@ -927,7 +907,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8675713002?gh_jid=8675713002",
-    "fetched_at": "2026-11-13T02:19:56+00:00"
+    "fetched_at": "2026-11-14T01:56:03+00:00"
   },
   {
     "title": "Senior Product Manager",
@@ -944,7 +924,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8675670002?gh_jid=8675670002",
-    "fetched_at": "2026-11-13T02:19:56+00:00"
+    "fetched_at": "2026-11-14T01:56:03+00:00"
   },
   {
     "title": "Senior Software Engineer, Android, Monetization",
@@ -963,7 +943,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8702391002?gh_jid=8702391002",
-    "fetched_at": "2026-11-13T02:19:56+00:00"
+    "fetched_at": "2026-11-14T01:56:03+00:00"
   },
   {
     "title": "Senior Software Engineer, Backend, Monetization",
@@ -984,7 +964,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8702288002?gh_jid=8702288002",
-    "fetched_at": "2026-11-13T02:19:56+00:00"
+    "fetched_at": "2026-11-14T01:56:03+00:00"
   },
   {
     "title": "Senior Software Engineer, iOS, Growth",
@@ -1001,7 +981,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8693210002?gh_jid=8693210002",
-    "fetched_at": "2026-11-13T02:19:56+00:00"
+    "fetched_at": "2026-11-14T01:56:03+00:00"
   },
   {
     "title": "Senior Software Engineer, iOS, Monetization",
@@ -1020,7 +1000,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8701378002?gh_jid=8701378002",
-    "fetched_at": "2026-11-13T02:19:56+00:00"
+    "fetched_at": "2026-11-14T01:56:03+00:00"
   },
   {
     "title": "Software Engineer II, iOS, Growth",
@@ -1037,7 +1017,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8612120002?gh_jid=8612120002",
-    "fetched_at": "2026-11-13T02:19:56+00:00"
+    "fetched_at": "2026-11-14T01:56:03+00:00"
   },
   {
     "title": "Analyst, Business Development",
@@ -1054,7 +1034,7 @@
     "published_at": "2026-11-05T14:45:29-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4721840006?gh_jid=4721840006",
-    "fetched_at": "2026-11-13T02:19:57+00:00"
+    "fetched_at": "2026-11-14T01:56:04+00:00"
   },
   {
     "title": "Business Development Associate (Consumer)",
@@ -1071,7 +1051,7 @@
     "published_at": "2026-11-05T14:45:29-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4681211006?gh_jid=4681211006",
-    "fetched_at": "2026-11-13T02:19:57+00:00"
+    "fetched_at": "2026-11-14T01:56:04+00:00"
   },
   {
     "title": "Manager, Business Development - Consumer",
@@ -1088,7 +1068,7 @@
     "published_at": "2026-11-05T14:45:29-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4723008006?gh_jid=4723008006",
-    "fetched_at": "2026-11-13T02:19:57+00:00"
+    "fetched_at": "2026-11-14T01:56:04+00:00"
   },
   {
     "title": "Sr. Analyst, Business Development - Consumer",
@@ -1105,7 +1085,7 @@
     "published_at": "2026-11-05T14:45:29-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4723009006?gh_jid=4723009006",
-    "fetched_at": "2026-11-13T02:19:57+00:00"
+    "fetched_at": "2026-11-14T01:56:04+00:00"
   },
   {
     "title": "Lead Performance Strategist",
@@ -1120,11 +1100,11 @@
     ],
     "education": null,
     "experience": null,
-    "description": "   Liftoff   is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand.  \n  Liftoff’s solutions, including Accelerate, Direct, Monetize, Intelligence, and Vungle Exchange, support over 6,600 mobile businesses across 74 countries in sectors such as gaming, social, finance, ecommerce, and entertainment. Founded in 2012 and headquartered in Redwood City, CA, Liftoff has a diverse, global presence.     About the Role:  \n As a Lead Performance Strategist at Liftoff, you’ll act as a key partner to our Monetize customers, translating data and market trends into actionable growth strategies. You’ll collaborate with cross-functional teams to optimize SDK performance, uncover insights, and drive ROI for clients across the mobile advertising ecosystem. This is a highly collaborative and analytical role that requires a mix of technical acumen, business sense, and customer empathy. This role sits between commercial and technical teams, serves as power users of Liftoff's tools, and supports Accelerate customers across the full account lifecycle. \n Whether you're responding to client needs, identifying optimization opportunities, or building performance reports, your work will directly impact customer satisfaction and business outcomes. \n  Responsibilities:  \n \n Lead the execution and optimization of mobile advertising campaigns across Liftoff’s platform. \n Partner with internal technical teams to analyze and improve performance data, develop strategic insights, and deliver actionable recommendations. \n Respond to customer inquiries and provide proactive guidance on performance. \n Responsible for support on escalations and non-standard use of Liftoff tools. \n Coordinate meetings, follow-ups, and reporting for both internal stakeholders and clients. \n Build and maintain performance reports and dashboards to track KPIs and inform strategic decision-making. \n Stay current on industry trends, competitor strategies, and platform updates to inform customer recommendations. \n Contribute to internal project documentation, process improvements, and knowledge-sharing initiatives. \n Help define and improve best practices for Monetize strategy, measurement, and optimization. \n Present data-driven insights and performance summaries to customers in a clear and compelling way. \n Foster strong relationships with clients and internal stakeholders by being reliable, communicative, and collaborative. \n \n  Requirements:  \n \n Bachelor’s degree in a Business, Marketing, Analytics, or related field. \n 6+ years of experience in a data-driven role within mobile, gaming, ad tech, consulting, or e-commerce is a strong plus. \n Business-level language proficiency in both English and Mandarin. \n Familiarity with the use of data analytics tools like Looker, Tableau, and Jira. \n Strong data analysis skills and experience working with Excel, SQL, or other analytics tools. \n A growth mindset, always looking for ways to improve your understanding of performance strategy and client success. \n You will show Agency and Urgency, taking ownership of your projects and acting quickly to resolve issues or improve outcomes. \n Strong communication skills, with the ability to translate technical data into business insights. \n Comfortable managing multiple tasks and priorities in a fast-paced environment. \n A relationship builder with strong interpersonal skills and a service-oriented mindset. \n Willingness to travel up to 15% for in-person client meetings, both local and international.   \n \n \n  Location:  \n This role is eligible for hybrid work onsite at our  Beijing  hub. We require our team members to be onsite 2-3 days a week. \n  Travel Expectations:  \n We offer several opportunities for in-person team gatherings, including but not limited to project meetings, regional meetups, and company",
-    "published_at": "2026-11-12T16:40:22-05:00",
+    "description": "   Liftoff   is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand.  \n  Liftoff’s solutions, including Accelerate, Direct, Monetize, Intelligence, and Vungle Exchange, support over 6,600 mobile businesses across 74 countries in sectors such as gaming, social, finance, ecommerce, and entertainment. Founded in 2012 and headquartered in Redwood City, CA, Liftoff has a diverse, global presence.     About the Role:  \n As a Lead Performance Strategist at Liftoff, you’ll act as a key partner to our Monetize customers, translating data and market trends into actionable growth strategies. You’ll collaborate with cross-functional teams to optimize SDK performance, uncover insights, and drive ROI for clients across the mobile advertising ecosystem. This is a highly collaborative and analytical role that requires a mix of technical acumen, business sense, and customer empathy. This role sits between commercial and technical teams, serves as power users of Liftoff's tools, and supports Accelerate customers across the full account lifecycle. \n Whether you're responding to client needs, identifying optimization opportunities, or building performance reports, your work will directly impact customer satisfaction and business outcomes. \n  Responsibilities:  \n \n Lead the execution and optimization of mobile app monetization for publishers across Liftoff’s platform. \n Partner with internal technical teams to analyze and improve performance data, develop strategic insights, and deliver actionable recommendations. \n Respond to customer inquiries and provide proactive guidance on performance. \n Responsible for support on escalations and non-standard use of Liftoff tools. \n Coordinate meetings, follow-ups, and reporting for both internal stakeholders and clients. \n Build and maintain performance reports and dashboards to track KPIs and inform strategic decision-making. \n Stay current on industry trends, mediation and bidding developments, competitor strategies, and platform updates to inform customer recommendations. \n Contribute to internal project documentation, process improvements, and knowledge-sharing initiatives. \n Help define and improve best practices for Monetize strategy, measurement, and optimization. \n Present data-driven insights and performance summaries to customers in a clear and compelling way. \n Foster strong relationships with clients and internal stakeholders by being reliable, communicative, and collaborative. \n \n  Requirements:  \n \n Bachelor’s degree in a Business, Marketing, Analytics, or related field. \n 6+ years of experience in a data-driven role within mobile, gaming, ad tech, consulting, or e-commerce is a strong plus. \n Business-level language proficiency in both English and Mandarin. \n Familiarity with the use of data analytics tools like Looker, Tableau, and Jira. \n Strong data analysis skills and experience working with Excel, SQL, or other analytics tools. \n A growth mindset, always looking for ways to improve your understanding of performance strategy and client success. \n You will show Agency and Urgency, taking ownership of your projects and acting quickly to resolve issues or improve outcomes. \n Strong communication skills, with the ability to translate technical data into business insights. \n Comfortable managing multiple tasks and priorities in a fast-paced environment. \n A relationship builder with strong interpersonal skills and a service-oriented mindset. \n Willingness to travel up to 15% for in-person client meetings, both local and international.   \n \n \n  Location:  \n This role is eligible for hybrid work onsite at our  Beijing  hub. We require our team members to be onsite 2-3 days a week. \n  Travel Expectations:  \n We offer several opportunities for in-person team gatherings, including but not limited to p",
+    "published_at": "2026-11-13T17:44:08-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://liftoff.io/job/8375843?gh_jid=8375843",
-    "fetched_at": "2026-11-13T02:19:58+00:00"
+    "fetched_at": "2026-11-14T01:56:05+00:00"
   },
   {
     "title": "Expression of Interest: Senior Growth Manager (Ad Sales)",
@@ -1143,7 +1123,7 @@
     "published_at": "2026-10-08T19:10:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/moloco/jobs/5687340003",
-    "fetched_at": "2026-11-13T02:19:59+00:00"
+    "fetched_at": "2026-11-14T01:56:06+00:00"
   },
   {
     "title": "Senior New Business Manager",
@@ -1162,7 +1142,7 @@
     "published_at": "2026-10-26T23:10:42-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/moloco/jobs/8042407003",
-    "fetched_at": "2026-11-13T02:19:59+00:00"
+    "fetched_at": "2026-11-14T01:56:06+00:00"
   },
   {
     "title": "Brand & Communications Manager - GCR",
@@ -1179,7 +1159,7 @@
     "published_at": "2026-03-26T04:48:25-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8480742002?gh_jid=8480742002",
-    "fetched_at": "2026-11-13T02:20:00+00:00"
+    "fetched_at": "2026-11-14T01:56:08+00:00"
   },
   {
     "title": "Customer Success Associate",
@@ -1196,7 +1176,7 @@
     "published_at": "2026-10-29T04:59:49-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8923149002?gh_jid=8923149002",
-    "fetched_at": "2026-11-13T02:20:00+00:00"
+    "fetched_at": "2026-11-14T01:56:08+00:00"
   },
   {
     "title": "General Manager, Greater China Region",
@@ -1213,7 +1193,7 @@
     "published_at": "2026-09-17T03:27:55-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8816080002?gh_jid=8816080002",
-    "fetched_at": "2026-11-13T02:20:00+00:00"
+    "fetched_at": "2026-11-14T01:56:08+00:00"
   },
   {
     "title": "Growth Marketing Manager, GCR",
@@ -1230,7 +1210,7 @@
     "published_at": "2026-10-20T06:34:36-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8793780002?gh_jid=8793780002",
-    "fetched_at": "2026-11-13T02:20:00+00:00"
+    "fetched_at": "2026-11-14T01:56:08+00:00"
   },
   {
     "title": "Associate Account Director (DTC Outbound)",
@@ -1247,7 +1227,7 @@
     "published_at": "2026-11-05T02:40:45-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5160619007",
-    "fetched_at": "2026-11-13T02:20:02+00:00"
+    "fetched_at": "2026-11-14T01:56:10+00:00"
   },
   {
     "title": "Account Executive - Majors",
@@ -1264,7 +1244,7 @@
     "published_at": "2026-11-11T00:34:39-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/zscaler/jobs/5282845007",
-    "fetched_at": "2026-11-13T02:20:20+00:00"
+    "fetched_at": "2026-11-14T01:56:27+00:00"
   },
   {
     "title": "Senior Sales Engineer",
@@ -1281,7 +1261,7 @@
     "published_at": "2026-11-09T22:44:33-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/zscaler/jobs/5284060007",
-    "fetched_at": "2026-11-13T02:20:20+00:00"
+    "fetched_at": "2026-11-14T01:56:27+00:00"
   },
   {
     "title": "IT Support Analyst",
@@ -1300,7 +1280,7 @@
     "published_at": "2026-10-29T21:16:43-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8335814",
-    "fetched_at": "2026-11-13T02:20:23+00:00"
+    "fetched_at": "2026-11-14T01:56:30+00:00"
   },
   {
     "title": "Sr. Staff Engineer, Data Engineering",
@@ -1329,7 +1309,7 @@
     "published_at": "2026-09-24T13:27:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8184639",
-    "fetched_at": "2026-11-13T02:20:23+00:00"
+    "fetched_at": "2026-11-14T01:56:30+00:00"
   },
   {
     "title": "Sr. / Staff SDET, AI Gateway",
@@ -1356,7 +1336,7 @@
     "published_at": "2026-11-09T12:31:01-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8168624",
-    "fetched_at": "2026-11-13T02:20:23+00:00"
+    "fetched_at": "2026-11-14T01:56:30+00:00"
   },
   {
     "title": "Staff Engineer, AI Gateway",
@@ -1385,7 +1365,7 @@
     "published_at": "2026-09-24T13:27:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8211204",
-    "fetched_at": "2026-11-13T02:20:23+00:00"
+    "fetched_at": "2026-11-14T01:56:30+00:00"
   },
   {
     "title": "Staff Engineer, CASB API",
@@ -1418,7 +1398,7 @@
     "published_at": "2026-10-05T01:12:17-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8038887",
-    "fetched_at": "2026-11-13T02:20:23+00:00"
+    "fetched_at": "2026-11-14T01:56:30+00:00"
   },
   {
     "title": "Staff Machine Learning Scientist",
@@ -1444,7 +1424,7 @@
     "published_at": "2026-10-28T22:58:12-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8329534",
-    "fetched_at": "2026-11-13T02:20:23+00:00"
+    "fetched_at": "2026-11-14T01:56:30+00:00"
   },
   {
     "title": "Staff / Sr. Staff Engineer, AI Gateway",
@@ -1471,7 +1451,7 @@
     "published_at": "2026-11-03T21:04:09-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8171690",
-    "fetched_at": "2026-11-13T02:20:23+00:00"
+    "fetched_at": "2026-11-14T01:56:30+00:00"
   },
   {
     "title": "Staff / Sr. Staff Engineer, Data Engineering",
@@ -1496,7 +1476,7 @@
     "published_at": "2026-10-23T15:29:28-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8319243",
-    "fetched_at": "2026-11-13T02:20:23+00:00"
+    "fetched_at": "2026-11-14T01:56:30+00:00"
   },
   {
     "title": "Senior Developer（OTR）",
@@ -1521,7 +1501,7 @@
     "published_at": "2026-11-10T02:21:37-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.thoughtworks.com/careers/jobs/8190474?gh_jid=8190474",
-    "fetched_at": "2026-11-13T02:20:24+00:00"
+    "fetched_at": "2026-11-14T01:56:31+00:00"
   },
   {
     "title": "Senior Machine Learning Engineer",
@@ -1547,7 +1527,7 @@
     "published_at": "2026-11-10T02:57:04-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.thoughtworks.com/careers/jobs/8358258?gh_jid=8358258",
-    "fetched_at": "2026-11-13T02:20:24+00:00"
+    "fetched_at": "2026-11-14T01:56:31+00:00"
   },
   {
     "title": "Software Developer",
@@ -1571,7 +1551,7 @@
     "published_at": "2026-11-09T01:07:01-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.thoughtworks.com/careers/jobs/8330382?gh_jid=8330382",
-    "fetched_at": "2026-11-13T02:20:24+00:00"
+    "fetched_at": "2026-11-14T01:56:31+00:00"
   },
   {
     "title": "Campus AI/ML Researcher (Intern)",
@@ -1595,7 +1575,7 @@
     "published_at": "2026-08-28T07:28:48-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027938",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Campus C++ Software Engineer (Intern)",
@@ -1616,7 +1596,7 @@
     "published_at": "2026-10-06T10:25:10-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027860",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Campus Python Software Engineer (Intern)",
@@ -1640,7 +1620,7 @@
     "published_at": "2026-10-06T10:21:01-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Campus Quantitative Researcher (Intern)",
@@ -1661,7 +1641,7 @@
     "published_at": "2026-08-28T07:27:49-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern)",
@@ -1682,7 +1662,7 @@
     "published_at": "2026-08-28T07:26:21-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Campus Quantitative Trader (Intern)",
@@ -1699,7 +1679,7 @@
     "published_at": "2026-08-28T07:28:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Cloud Systems Engineer | Production Engineering",
@@ -1721,11 +1701,11 @@
     ],
     "education": null,
     "experience": null,
-    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n We are building a small, high-impact team to design and run infrastructure that operates outside Jump's primary environment. This is a broad remit: cloud, production systems, and HPC-style workloads all fall within scope, with sound security practices built in throughout. We are looking for a true generalist who can design systems from the ground up, operate them with little direction, and dig deep when things break. \n What You'll Do: \n \n Design, build, and maintain cloud infrastructure that operates independently of Jump's on-premises environment \n Architect resilient, reliable systems, with security considered as part of good design from the start \n Build independent infrastructure and controls that strengthen Jump's overall resilience \n Support production and HPC-style compute workloads in the cloud, including provisioning, scaling, performance, and cost \n Own a wide range of systems end to end, from networking and identity to compute, storage, and monitoring \n Lead root cause analysis on incidents until the true cause is found and fixed \n Improve monitoring, logging, and alerting so problems are detected and resolved quickly \n Apply infrastructure security best practices, including access management, secrets management, server hardening, and audit logging \n Pivot quickly to whatever needs fixing across the infrastructure, balancing competing priorities with minimal oversight \n Work with a globally distributed team to maintain high availability \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n Broad, hands-on experience as an infrastructure generalist, such as Linux administration, DevOps, systems engineering, or SRE \n Deep understanding of Linux internals and networking fundamentals, including TCP/IP, DNS, TLS, HTTP, routing, and load balancing \n Strong experience with at least one major cloud provider (AWS, GCP, or Azure), including networking, IAM, and compute services \n Working knowledge of infrastructure security fundamentals, such as IAM, secrets management, system hardening, and logging/audit \n A proven track record of troubleshooting complex systems and driving root cause analysis across multiple layers of the stack \n Experience designing and architecting systems, not just operating them \n Experience with infrastructure-as-code and configuration management tools such as Terraform, Ansible, or Salt \n Experience with monitoring and alerting tools such as Prometheus, Alertmanager, or Grafana \n Proficiency in Bash and Python scripting. Deep software engineering experience is not required \n Comfort working in a flat, fast-paced team \n Reliable and predictable availability \n \n Bonus Points: \n \n Exposure to HPC environments or large-scale compute clusters \n Experience with Kubernetes and containerized workloads \n Experience with bare-metal and hybrid infrastructure \n Additional depth in security, such as incident response or secure architecture design \n Experience in trading, financial services, or other high-availability environments \n ",
-    "published_at": "2026-11-12T14:28:33-05:00",
+    "description": " Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n We are building a small, high-impact team to design and run infrastructure that operates outside Jump's primary environment. This is a broad remit: cloud, production systems, and HPC-style workloads all fall within scope, with sound security practices built in throughout. We are looking for a true generalist who can design systems from the ground up, operate them with little direction, and dig deep when things break. \n What You'll Do: \n \n Design, build, and maintain cloud infrastructure that operates independently of Jump's on-premises environment \n Architect resilient, reliable systems, with security considered as part of good design from the start \n Build independent infrastructure and controls that strengthen Jump's overall resilience \n Support production and HPC-style compute workloads in the cloud, including provisioning, scaling, performance, and cost \n Own a wide range of systems end to end, from networking and identity to compute, storage, and monitoring \n Lead root cause analysis on incidents until the true cause is found and fixed \n Improve monitoring, logging, and alerting so problems are detected and resolved quickly \n Apply infrastructure security best practices, including access management, secrets management, server hardening, and audit logging \n Pivot quickly to whatever needs fixing across the infrastructure, balancing competing priorities with minimal oversight \n Work with a globally distributed team to maintain high availability \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n Broad, hands-on experience as an infrastructure generalist, such as Linux administration, DevOps, systems engineering, or SRE \n Deep understanding of Linux internals and networking fundamentals, including TCP/IP, DNS, TLS, HTTP, routing, and load balancing \n Strong experience with at least one major cloud provider (AWS, GCP, or Azure), including networking, IAM, and compute services \n Working knowledge of infrastructure security fundamentals, such as IAM, secrets management, system hardening, and logging/audit \n A proven track record of troubleshooting complex systems and driving root cause analysis across multiple layers of the stack \n Experience designing and architecting systems, not just operating them \n Experience with infrastructure-as-code and configuration management tools such as Terraform, Ansible, or Salt \n Experience with monitoring and alerting tools such as Prometheus, Alertmanager, or Grafana \n Proficiency in Bash and Python scripting. Deep software engineering experience is not required \n Comfort working in a flat, fast-paced team \n Reliable and predictable availability \n \n Bonus Points: \n \n Exposure to HPC environments or large-scale compute clusters \n Experience with Kubernetes and containerized workloads \n Experience with bare-metal and hybrid infrastructure \n Additional depth in security, such as incident response or secure architecture design \n Experience in trading, financial services, or other high-availability environments \n ",
+    "published_at": "2026-11-13T05:18:54-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8370626",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Data Scientist | Post Trade Analytics",
@@ -1747,7 +1727,7 @@
     "published_at": "2026-11-12T14:33:14-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7483202",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Deep Learning Researcher | Trading Team",
@@ -1765,11 +1745,11 @@
     ],
     "education": null,
     "experience": null,
-    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n The quantitative trading teams at Jump Trading probe and examine the global markets, seeking to understand the complexities of various traded products and exchanges. They leverage their impeccable statistical analysis, machine learning and deep learning skills, using the results of their research to make forecasts and develop profitable predictive trading models. \n  What You'll Do:  \n We are seeking research scientists with a demonstrated ability to apply deep learning to achieve state-of-the-art capabilities in complex and challenging domains. The ideal person for this role will be capable of implementing an open-ended research project from concept to production and continuously improving model design, tools, and infrastructure. Potential projects may target any area of the quantitative research and monetization process. We believe that successful research efforts require a fluid mix of skills including ML expertise, engineering pragmatism, statistics and market intuition. \n Other duties as assigned or needed \n  Skills You'll Need:  \n \n 5+ years of experience in developing DL systems with measurable impact in industry and/or academia \n Creative thinkers who are driven, self-motivated, and eager to solve challenging problems \n Proficiency in Python and/or C++ \n Strong foundation in mathematics and statistics \n Ability to thrive in a collaborative, team-oriented environment \n Master's degree or PhD in Computer Science, Mathematics, or a related subject \n Strong publication record at ICML, ICLR, AAAI, NeurIPS, UAI, KDD, or equivalent \n Reliable and predictable availability \n Excellent written and verbal communication skills in English \n \n   ",
-    "published_at": "2026-11-12T11:44:27-05:00",
+    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n The quantitative trading teams at Jump Trading probe and examine the global markets, seeking to understand the complexities of various traded products and exchanges. They leverage their impeccable statistical analysis, machine learning and deep learning skills, using the results of their research to make forecasts and develop profitable predictive trading models. \n What You'll Do: \n We are seeking research scientists with a demonstrated ability to apply deep learning to achieve state-of-the-art capabilities in complex and challenging domains. The ideal person for this role will be capable of implementing an open-ended research project from concept to production and continuously improving model design, tools, and infrastructure. Potential projects may target any area of the quantitative research and monetization process. We believe that successful research efforts require a fluid mix of skills including ML expertise, engineering pragmatism, statistics and market intuition. \n Other duties as assigned or needed \n Skills You'll Need: \n \n 5+ years of experience in developing DL systems with measurable impact in industry and/or academia \n Creative thinkers who are driven, self-motivated, and eager to solve challenging problems \n Proficiency in Python and/or C++ \n Strong foundation in mathematics and statistics \n Ability to thrive in a collaborative, team-oriented environment \n Master's degree or PhD in Computer Science, Mathematics, or a related subject \n Strong publication record at ICML, ICLR, AAAI, NeurIPS, UAI, KDD, or equivalent \n Excellent written and verbal communication skills in English \n Reliable and predictable availability \n ",
+    "published_at": "2026-11-13T05:34:10-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6603013",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "HR Operations Specialist",
@@ -1786,7 +1766,7 @@
     "published_at": "2026-11-12T15:01:36-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8045867",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Lead Data Analyst",
@@ -1802,11 +1782,11 @@
     ],
     "education": null,
     "experience": null,
-    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n Our Data team is responsible for building a world-class data platform with a centralized source of vendor and proprietary research data. We operate in a very dynamic environment utilizing a sophisticated and diverse technology stack. The team interfaces with all aspects of the firm, from Trading, Research, and Technology to Risk, Middle Office and Accounting — providing individuals within the group a full 360-degree view of Jump. Our Proprietary Data team collects and builds research-ready datasets, financial and non-financial, from primary sources, vendors, and public data; cleans, tags, and organizes them with consistent identifiers, taxonomies, and metadata; sources data not available from vendors and evaluates its quality and provenance. It performs deep data analysis, identifies and corrects data quality issues, and surfaces the conventions behind the datasets we use. The team provides human-in-the-loop review for automated and AI-driven pipelines, and partners with engineers to turn manual workflows into repeatable, automated processes. \n This is a senior, hands-on leadership role, working closely with researchers, traders, and engineers across the firm. The role offers the individual the opportunity to develop both business and technical expertise, while significantly contributing to our whole platform. \n What You'll Do: \n The ideal candidate will be able to dig into the details of the data and work with end-users to understand their needs and deliver results. We are looking for individuals who are instinctively curious self-starters, demonstrating the ability to independently drive tasks and projects to completion in a team environment. Curiosity, focus, attention to detail, and a genuine enjoyment of learning are essential to this role. \n As Lead Data Analyst, you will lead that team day to day. You will: \n \n  Coordinate the team's work:  Translate requests from researchers, traders, and engineers into well-defined projects, set priorities across competing demands, and drive them to completion \n  Own quality:  Set the standards for how data is collected, tagged, documented, and validated, and review the team's output before it reaches the researchers and traders who depend on it \n  Guide individual analysts:  Assign work suited to each analyst's strengths and development, give regular and specific feedback, and coach them on data research techniques and the effective use of modern AI tools \n  Stay hands-on:  Take on the most ambiguous and highest-stakes data problems yourself, and model the curiosity and rigor expected of the team \n  Serve as the primary point of contact for the team:  Understand the business needs, communicate findings and status clearly and concisely, and manage expectations \n Partner with data engineers to decide which manual workflows to automate and ensure automated and AI-driven pipelines keep appropriate human-in-the-loop review \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n 7+ years of hands-on experience working with data in the financial industry, at a trading firm, hedge fund, bank, or a vendor serving those institutions \n 3+ years of experience leading complex projects and other analysts \n Direct experience collect",
-    "published_at": "2026-11-12T15:08:00-05:00",
+    "description": " Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n Our Data team is responsible for building a world-class data platform with a centralized source of vendor and proprietary research data. We operate in a very dynamic environment utilizing a sophisticated and diverse technology stack. The team interfaces with all aspects of the firm, from Trading, Research, and Technology to Risk, Middle Office and Accounting - providing individuals within the group a full 360-degree view of Jump. Our Proprietary Data team collects and builds research-ready datasets, financial and non-financial, from primary sources, vendors, and public data; cleans, tags, and organizes them with consistent identifiers, taxonomies, and metadata; sources data not available from vendors and evaluates its quality and provenance. It performs deep data analysis, identifies and corrects data quality issues, and surfaces the conventions behind the datasets we use. The team provides human-in-the-loop review for automated and AI-driven pipelines, and partners with engineers to turn manual workflows into repeatable, automated processes. \n This is a senior, hands-on leadership role, working closely with researchers, traders, and engineers across the firm. The role offers the individual the opportunity to develop both business and technical expertise, while significantly contributing to our whole platform. \n What You'll Do: \n The ideal candidate will be able to dig into the details of the data and work with end-users to understand their needs and deliver results. We are looking for individuals who are instinctively curious self-starters, demonstrating the ability to independently drive tasks and projects to completion in a team environment. Curiosity, focus, attention to detail, and a genuine enjoyment of learning are essential to this role. \n As Lead Data Analyst, you will lead that team day to day. You will: \n \n  Coordinate the team's work:  Translate requests from researchers, traders, and engineers into well-defined projects, set priorities across competing demands, and drive them to completion \n  Own quality:  Set the standards for how data is collected, tagged, documented, and validated, and review the team's output before it reaches the researchers and traders who depend on it \n  Guide individual analysts:  Assign work suited to each analyst's strengths and development, give regular and specific feedback, and coach them on data research techniques and the effective use of modern AI tools \n  Stay hands-on:  Take on the most ambiguous and highest-stakes data problems yourself, and model the curiosity and rigor expected of the team \n  Serve as the primary point of contact for the team:  Understand the business needs, communicate findings and status clearly and concisely, and manage expectations \n Partner with data engineers to decide which manual workflows to automate and ensure automated and AI-driven pipelines keep appropriate human-in-the-loop review \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n 7+ years of hands-on experience working with data in the financial industry, at a trading firm, hedge fund, bank, or a vendor serving those institutions \n 3+ years of experience leading complex projects and other analysts \n Direct experience collecting",
+    "published_at": "2026-11-13T05:24:46-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8236517",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Leadership and Professional Development Specialist | Talent Development",
@@ -1819,11 +1799,11 @@
     "skills": [],
     "education": null,
     "experience": null,
-    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n Jump is hiring a hands-on, player-coach L&D professional to cover the APAC region; this role will partner with the global L&D team to extend and execute Jump's comprehensive learning and development strategy across all employee levels in APAC. The role will deliver both technical training and leadership development programs while building expert networks, running pilot programs, measuring ROI, and collaborating cross-organizationally to create innovative, high-impact training solutions. \n What You'll Do: \n \n Be responsible for partnering with the global L&D team to design, drive, and execute Jump's learning and development strategy and framework — focusing on established employees, new experienced hires, emerging managers, and senior executives \n Critically assess and evaluate learning opportunities to meet local business needs, cultural norms, and cross-cultural collaboration \n In conjunction with global efforts, build and implement a comprehensive range of technical and leadership development training across APAC. Technical training may include exciting and novel learning opportunities centered around math and statistics, technology and engineering, or general interest topics; leadership development may encompass manager effectiveness, communication and project management skills, and interviewer training \n Cultivate and maintain a network of both internal and external experts to deliver learning programs. This may include outside coaches and trainers, assessment specialists, or partnerships with select academic faculty \n Foster an experimental approach to executing the learning strategy, running pilot programs with select groups to explore proof-of-concept, then exporting successful offerings to other groups within the firm that may benefit from them \n Focus on development needs at the individual, management, and team levels. Devise a methodology for quantifying outcomes and measuring ROI. Take accountability for the results \n Be collaborative and influential, with an ability to build consensus and work effectively across organizational boundaries. Be comfortable with change, showing resilience in the face of ambiguous, challenging scenarios \n APAC is not one market; it is at least 5 distinctly different cultural operating environments — effective L&D in this region requires deep cultural intelligence, not just awareness. You will work with Business Leaders and People Ops partners to understand and define talent needs to proactively manage the talent learning and development agenda \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n 8+ years of progressive experience in Learning & Development, Organizational Development, or Talent Development \n Hands-on and low-ego, comfortable operating in a lean team without a large support structure \n Ability and willingness to lean into a global L&D team model to collaborate, align on priorities, and strategize both global and local approaches to leadership and professional development \n Advanced degree in IO Psychology, Organizational Development, Education, or related discipline; strong foundational knowledge in psychology, organizational behavior, or coaching methodology \n Experience in financial services, quantita",
-    "published_at": "2026-11-12T15:00:31-05:00",
+    "description": " Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n Jump is hiring a hands-on, player-coach L&D professional to cover the APAC region; this role will partner with the global L&D team to extend and execute Jump's comprehensive learning and development strategy across all employee levels in APAC. The role will deliver both technical training and leadership development programs while building expert networks, running pilot programs, measuring ROI, and collaborating cross-organizationally to create innovative, high-impact training solutions. \n What You'll Do: \n \n Be responsible for partnering with the global L&D team to design, drive, and execute Jump's learning and development strategy and framework — focusing on established employees, new experienced hires, emerging managers, and senior executives \n Critically assess and evaluate learning opportunities to meet local business needs, cultural norms, and cross-cultural collaboration \n In conjunction with global efforts, build and implement a comprehensive range of technical and leadership development training across APAC. Technical training may include exciting and novel learning opportunities centered around math and statistics, technology and engineering, or general interest topics; leadership development may encompass manager effectiveness, communication and project management skills, and interviewer training \n Cultivate and maintain a network of both internal and external experts to deliver learning programs. This may include outside coaches and trainers, assessment specialists, or partnerships with select academic faculty \n Foster an experimental approach to executing the learning strategy, running pilot programs with select groups to explore proof-of-concept, then exporting successful offerings to other groups within the firm that may benefit from them \n Focus on development needs at the individual, management, and team levels. Devise a methodology for quantifying outcomes and measuring ROI. Take accountability for the results \n Be collaborative and influential, with an ability to build consensus and work effectively across organizational boundaries. Be comfortable with change, showing resilience in the face of ambiguous, challenging scenarios \n APAC is not one market; it is at least 5 distinctly different cultural operating environments — effective L&D in this region requires deep cultural intelligence, not just awareness. You will work with Business Leaders and People Ops partners to understand and define talent needs to proactively manage the talent learning and development agenda \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n 8+ years of progressive experience in Learning & Development, Organizational Development, or Talent Development \n Hands-on and low-ego, comfortable operating in a lean team without a large support structure \n Ability and willingness to lean into a global L&D team model to collaborate, align on priorities, and strategize both global and local approaches to leadership and professional development \n Advanced degree in IO Psychology, Organizational Development, Education, or related discipline; strong foundational knowledge in psychology, organizational behavior, or coaching methodology \n Experience in financial services, quantitativ",
+    "published_at": "2026-11-13T05:30:05-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7946175",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Quantitative Developer",
@@ -1843,7 +1823,7 @@
     "published_at": "2026-11-12T13:38:16-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7822791",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Quantitative Developer | Trading team",
@@ -1860,11 +1840,11 @@
     ],
     "education": null,
     "experience": null,
-    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n We're expanding our successful global equity stat arb business with the build-out of a new team of quantitative researchers and developers focused on developing mixed-frequency (low/mid) strategies based out of Hong Kong. As a quantitative developer, you will collaborate closely with the team's researchers and engineers to architect, build, and maintain the team's research infrastructure and production systems. You will work closely with the quantitative researchers on the team to create and improve research, develop and build out trading infrastructure, improve the scalability of the production systems while maintaining the production trading environment and troubleshooting problems, and develop software to automate and improve deployment, configuration, and validation. As a new team, we're looking for someone who enjoys open-ended problems and owning their solutions - you'll be a part of a cutting-edge team leveraging state-of-the-art technology and data, while working in a collaborative environment with opportunities for professional growth. \n What You'll Do: \n You'll contribute to one or more of the following projects: \n \n  Machine learning development:  Build the team's proprietary end-to-end machine learning pipeline. Work extensively with quantitative researchers to understand requirements and constraints, implement proprietary ML features and algorithms, and continuously improve model design, tools, and infrastructure \n  Microstructure research:  Develop tools to enhance research on market microstructure, collaborating with researchers to generate and analyze key features \n  Portfolio optimization:  Design a portfolio optimization system to support comprehensive portfolio management strategies \n  Data pipeline and system management:  Engage in full-cycle development, including research, coding, testing, and deploying systems into production. Provide direct support to end users, troubleshoot issues, and manage system upgrades \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n 5+ year track record of solving challenging problems through coding with real metrics & impact in industry and/or academia \n Passion for building efficient, modular software to tackle challenging problems. Experience is a plus, but a strong desire to learn and grow is essential \n Strong software development skills in Python and/or C++ \n Strong learning ability, intellectual curiosity, versatility, and originality combined with a pragmatic outlook \n Ability to reason through quantitative problems and communicate effectively with quantitative researchers \n Reliable and predictable availability to ensure smooth operations of production systems \n 2+ years of experience working with industrial-grade codebases using compiled languages such as C++ is advantageous \n Familiarity with high-performance computing (HPC) and distributed large-scale model training is a plus \n \n  ",
-    "published_at": "2026-11-12T13:35:20-05:00",
+    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n We're expanding our successful global equity stat arb business with the build-out of a new team of quantitative researchers and developers focused on developing mixed-frequency (low/mid) strategies based out of Hong Kong. As a quantitative developer, you will collaborate closely with the team's researchers and engineers to architect, build, and maintain the team's research infrastructure and production systems. You will work closely with the quantitative researchers on the team to create and improve research, develop and build out trading infrastructure, improve the scalability of the production systems while maintaining the production trading environment and troubleshooting problems, and develop software to automate and improve deployment, configuration, and validation. As a new team, we're looking for someone who enjoys open-ended problems and owning their solutions - you'll be a part of a cutting-edge team leveraging state-of-the-art technology and data, while working in a collaborative environment with opportunities for professional growth. \n What You'll Do: \n You'll contribute to one or more of the following projects: \n \n  Machine learning development:  Build the team's proprietary end-to-end machine learning pipeline. Work extensively with quantitative researchers to understand requirements and constraints, implement proprietary ML features and algorithms, and continuously improve model design, tools, and infrastructure \n  Microstructure research:  Develop tools to enhance research on market microstructure, collaborating with researchers to generate and analyze key features \n  Portfolio optimization:  Design a portfolio optimization system to support comprehensive portfolio management strategies \n  Data pipeline and system management:  Engage in full-cycle development, including research, coding, testing, and deploying systems into production. Provide direct support to end users, troubleshoot issues, and manage system upgrades \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n 5+ year track record of solving challenging problems through coding with real metrics & impact in industry and/or academia \n Passion for building efficient, modular software to tackle challenging problems. Experience is a plus, but a strong desire to learn and grow is essential \n Strong software development skills in Python and/or C++ \n Strong learning ability, intellectual curiosity, versatility, and originality combined with a pragmatic outlook \n Ability to reason through quantitative problems and communicate effectively with quantitative researchers \n Reliable and predictable availability to ensure smooth operations of production systems \n 2+ years of experience working with industrial-grade codebases using compiled languages such as C++ is advantageous \n Familiarity with high-performance computing (HPC) and distributed large-scale model training is a plus \n Reliable and predictable availability \n \n  ",
+    "published_at": "2026-11-13T10:34:04-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6172858",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Quantitative Developer | Trading Team",
@@ -1880,11 +1860,11 @@
     ],
     "education": null,
     "experience": null,
-    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n Jump Trading established its dedication to the China market with the launch of our Shanghai office in late 2017 with the ambition of building an independently operational office. Due to this ambition, we are growing our competencies in Trading, Technology and Operations. We bring together the best of two worlds: a start-up environment powered by global Jump Trading dedication and resources. \n This position is part of software development in a trading team. As a Quantitative Developer, you will work on a core team of technologists who build and improve the platforms that drive the trading team. You will work closely with the quantitative researchers on the team to create and improve research and trading infrastructure, improve the scalability of the production systems, maintain the production trading environment, troubleshoot problems, and develop software to automate and improve deployment, configuration, and validation. \n The team is looking for someone who will be passionate about development and demonstrates intellectual curiosity and an ability to solve difficult technical problems in a fast-paced and energetic environment. \n What You'll Do: \n \n Full-cycle development, including research and production systems, writing, testing, and debugging code, deploying finished code into the production environment, and ensuring all code is checked into source control \n Direct support of end users, troubleshooting problems and upgrading applications \n Monitoring, troubleshooting, break/fix of production trading system \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n Proficient in Python and C++, with the ability to develop and maintain code for production applications \n Strong analytical and problem-solving skills \n Must be extremely detail-oriented \n Proven success working with large datasets \n Self-directed and comfortable taking ownership of projects and responsibilities \n Reliable and predictable availability \n \n  ",
-    "published_at": "2026-11-12T13:36:58-05:00",
+    "description": " Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n Jump Trading established its dedication to the China market with the launch of our Shanghai office in late 2017 with the ambition of building an independently operational office. Due to this ambition, we are growing our competencies in Trading, Technology and Operations. We bring together the best of two worlds: a start-up environment powered by global Jump Trading dedication and resources. \n This position is part of software development in a trading team. As a Quantitative Developer, you will work on a core team of technologists who build and improve the platforms that drive the trading team. You will work closely with the quantitative researchers on the team to create and improve research and trading infrastructure, improve the scalability of the production systems, maintain the production trading environment, troubleshoot problems, and develop software to automate and improve deployment, configuration, and validation. \n The team is looking for someone who will be passionate about development and demonstrates intellectual curiosity and an ability to solve difficult technical problems in a fast-paced and energetic environment. \n What You'll Do: \n \n Full-cycle development, including research and production systems, writing, testing, and debugging code, deploying finished code into the production environment, and ensuring all code is checked into source control \n Direct support of end users, troubleshooting problems and upgrading applications \n Monitoring, troubleshooting, break/fix of production trading system \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n Proficient in Python and C++, with the ability to develop and maintain code for production applications \n Strong analytical and problem-solving skills \n Must be extremely detail-oriented \n Proven success working with large datasets \n Self-directed and comfortable taking ownership of projects and responsibilities \n Reliable and predictable availability \n \n   ",
+    "published_at": "2026-11-13T05:34:40-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6190021",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Quantitative Developer | Trading Team",
@@ -1905,11 +1885,11 @@
     ],
     "education": null,
     "experience": null,
-    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n We are seeking a Quantitative Developer to help support one of our global research teams. In this role, you will collaborate closely with the team's researchers to maintain the team's infrastructure as it relates to live trading outcomes. This is a hybrid development and research and trading operations position. You'll be responsible for ensuring the reliability of the team's research pipeline - diagnosing and fixing idiosyncratic issues in research and trading systems, making jobs more stable, and stepping in when things go wrong. We are looking for a mature, self-directed engineer who can operate independently and handle high-stakes situations with confidence. The more efficiently you can automate and stabilize operations, the more time you'll have to focus on performance-oriented development work. \n What You'll Do: \n \n  Manage and evolve the monitoring system:  Act as the primary escalation point for error messages and failed jobs. Chase problems identified by the monitoring system to their source - identifying bugs, writing fixes, and resolving issues yourself rather than forwarding them on. Maintain a big-picture understanding of all processes overseen by the monitoring system \n  Improve pipeline efficiency and performance:  Investigate recurring pipeline issues and solve them at a systemic level. Optimize performance-critical workloads - for example, making ML models and GPU jobs run faster and more efficiently \n  Engage in full-cycle development:  Contribute across research, coding, testing, and deploying systems into production. Provide direct support to end users, troubleshoot issues, and manage system upgrades. Design and maintain robust testing, deployment, rollout, and rollback processes \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n 2–5 years of experience in a production engineering or trade support function. Experience solving challenging problems through code in a live trading environment \n Strong software development skills in Python (primary) and C++, with the ability to build efficient, modular, and reliable systems. A performance-oriented mindset is essential \n Strong production engineering skills in Linux and Bash, including scripting to get systems up and running, troubleshooting, monitoring, and operating real-time systems under pressure \n  Hands-on debugging ability:  Follow error messages to their source, identify the underlying problem, and begin the fix. This is a role for someone who resolves issues, not someone who escalates them \n  Maturity and independence:  Comfortable operating autonomously in a high-stakes environment where downtime carries real consequences \n Reliable and predictable availability to ensure smooth operations of production systems, including responsiveness during trading hours when needed \n Strong learning ability, intellectual curiosity, versatility, and originality combined with a pragmatic outlook. This position is connected to all facets of the \"research to risk-on\" process and is accordingly well suited to people who want to learn all facets of the big picture \n Ability to reason through quantitative problems and communicate effectively with quantitative researchers and engineers \n \n Bonus Points: ",
-    "published_at": "2026-11-12T13:40:08-05:00",
+    "description": " Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n We are seeking a Quantitative Developer to help support one of our global research teams. In this role, you will collaborate closely with the team's researchers to maintain the team's infrastructure as it relates to live trading outcomes. This is a hybrid development and research and trading operations position. You'll be responsible for ensuring the reliability of the team's research pipeline - diagnosing and fixing idiosyncratic issues in research and trading systems, making jobs more stable, and stepping in when things go wrong. We are looking for a mature, self-directed engineer who can operate independently and handle high-stakes situations with confidence. The more efficiently you can automate and stabilize operations, the more time you'll have to focus on performance-oriented development work. \n What You'll Do: \n \n  Manage and evolve the monitoring system:  Act as the primary escalation point for error messages and failed jobs. Chase problems identified by the monitoring system to their source - identifying bugs, writing fixes, and resolving issues yourself rather than forwarding them on. Maintain a big-picture understanding of all processes overseen by the monitoring system \n  Improve pipeline efficiency and performance:  Investigate recurring pipeline issues and solve them at a systemic level. Optimize performance-critical workloads - for example, making ML models and GPU jobs run faster and more efficiently \n  Engage in full-cycle development:  Contribute across research, coding, testing, and deploying systems into production. Provide direct support to end users, troubleshoot issues, and manage system upgrades. Design and maintain robust testing, deployment, rollout, and rollback processes \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n 2–5 years of experience in a production engineering or trade support function. Experience solving challenging problems through code in a live trading environment \n Strong software development skills in Python (primary) and C++, with the ability to build efficient, modular, and reliable systems. A performance-oriented mindset is essential \n Strong production engineering skills in Linux and Bash, including scripting to get systems up and running, troubleshooting, monitoring, and operating real-time systems under pressure \n  Hands-on debugging ability:  Follow error messages to their source, identify the underlying problem, and begin the fix. This is a role for someone who resolves issues, not someone who escalates them \n  Maturity and independence:  Comfortable operating autonomously in a high-stakes environment where downtime carries real consequences \n Reliable and predictable availability to ensure smooth operations of production systems, including responsiveness during trading hours when needed \n Strong learning ability, intellectual curiosity, versatility, and originality combined with a pragmatic outlook. This position is connected to all facets of the \"research to risk-on\" process and is accordingly well suited to people who want to learn all facets of the big picture \n Ability to reason through quantitative problems and communicate effectively with quantitative researchers and engineers \n \n Bonus Points: \n \n",
+    "published_at": "2026-11-13T05:28:25-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8105914",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Quantitative Researcher | Trading Team",
@@ -1928,11 +1908,11 @@
     ],
     "education": null,
     "experience": null,
-    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incentivizing collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n We're expanding our successful global equity stat arb business with the build-out of a new team of quantitative researchers focused on developing mixed-frequency (low/mid) strategies based out of Hong Kong. This team will leverage new and differentiated approaches to research and will be made up of top talent across the fields of Quantitative Research, ML/LLM & Engineering. \n What You'll Do: \n Quantitative Researchers collect and analyze tens of thousands of datasets, identify patterns and extract insights into the complexities in global financial markets. Researchers lean heavily on statistical analysis, machine learning, and data engineering skills; applying the results of their research to forecasts and predictive trading models. Jump's Quantitative Researchers are constantly collaborating with other scientists, traders, hardware and software developers, and market-facing business teams to push for the best expression of our new ideas. \n Other duties as assigned or needed \n Skills You'll Need: \n \n Creative thinkers who are driven, self-motivated, and eager to solve challenging problems \n Proven experience developing successful quantitative trading strategies is highly preferred, though not required \n Demonstrable experience leveraging forecasting and machine learning techniques, such as linear regression analysis, neural networks or other state-of-the-art models \n Bachelor's, Master's, or PhD in Computer Science, Statistics, Physics, Mathematics, or a related subject \n Strong programming skills in C++/Python in a Linux environment \n Desire to work within a collaborative, team-driven, fast-paced environment \n Reliable and predictable availability \n ",
-    "published_at": "2026-11-12T13:46:06-05:00",
+    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n We're expanding our successful global equity stat arb business with the build-out of a new team of quantitative researchers focused on developing mixed-frequency (low/mid) strategies based out of Hong Kong. This team will leverage new and differentiated approaches to research and will be made up of top talent across the fields of Quantitative Research, ML/LLM & Engineering. \n What You'll Do: \n Quantitative Researchers collect and analyze tens of thousands of datasets, identify patterns and extract insights into the complexities in global financial markets. Researchers lean heavily on statistical analysis, machine learning, and data engineering skills; applying the results of their research to forecasts and predictive trading models. Jump's Quantitative Researchers are constantly collaborating with other scientists, traders, hardware and software developers, and market-facing business teams to push for the best expression of our new ideas. \n Other duties as assigned or needed \n Skills You'll Need: \n \n Creative thinkers who are driven, self-motivated, and eager to solve challenging problems \n Proven experience developing successful quantitative trading strategies is highly preferred, though not required \n Demonstrable experience leveraging forecasting and machine learning techniques, such as linear regression analysis, neural networks or other state-of-the-art models \n Bachelor's, Master's, or PhD in Computer Science, Statistics, Physics, Mathematics, or a related subject \n Strong programming skills in C++/Python in a Linux environment \n Desire to work within a collaborative, team-driven, fast-paced environment \n Reliable and predictable availability \n \n  ",
+    "published_at": "2026-11-13T10:31:21-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6098760",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Senior Human Resources Business Partner",
@@ -1945,11 +1925,11 @@
     "skills": [],
     "education": null,
     "experience": null,
-    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n The HR team helps protect the firm's largest investment: our people. As a Senior HRBP in our global People Operations team, you'll work with business leaders on complex organizational challenges as the business changes and help keep our culture strong along the way. A large part of the role is coaching. You'll be a trusted coach to leaders and managers, helping them lead their teams, handle hard moments and grow their people. The role is both strategic and hands-on. You'll care about the people, and you'll also see how a great workplace drives business results. \n We work in a flat, consensus-driven environment where influence matters more than hierarchy. Our team is innovative, driven, collaborative and trustworthy, and we care about what we do and who we do it with. \n What You'll Do: \n \n  Partner on people strategy:  Be a thought partner to business leaders. Turn business strategy into decisions on workforce planning, org design, succession and talent. Help managers set their annual priorities and plans \n  Coach leaders and managers:  Be a trusted one-to-one coach to senior leaders and people managers. Provide coaching on leadership style, performance and feedback conversations, team dynamics, stakeholder relationships and leading through change. Help leaders see their blind spots and build habits to address them \n  Develop talent:  Help managers grow their people through development plans, internal moves and global career opportunities. Identify high-potential talent and support succession planning \n  Build coaching capability across the firm:  Support first-time and newly promoted managers through the transition into leadership. Run coaching-based conversations and small-group sessions that grow management capability. Help build a culture where feedback and development happen continuously, not just at review time \n  Lead employee relations:  Spot, reduce and resolve employee issues and conflict early, with sound judgment, discretion and fairness. Manage ER cases end to end, including grievances, investigations, performance and disciplinary matters, and sensitive exits, working closely with Legal. Coach managers to handle issues themselves where they can \n  Drive engagement and retention:  Work out what's working and what isn't in the employee experience. Design practical fixes that strengthen engagement and keep critical talent, in line with our values \n  Carry the culture:  Make sure team and people decisions reflect our core values, and challenge constructively when they don't \n  Deliver core HR cycles:  Contribute to global processes including performance review, merit and bonus, global mobility, leave and offboarding. Bring the regional view and improve each cycle \n  Connect regional and global:  Represent APAC needs within global People Operations. Share updates, good practice and new ideas, and help shape improvements to HR operations, systems and processes \n  Manage risk and compliance:  Work with Legal, Compliance and senior management on local, regional and global changes. Ensure compliance with Hong Kong and wider APAC employment law, and with contract terms such as confidentiality, non-solicitation and non-compete \n  Develop the HR team:  Mentor and coach ",
-    "published_at": "2026-11-12T14:52:35-05:00",
+    "description": " Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n The HR team helps protect the firm's largest investment: our people. As a Senior HRBP in our global People Operations team, you'll work with business leaders on complex organizational challenges as the business changes and help keep our culture strong along the way. A large part of the role is coaching. You'll be a trusted coach to leaders and managers, helping them lead their teams, handle hard moments and grow their people. The role is both strategic and hands-on. You'll care about the people, and you'll also see how a great workplace drives business results. \n We work in a flat, consensus-driven environment where influence matters more than hierarchy. Our team is innovative, driven, collaborative and trustworthy, and we care about what we do and who we do it with. \n What You'll Do: \n \n  Partner on people strategy:  Be a thought partner to business leaders. Turn business strategy into decisions on workforce planning, org design, succession and talent. Help managers set their annual priorities and plans \n  Coach leaders and managers:  Be a trusted one-to-one coach to senior leaders and people managers. Provide coaching on leadership style, performance and feedback conversations, team dynamics, stakeholder relationships and leading through change. Help leaders see their blind spots and build habits to address them \n  Develop talent:  Help managers grow their people through development plans, internal moves and global career opportunities. Identify high-potential talent and support succession planning \n  Build coaching capability across the firm:  Support first-time and newly promoted managers through the transition into leadership. Run coaching-based conversations and small-group sessions that grow management capability. Help build a culture where feedback and development happen continuously, not just at review time \n  Lead employee relations:  Spot, reduce and resolve employee issues and conflict early, with sound judgment, discretion and fairness. Manage ER cases end to end, including grievances, investigations, performance and disciplinary matters, and sensitive exits, working closely with Legal. Coach managers to handle issues themselves where they can \n  Drive engagement and retention:  Work out what's working and what isn't in the employee experience. Design practical fixes that strengthen engagement and keep critical talent, in line with our values \n  Carry the culture:  Make sure team and people decisions reflect our core values, and challenge constructively when they don't \n  Deliver core HR cycles:  Contribute to global processes including performance review, merit and bonus, global mobility, leave and offboarding. Bring the regional view and improve each cycle \n  Connect regional and global:  Represent APAC needs within global People Operations. Share updates, good practice and new ideas, and help shape improvements to HR operations, systems and processes \n  Manage risk and compliance:  Work with Legal, Compliance and senior management on local, regional and global changes. Ensure compliance with Hong Kong and wider APAC employment law, and with contract terms such as confidentiality, non-solicitation and non-compete \n  Develop the HR team:  Mentor and coach HR ",
+    "published_at": "2026-11-13T05:19:49-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8329789",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Senior Software Engineer",
@@ -1969,7 +1949,7 @@
     "published_at": "2026-11-12T14:35:36-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7809758",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Software Engineer | Post Trade Analytics",
@@ -1992,7 +1972,7 @@
     "published_at": "2026-11-12T14:37:02-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7495806",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Software Engineer | Trading Team",
@@ -2011,7 +1991,7 @@
     "published_at": "2026-11-12T13:53:57-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7929540",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Talent Acquisition Coordinator",
@@ -2024,11 +2004,11 @@
     "skills": [],
     "education": null,
     "experience": null,
-    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n We are seeking a self-driven and motivated individual to join Jump's Recruiting Team! If you have a natural curiosity to learn about talent acquisition and onboarding new hires in the fintech space, we encourage you to explore this opportunity with Jump. Attracting and retaining premier talent is our top priority and the Talent Acquisition Coordinator will collaborate extensively with the HR and Recruiting teams to provide a world class recruiting experience with Jump. \n What You'll Do: \n \n Interface with vendors, candidates, and colleagues to schedule and manage all candidate interviews \n Track all interview details in the applicant tracking system, Greenhouse \n Serve as the main point of contact for all candidates on their interview day \n Analyze pre-employment paperwork, reviewing for accuracy and completeness \n Coordinate travel arrangements for candidates with internal travel team \n Update and maintain all candidate profiles in Greenhouse and confirm all relevant data is captured and tracked \n Collaborate extensively with global recruiting team to create successful strategies for marketing Jump and building our brand \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n Strong organizational skills \n Must be proficient in MS Outlook, Word & Excel \n 3+ years of administrative experience strongly preferred \n Previous experience using an ATS, CRM, or candidate management tool preferred but not required \n Excellent data entry skills and exceptional attention to detail \n A hardworking and upbeat personality \n Proactive and resourceful problem-solving skills \n Experience working in a fast-paced, results-oriented environment \n Excellent communicator with a customer service mindset \n Reliable and predictable availability \n ",
-    "published_at": "2026-11-12T14:51:27-05:00",
+    "description": " Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n We are seeking a self-driven and motivated individual to join Jump's Recruiting Team! If you have a natural curiosity to learn about talent acquisition and onboarding new hires in the fintech space, we encourage you to explore this opportunity with Jump. Attracting and retaining premier talent is our top priority and the Talent Acquisition Coordinator will collaborate extensively with the HR and Recruiting teams to provide a world class recruiting experience with Jump. \n What You'll Do: \n \n Interface with vendors, candidates, and colleagues to schedule and manage all candidate interviews \n Track all interview details in the applicant tracking system, Greenhouse \n Serve as the main point of contact for all candidates on their interview day \n Analyze pre-employment paperwork, reviewing for accuracy and completeness \n Coordinate travel arrangements for candidates with internal travel team \n Update and maintain all candidate profiles in Greenhouse and confirm all relevant data is captured and tracked \n Collaborate extensively with global recruiting team to create successful strategies for marketing Jump and building our brand \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n Strong organizational skills \n Must be proficient in MS Outlook, Word & Excel \n 3+ years of administrative experience strongly preferred \n Previous experience using an ATS, CRM, or candidate management tool preferred but not required \n Excellent data entry skills and exceptional attention to detail \n A hardworking and upbeat personality \n Proactive and resourceful problem-solving skills \n Experience working in a fast-paced, results-oriented environment \n Excellent communicator with a customer service mindset \n Reliable and predictable availability \n ",
+    "published_at": "2026-11-13T05:23:04-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8236626",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Workplace Experience Coordinator",
@@ -2041,11 +2021,11 @@
     "skills": [],
     "education": null,
     "experience": null,
-    "description": "  \n Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n People and culture are really important at Jump. Our Workplace Services team members are key ambassadors and we're looking to add to the team in our Hong Kong office! \n As the Workplace Experience Coordinator, you will be responsible for providing first class facilities and administration in partnership with the Global Workplace Services teams. This role suits a resourceful self-starter and team player who will thrive in a dynamic and fast-paced environment, working across our APAC offices. \n What You'll Do: \n \n  Front-of-house & reception:  Serve as a warm, professional first point of contact for guests and visitors. Prepare meeting and conference rooms ahead of bookings, arrange refreshments, and provide hands-on support for video-conferencing and AV equipment \n  Office operations & facilities:  Support the smooth day-to-day running of the Hong Kong office, logging and following up on facility maintenance, keeping supplies well stocked, and handling occasional courier dispatches and business-card orders \n  Pantry & workplace amenities:  Keep the office pantry well stocked and thoughtfully curated, and help administer the corporate accounts and platforms that support it (e.g., Lyreco and HKTVmall for supplies, foodpanda for food delivery, and Uber for Business for ground transport) \n  Vendor coordination:  Help coordinate on-site vendors (including catering, cleaning, and facilities suppliers) by gathering quotations, tracking service agreements, and monitoring day-to-day delivery to ensure consistent quality and value \n  Visitor & desk coordination:  Maintain the visitor travel log, process office visit requests, and prepare desks, foodpanda registration, access cards, and weekly visitor QR-code passes. Partner with the Tech Services team on desk planning, people moves, and visitor facilitation \n  Events & employee experience:  Help plan and deliver the Hong Kong events calendar, from team lunches, happy hours, and milestone celebrations to larger social and community events, and support managers in organizing in-office and off-site activities that bring people together \n  Finance & administration:  Provide light accounting and administrative support, including cross-checking team invoices, coding expenses, and liaising with the Accounts Payable team on invoices and annual team-spend reporting \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n A bachelor's degree in business management or a related field, or equivalent experience and training \n Some administrative or office-support experience; a proactive, willing-to-learn attitude is highly valued in this early-career role \n Strong customer-service skills and a warm, professional, and approachable manner \n The ability to work independently, take initiative, prioritize effectively, and manage multiple tasks at once \n A keen eye for detail, with strong organization and time-management skills \n Clear and confident written and verbal communication skills \n Proficiency across Microsoft Office, including Excel, Word, and PowerPoint \n Confidence engaging with internal and external stakeholders, and the composure to stay calm and solutions-focused under pressure \n Comfort working on-site five days per week, wit",
-    "published_at": "2026-11-12T14:49:03-05:00",
+    "description": " Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n People and culture are really important at Jump. Our Workplace Services team members are key ambassadors and we're looking to add to the team in our Hong Kong office! \n As the Workplace Experience Coordinator, you will be responsible for providing first class facilities and administration in partnership with the Global Workplace Services teams. This role suits a resourceful self-starter and team player who will thrive in a dynamic and fast-paced environment, working across our APAC offices. \n What You'll Do: \n \n  Front-of-house & reception:  Serve as a warm, professional first point of contact for guests and visitors. Prepare meeting and conference rooms ahead of bookings, arrange refreshments, and provide hands-on support for video-conferencing and AV equipment \n  Office operations & facilities:  Support the smooth day-to-day running of the Hong Kong office, logging and following up on facility maintenance, keeping supplies well stocked, and handling occasional courier dispatches and business-card orders \n  Pantry & workplace amenities:  Keep the office pantry well stocked and thoughtfully curated, and help administer the corporate accounts and platforms that support it (e.g., Lyreco and HKTVmall for supplies, foodpanda for food delivery, and Uber for Business for ground transport) \n  Vendor coordination:  Help coordinate on-site vendors (including catering, cleaning, and facilities suppliers) by gathering quotations, tracking service agreements, and monitoring day-to-day delivery to ensure consistent quality and value \n  Visitor & desk coordination:  Maintain the visitor travel log, process office visit requests, and prepare desks, foodpanda registration, access cards, and weekly visitor QR-code passes. Partner with the Tech Services team on desk planning, people moves, and visitor facilitation \n  Events & employee experience:  Help plan and deliver the Hong Kong events calendar, from team lunches, happy hours, and milestone celebrations to larger social and community events, and support managers in organizing in-office and off-site activities that bring people together \n  Finance & administration:  Provide light accounting and administrative support, including cross-checking team invoices, coding expenses, and liaising with the Accounts Payable team on invoices and annual team-spend reporting \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n A bachelor's degree in business management or a related field, or equivalent experience and training \n Some administrative or office-support experience; a proactive, willing-to-learn attitude is highly valued in this early-career role \n Strong customer-service skills and a warm, professional, and approachable manner \n The ability to work independently, take initiative, prioritize effectively, and manage multiple tasks at once \n A keen eye for detail, with strong organization and time-management skills \n Clear and confident written and verbal communication skills \n Proficiency across Microsoft Office, including Excel, Word, and PowerPoint \n Confidence engaging with internal and external stakeholders, and the composure to stay calm and solutions-focused under pressure \n Comfort working on-site five days per week, with r",
+    "published_at": "2026-11-13T05:22:00-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8248589",
-    "fetched_at": "2026-11-13T02:20:27+00:00"
+    "fetched_at": "2026-11-14T01:56:34+00:00"
   },
   {
     "title": "Delta One Trader",
@@ -2065,7 +2045,7 @@
     "published_at": "2026-10-13T04:26:15-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7708220",
-    "fetched_at": "2026-11-13T02:20:30+00:00"
+    "fetched_at": "2026-11-14T01:56:36+00:00"
   },
   {
     "title": "Digital Assets Trader",
@@ -2085,7 +2065,7 @@
     "published_at": "2026-10-13T10:21:11-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7770955",
-    "fetched_at": "2026-11-13T02:20:30+00:00"
+    "fetched_at": "2026-11-14T01:56:36+00:00"
   },
   {
     "title": "Experienced MFT Quantitative Researcher",
@@ -2104,7 +2084,7 @@
     "published_at": "2026-09-21T23:23:04-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8222298",
-    "fetched_at": "2026-11-13T02:20:30+00:00"
+    "fetched_at": "2026-11-14T01:56:36+00:00"
   },
   {
     "title": "Experienced Quantitative Researcher",
@@ -2123,7 +2103,7 @@
     "published_at": "2026-09-18T04:15:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/4003450",
-    "fetched_at": "2026-11-13T02:20:30+00:00"
+    "fetched_at": "2026-11-14T01:56:36+00:00"
   },
   {
     "title": "PhD Graduate Quantitative Researcher",
@@ -2145,7 +2125,7 @@
     "published_at": "2026-09-21T03:22:51-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8213037",
-    "fetched_at": "2026-11-13T02:20:30+00:00"
+    "fetched_at": "2026-11-14T01:56:36+00:00"
   },
   {
     "title": "Python Engineer, Trading Automation",
@@ -2169,7 +2149,7 @@
     "published_at": "2026-10-07T22:53:37-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7064123",
-    "fetched_at": "2026-11-13T02:20:30+00:00"
+    "fetched_at": "2026-11-14T01:56:36+00:00"
   },
   {
     "title": "Risk Manager",
@@ -2189,7 +2169,7 @@
     "published_at": "2026-09-01T00:04:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8168790",
-    "fetched_at": "2026-11-13T02:20:30+00:00"
+    "fetched_at": "2026-11-14T01:56:36+00:00"
   },
   {
     "title": "Senior Research Engineer",
@@ -2216,7 +2196,7 @@
     "published_at": "2026-11-08T21:08:54-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7431246",
-    "fetched_at": "2026-11-13T02:20:30+00:00"
+    "fetched_at": "2026-11-14T01:56:36+00:00"
   },
   {
     "title": "Senior Software Engineer, C++",
@@ -2238,7 +2218,7 @@
     "published_at": "2026-11-06T00:27:40-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/6993714",
-    "fetched_at": "2026-11-13T02:20:30+00:00"
+    "fetched_at": "2026-11-14T01:56:36+00:00"
   },
   {
     "title": "Senior Software Engineer, C++ (Market Data)",
@@ -2257,7 +2237,7 @@
     "published_at": "2026-11-06T00:28:17-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8212740",
-    "fetched_at": "2026-11-13T02:20:30+00:00"
+    "fetched_at": "2026-11-14T01:56:36+00:00"
   },
   {
     "title": "Trading Intern",
@@ -2276,6 +2256,6 @@
     "published_at": "2026-09-30T06:42:48-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8102618",
-    "fetched_at": "2026-11-13T02:20:30+00:00"
+    "fetched_at": "2026-11-14T01:56:36+00:00"
   }
 ]
