@@ -14,10 +14,10 @@
     "education": null,
     "experience": null,
     "description": "  About Stripe  \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.  \n  About the team  \n Stripe Terminal helps Stripe users extend their online presence into the physical world. The Terminal team’s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. With Terminal, businesses can unlock in-person payments use cases that are right for their business model—whether it’s creating a flagship retail experience, extending their website to a pop-up store, or enabling a mobile point-of-sale at their next event.  \n  What we are looking for:  \n As an Android BSP Engineer, you will be responsible for the kernel and driver level system development, which includes building, troubleshooting, and writing automated tests for the Android system on our embedded payments platforms. This team works closely with partner teams throughout the hardware and software product lifecycle, from hardware manufacturing to Android app teams. We also work with external vendors on part selection and initial hardware bring-up. \n  What you’ll do:  \n \n Bring up new devices and lead debugging and performance tuning exercises that span multiple hardware/firmware/software teams. \n Design, implement, and maintain drivers and Android services that operate efficiently in a constrained environment and meet the reliability and security requirements of the industry. \n Own the definition of one or more work streams focused on hardware bring-up, peripheral drivers and communication, and power and performance management and optimization. \n Analyze bug reports and manage the defect resolution process (disposition issues, resolve issues, and report issue status). \n Interact with global teams with excellent communication skills to provide support information \n Routinely perform code reviews to ensure high quality designs and implementation \n Assist in ensuring quality and timeliness of product/feature development. Work closely with QA staff to ensure appropriate test cases are created, maintained, and executed. \n Proactively solve problems and work independently and within a team environment, with limited guidance. \n \n  Who you are  \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. \n  Minimum requirements  \n \n 2+ years software engineering experience in device driver development, embedded systems, or operating systems \n 2+ years working with mobile or other connected devices \n Experience using automated testing, build systems, and inter-component communication protocols such as UART, GPIO, SPI, I2C, etc. \n Proficiency in C/C++ or Kotlin/Java \n Experience with Android OS, and familiarity with associated software development tools \n Degree in CS, CE, EE, or equivalent practical experience \n Experience adding, monitoring and parsing telemetry data to proactively resolve issues \n Fluency in both written and spoken English and Mandarin Chinese to be able to communicate with our vendors and users/customers \n \n  Preferred qualifications  \n \n Experience with ARM platform \n Experience working with microcontrollers \n Knowledge of EMV. \n Knowledge of cryptography, symmetric, asymmetric, key management and exchange is an asset. \n Experience with POS Hardware and peripherals. \n Knowledge and expertise of PCI technology, transaction processing, and related retail standards. \n ",
-    "published_at": "2026-10-29T10:42:09-04:00",
+    "published_at": "2026-11-19T12:10:10-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8239006",
-    "fetched_at": "2026-11-19T02:54:17+00:00"
+    "fetched_at": "2026-11-20T02:47:22+00:00"
   },
   {
     "title": "Senior Mechanical and Industrial Design Engineer",
@@ -31,10 +31,10 @@
     "education": null,
     "experience": null,
     "description": "  Who we are  \n  About Stripe  \n Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. \n  About the team  \n Stripe Terminal helps businesses extend their online presence into the physical world. Our mission is to make it as easy for businesses to accept in-person payments as the Stripe API has made it for online payments. With Terminal, businesses can create flagship retail experiences, extend their websites to pop-up stores, or enable mobile point-of-sale payments at their next event. All of this is built on the Stripe Payments Platform, so businesses can maintain a single view of customers and sales across online and offline channels. \n Our hardware engineering team in Taiwan designs and builds the physical payment devices at the heart of that experience, including products such as the Stripe Reader S700 and Stripe Reader M2. We are expanding the team and seeking an experienced Senior Mechanical and Industrial Design Engineer who can own both the structural engineering and aesthetic form language of our next generation of payment terminals. This is a blended role. You will be equally comfortable driving design for manufacturability (DFM) for a plastic enclosure and sketching form concepts that express Stripe's design identity in hardware. \n  What you'll do  \n You will lead the industrial and mechanical design of next-generation Stripe Terminal payment devices, shaping their form, feel, usability, and structural performance from early concepts through mass production. You will partner with cross-functional teams and suppliers to deliver manufacturable, high-quality hardware, including enclosure design, color, material, and finish specifications, packaging, validation, and production readiness. \n  Responsibilities  \n  Industrial design  \n \n Lead ideation and concept development through rapid hand sketching, digital sketching, and physical foam or 3D-printed models to explore form factors early in the product lifecycle. \n Define the visual and tactile design language of Terminal hardware, including proportion, form, surface transitions, button feel, and overall product character. \n Produce photorealistic product renders using KeyShot or similar tools to communicate design intent to cross-functional teams and executive stakeholders. \n Define and manage color, material, and finish (CMF) specifications. Work directly with suppliers to qualify target surfaces, textures, and coatings. \n Manage packaging design, working directly with suppliers to qualify final deliverables and the unboxing experience. \n Apply ergonomics and human factors principles to ensure products are intuitive and comfortable for a diverse range of users and environments. \n Maintain visual consistency and brand coherence across the Terminal hardware product family, in alignment with Stripe's design identity. \n \n  Mechanical engineering  \n \n Design mechanical components and assemblies using SolidWorks or Creo, following professional engineering standards. \n Hands on experience in mechanical designs and drawings, assess manufacturability, and resolve technical problems. \n Lead and plan problem-solving activities using scientific approaches, such as tolerance analysis, computer-aided engineering (CAE) and finite element method (FEM) simulations, design of experiments (DOE), and physical prototyping. \n Independently analyze and verify mechanical designs, identify risks, and propose mitigations. \n Manage bill of materials (BOM) cost and design schedules from a mechanical engineering perspective. \n Prepare mechanical engineering deli",
-    "published_at": "2026-10-29T10:42:09-04:00",
+    "published_at": "2026-11-19T12:10:02-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8170920",
-    "fetched_at": "2026-11-19T02:54:17+00:00"
+    "fetched_at": "2026-11-20T02:47:22+00:00"
   },
   {
     "title": "Software Quality Assurance Engineer",
@@ -48,10 +48,10 @@
     "education": null,
     "experience": null,
     "description": "  Who we are   \n  About Stripe  \n  Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.  \n  About the team  \n Stripe Terminal helps Stripe users extend their online presence into the physical world. The Terminal team’s mission is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments. With Terminal, businesses can unlock in-person payments use cases that are right for their business model, whether it’s creating a flagship retail experience, extending their website to a pop-up store, or enabling a mobile point of sale at their next event. \n  What you’ll do  \n We are looking for a  Software Quality Assurance Engineer to join the Stripe Terminal Device Software Quality Assurance team. In this role, you will own the quality assurance process and results for firmware and device operating system components across our payment terminal devices. You'll work closely with software development teams to define quality standards, develop test strategies, and drive software quality improvements through technical expertise and process enhancements. \n   \n  Responsibilities  \n \n Own software quality for Terminal device software components, including firmware and the device operating system, and ensure software quality targets are met for customers. Collaborate with developers during software planning, change review, and release meetings to understand new features, specifications, expected behaviors, and the impact and risks of changes. Create spot tests before branch cut. \n Deeply understand customer use cases, Product Requirements Documents, and Software Design Documents. Work with developers to create test plans that improve coverage across configurations, user scenarios, and reliability testing. \n Perform Bluetooth validation across multiple devices, edge cases, and recovery scenarios. Validate devices with enterprise network configurations and security types. \n Design and execute testing for power performance, battery behavior, sleep and wake reliability, and resilience under extended or degraded operating conditions. \n Design, build, and maintain lab setups and test environments that reflect production-like usage conditions and support repeatable validation. \n Co-lead software quality incident remediation with engineering teams, including root cause analysis and solution development. Establish and maintain software quality assurance processes, and influence cross-functional teams at Stripe and drive quality and process improvements. \n Create and optimize test cases. Collaborate with automation engineers to expand automated test coverage, guide manual software quality assurance team members in high-quality software testing, and mentor junior software quality engineers on technical skills, test design, work quality, and efficiency. \n \n  Who you are  \n  We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.  \n  Minimum requirements  \n \n Bachelor’s degree in computer science, software engineering, or a related technical field \n 4+ years of software quality assurance experience for embedded systems or firmware, including analyzing software changes and assessing their impact on test coverage by reviewing release notes and software design documents \n Experience developing test strategies, test plans, and test cases based on product requirements \n Ability to identify the root causes of software defe",
-    "published_at": "2026-10-29T10:42:09-04:00",
+    "published_at": "2026-11-19T12:10:00-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://stripe.com/jobs/search?gh_jid=8153331",
-    "fetched_at": "2026-11-19T02:54:17+00:00"
+    "fetched_at": "2026-11-20T02:47:22+00:00"
   },
   {
     "title": "Machine Learning Engineer, Assistance Engineering",
@@ -62,16 +62,17 @@
     "salary_min": null,
     "salary_max": null,
     "skills": [
+      "Python",
       "Machine Learning",
       "LLM"
     ],
     "education": null,
     "experience": null,
-    "description": "   Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.     Your Location:  \n  This position is CHINA BASED . The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Your recruiter will inform you what cities you are able to work from depending on your personal legal working identity and Airbnb internal policies. \n   \n  The Community You Will Join:  \n Machine Learning and Artificial Intelligence are at the heart of the Airbnb product. From Trust to Payments, and from Customer Service to Marketing we rely on ML to ensure that guests and hosts have the best possible experience with Airbnb.  \n The Core ML team in Assistance Engineering is the team responsible for adopting the Agentic AI technologies to enable an intelligent, scalable and exceptional customer service experience. We are responsible for developing the Chat AI assistant, Voice AI Assistant and more! The team is constantly exploring the SOTA Agentic architecture, develops and enhances various AI models, ML services and leverages tools including SFT, Reinforcement learning, Distillation, RAG/Search,  LLM evaluation and testing automation, feedback-based learning and guardrail for a wide range of applications in Airbnb. \n  The Difference You Will Make:  \n We believe our current customer experiences in these domains are only scratching the surface of the innovations that are possible, and that science is at the heart of delivering a step-function change for our Guest and and Host on Airbnb.  \n You will build and leverage cutting edge AI technologies to transform Airbnb’s customer service by delivering personalized, easy-to-use and proactive customer service experience.  \n Many of the initiatives you’ll tackle are in their early conceptual stages. You will have the opportunity to shape these ideas from inception to production, turning visionary concepts into impactful realities. \n   \n  A Typical Day:   \n \n \n Envision, champion, and support the development of novel ML systems, product integrations, and performance optimizations to solve real-world problems \n \n \n Work cross-functionally with product, design, and other engineering counterparts to design and build efficient AI solutions for Airbnb CS products \n \n \n Learn and share the latest AI/ML technologies with the team across regions( China and the US).  \n \n \n   \n  Your Expertise:  \n \n PhD/Master’s degree, preferably in CS, or equivalent experience \n 2-4 years of ML engineering experience, with ownership responsibility over large-scale software systems.  \n Background in the design and development of AI and ML systems and services, and a deep passion for building efficient and scalable ML-powered products \n Experience with LLM driven chatbot and Agentic AI products would be a big plus \n Excellent communication skills and the ability to work well within a team and with teams across the engineering, product & design organizations \n  Fluency in both English and Mandarin is essential.  \n \n   \n  Our Commitment To Inclusion & Belonging:  \n Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.     \n   Reasonable Accommodations:  We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.  \n   A Note on Recruiting Scams:  Scammers sometimes pose as Airbnb recruiters",
-    "published_at": "2026-11-17T20:19:11-05:00",
+    "description": "   Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.      Your Location:   \n   This position is CHINA BASED . The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Your recruiter will inform you what cities you are able to work from depending on your personal legal working identity and Airbnb internal policies.  \n   \n   The Community You Will Join:   \n  Machine Learning and Artificial Intelligence are at the heart of the Airbnb product. From Trust to Payments, and from Customer Service to Marketing we rely on ML to ensure that guests and hosts have the best possible experience with Airbnb.   \n  The Core ML team in Assistance Engineering is the team responsible for adopting the Agentic AI technologies to enable an intelligent, scalable and exceptional customer service experience. We are responsible for developing the Chat AI assistant, Voice AI Assistant and more! The team is constantly exploring the SOTA Agentic architecture, develops and enhances various AI models, ML services and leverages tools including SFT, Reinforcement learning, Distillation, RAG/Search,  LLM evaluation and testing automation, feedback-based learning and guardrail for a wide range of applications in Airbnb.  \n   \n   The Difference You Will Make:   \n  We believe our current customer experiences in these domains are only scratching the surface of the innovations that are possible, and that science is at the heart of delivering a step-function change for our Guest and and Host on Airbnb.   \n  You will build and leverage cutting edge AI technologies to transform Airbnb’s customer service by delivering personalized, easy-to-use and proactive customer service experience.   \n  Many of the initiatives you’ll tackle are in their early conceptual stages. You will have the opportunity to shape these ideas from inception to production, turning visionary concepts into impactful realities.  \n   \n   A Typical Day:    \n \n \n  Collaborate with product, design, engineering, data science, and operations partners to identify opportunities, refine requirements, and prioritize improvements to Airbnb’s products.  \n \n \n  Design, develop, and improve AI agents, including prompts, retrieval, agent workflows, tool integrations, and the models and data pipelines that support them.  \n \n \n  Build and maintain evaluation frameworks, reference datasets, and regression tests to assess agent and model quality, safety, and performance across components and end-to-end interactions.  \n \n \n  Investigate failures using traces, data, and evaluation results, and turn findings into improvements to models, workflows, and testing coverage.  \n \n \n  Develop, review, and ship clean, testable code, productionize changes through incremental releases with consistent evaluation and serving configurations.  \n \n \n  Participate in code reviews and design discussions, share advances in AI/ML, and collaborate with teammates across China and the US.  \n \n \n   \n   Your Expertise:   \n \n  A Master’s degree or PhD in Computer Science, Machine Learning, Artificial Intelligence, or a related technical field, or equivalent practical experience.  \n  Relevant ML engineering experience appropriate to the role: 2+ years for Machine Learning Engineer.  \n  Strong programming skills in Python and experience writing clean, testable code and building data pipelines or ML services.  \n  Solid understanding of ML fundamentals and best practices, including model selection, optimization, A/B testing, and consistency between training and serving.  \n  Hands-on experience with LLM workflows, such as prompt engineering, retrieval-augmented generation, fine-tuning, eval",
+    "published_at": "2026-11-19T03:53:00-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341",
-    "fetched_at": "2026-11-19T02:54:18+00:00"
+    "fetched_at": "2026-11-20T02:47:24+00:00"
   },
   {
     "title": "Office Manager, China (Executive Administration and Workplace)",
@@ -88,7 +89,7 @@
     "published_at": "2026-11-10T17:52:22-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.airbnb.com/positions/8299386?gh_jid=8299386",
-    "fetched_at": "2026-11-19T02:54:18+00:00"
+    "fetched_at": "2026-11-20T02:47:24+00:00"
   },
   {
     "title": "Senior Machine Learning Engineer, Assistance Engineering",
@@ -99,16 +100,17 @@
     "salary_min": null,
     "salary_max": null,
     "skills": [
+      "Python",
       "Machine Learning",
       "LLM"
     ],
     "education": null,
     "experience": null,
-    "description": "   Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.     Your Location:  \n  This position is CHINA BASED . The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Your recruiter will inform you what cities you are able to work from depending on your personal legal working identity and Airbnb internal policies. \n   \n  The Community You Will Join:  \n Machine Learning and Artificial Intelligence are at the heart of the Airbnb product. From Trust to Payments, and from Customer Service to Marketing we rely on ML to ensure that guests and hosts have the best possible experience with Airbnb.  \n The Core ML team in Assistance Engineering is the team responsible for adopting the Agentic AI technologies to enable an intelligent, scalable and exceptional customer service experience. We are responsible for developing the Chat AI assistant, Voice AI Assistant and more! The team is constantly exploring the SOTA Agentic architecture, develops and enhances various AI models, ML services and leverages tools including SFT, Reinforcement learning, Distillation, RAG/Search,  LLM evaluation and testing automation, feedback-based learning and guardrail for a wide range of applications in Airbnb. \n   \n  The Difference You Will Make:  \n We believe our current customer experiences in these domains are only scratching the surface of the innovations that are possible, and that science is at the heart of delivering a step-function change for our Guest and and Host on Airbnb.  \n You will build and leverage cutting edge AI technologies to transform Airbnb’s customer service by delivering personalized, easy-to-use and proactive customer service experience.  \n Many of the initiatives you’ll tackle are in their early conceptual stages. You will have the opportunity to shape these ideas from inception to production, turning visionary concepts into impactful realities. \n   \n  A Typical Day:   \n \n \n Envision, champion, and support the development of novel ML systems, product integrations, and performance optimizations to solve real-world problems \n \n \n Work cross-functionally with product, design, and other engineering counterparts to design and build efficient AI solutions for Airbnb CS products \n \n \n Learn and share the latest AI/ML technologies with the team across regions( China and the US).  \n \n \n   \n  Your Expertise:  \n \n PhD/Master’s degree, preferably in CS, or equivalent experience \n  4+ years of ML engineering experience , with ownership responsibility over large-scale software systems.  \n Background in the design and development of AI and ML systems and services, and a deep passion for building efficient and scalable ML-powered products \n Experience with LLM driven chatbot and Agentic AI products would be a big plus \n Excellent communication skills and the ability to work well within a team and with teams across the engineering, product & design organizations \n  Fluency in both English and Mandarin is essential.  \n \n   \n  Our Commitment To Inclusion & Belonging:  \n Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.     \n   Reasonable Accommodations:  We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.  \n   A Note on Recruiting Scams:  Scammers sometimes pose as Airbnb recru",
-    "published_at": "2026-11-10T17:52:22-05:00",
+    "description": "   Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.      Your Location:   \n   This position is CHINA BASED . The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Your recruiter will inform you what cities you are able to work from depending on your personal legal working identity and Airbnb internal policies.  \n   \n   The Community You Will Join:   \n  Machine Learning and Artificial Intelligence are at the heart of the Airbnb product. From Trust to Payments, and from Customer Service to Marketing we rely on ML to ensure that guests and hosts have the best possible experience with Airbnb.   \n  The Core ML team in Assistance Engineering is the team responsible for adopting the Agentic AI technologies to enable an intelligent, scalable and exceptional customer service experience. We are responsible for developing the Chat AI assistant, Voice AI Assistant and more! The team is constantly exploring the SOTA Agentic architecture, develops and enhances various AI models, ML services and leverages tools including SFT, Reinforcement learning, Distillation, RAG/Search,  LLM evaluation and testing automation, feedback-based learning and guardrail for a wide range of applications in Airbnb.  \n   \n   The Difference You Will Make:   \n  We believe our current customer experiences in these domains are only scratching the surface of the innovations that are possible, and that science is at the heart of delivering a step-function change for our Guest and and Host on Airbnb.   \n  You will build and leverage cutting edge AI technologies to transform Airbnb’s customer service by delivering personalized, easy-to-use and proactive customer service experience.   \n  Many of the initiatives you’ll tackle are in their early conceptual stages. You will have the opportunity to shape these ideas from inception to production, turning visionary concepts into impactful realities.  \n   \n   A Typical Day:    \n \n \n  Collaborate with product, design, engineering, data science, and operations partners to identify opportunities, refine requirements, and prioritize improvements to Airbnb’s products.  \n \n \n  Design, develop, and improve AI agents, including prompts, retrieval, agent workflows, tool integrations, and the models and data pipelines that support them.  \n \n \n  Build and maintain evaluation frameworks, reference datasets, and regression tests to assess agent and model quality, safety, and performance across components and end-to-end interactions.  \n \n \n  Investigate failures using traces, data, and evaluation results, and turn findings into improvements to models, workflows, and testing coverage.  \n \n \n  Develop, review, and ship clean, testable code, productionize changes through incremental releases with consistent evaluation and serving configurations.  \n \n \n  Participate in code reviews and design discussions, share advances in AI/ML, and collaborate with teammates across China and the US.  \n \n \n   \n   Your Expertise:   \n \n  A Master’s degree or PhD in Computer Science, Machine Learning, Artificial Intelligence, or a related technical field, or equivalent practical experience.  \n   Relevant ML engineering experience appropriate to the role: 5+ years for Machine Learning Engineer.   \n  Strong programming skills in Python and experience writing clean, testable code and building data pipelines or ML services.  \n  Solid understanding of ML fundamentals and best practices, including model selection, optimization, A/B testing, and consistency between training and serving.  \n  Hands-on experience with LLM workflows, such as prompt engineering, retrieval-augmented generation, fine-tuning, ev",
+    "published_at": "2026-11-19T03:53:44-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.airbnb.com/positions/7975743?gh_jid=7975743",
-    "fetched_at": "2026-11-19T02:54:18+00:00"
+    "fetched_at": "2026-11-20T02:47:24+00:00"
   },
   {
     "title": "Enterprise Account Executive - China",
@@ -124,10 +126,10 @@
     "education": null,
     "experience": null,
     "description": " SLSQ427R594  As an Enterprise Account Executive in Databricks, you are an enterprise sales professional experienced in selling to Enterprise accounts in Greater China region. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to Customers and System Integrators. Always looking for new opportunities, you will close new accounts while maintaining existing accounts. Along with the chance to close exciting deals and solve meaningful problems. \n You will report to the Director of Enterprise Sales. \n  The impact you will have:  \n \n Present a territory plan within the first 90 days \n Meet with CIOs, IT executives, LOB executives, Program Managers, and other important partners \n Close both new accounts and existing accounts \n Identify and close quick, small wins while managing longer, complex sales cycles \n Exceed activity, pipeline, and revenue targets \n Track all customer details, including use case, purchase time frames, next steps, and forecasting in Salesforce \n Use a solution-based approach to selling and creating value for customers \n Promote Databricks' enterprise cloud data platform powered by Apache Spark \n Ensure 100% satisfaction among all customers \n Prioritize opportunities and apply appropriate resources \n Build a plan for success internally at Databricks and externally with your accounts. \n \n  What we look for:  \n \n Field sales experience within big data, Cloud, and SaaS sales, covering Greater China territory \n Prior customer relationships with CIOs, program managers, and essential decision makers \n Simply articulate intricate cloud technologies \n 7+ years of Enterprise Sales experience exceeding quotas, covering relevant accounts and industries \n Success in closing new accounts while working on existing accounts \n Understanding of Spark and big data is preferable \n Business proficiency in Mandarin and experience in the GCR territory are required to enable effective collaboration and understanding of client needs. The successful candidate will engage with the customers in Mandarin to conduct technical and business discussions, address sales challenges, and present clear value propositions and outcomes. \n    About Databricks  \n  Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on  LinkedIn ,  X ,  YouTube , and  Instagram .   Benefits    At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click  here .   \n  Our Commitment to Diversity and Inclusion  \n At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. \n  Compliance  \n   If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with a",
-    "published_at": "2026-11-18T17:50:10-05:00",
+    "published_at": "2026-11-19T16:47:39-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8844022002",
-    "fetched_at": "2026-11-19T02:54:19+00:00"
+    "fetched_at": "2026-11-20T02:47:25+00:00"
   },
   {
     "title": "Lakebase Sales Specialist (Greater China Region)",
@@ -146,10 +148,10 @@
     "education": null,
     "experience": null,
     "description": " SLSQ327R376  Databricks is seeking a  Lakebase Sales Specialist Account Executive  to help customers modernize their operational data foundation with Databricks Lakebase, our fully-managed Postgres offering for intelligent applications. This high-impact role sits within the Lakebase Go-To-Market team and partners closely with regional Account Executives to drive adoption of Lakebase with platform, application, and data teams.  \n The role will cover strategic enterprise customers within the Greater China region.  \n Lakebase gives customers a unified, governed foundation for operational workloads and AI-native applications, helping them move away from a fragmented estate of point databases toward a modern, scalable, serverless Postgres service. If you want to be at the forefront of operational databases for AI and intelligent applications at one of the fastest-growing data and AI companies in the world, this is your opportunity. \n  The impact you will have  \n \n Drive new Lakebase revenue by identifying, qualifying, and closing Lakebase opportunities within a defined territory, in partnership with regional Account Executives and the broader account team. \n Lead with outcomes for key Lakebase personas — including platform teams and developers, data teams, and central IT — articulating how Lakebase helps them ship features faster, simplify operational data architectures, and improve governance and cost efficiency. \n Sell the value of fully-managed Postgres for intelligent applications, positioning Lakebase as the optimal choice for operational workloads that power real-time, AI-driven experiences. \n Run complex, multi-threaded sales cycles from discovery and value hypothesis through commercial negotiation and close, navigating executive, technical, and line-of-business stakeholders. \n Orchestrate proof-of-value and POCs that validate Lakebase’s benefits for OLTP-style workloads, reverse ETL, and AI/ML-driven applications, in partnership with solution architects and specialists. \n Compete and win against legacy and cloud-native operational databases by leveraging our compete assets, benchmarks, and customer references. \n Align to measurable business outcomes such as performance, developer productivity, time-to-market for new features, cost reduction, and simplification of the operational data landscape. \n Partner cross-functionally with Product Management, Marketing, Customer Success, and Partner teams to shape territory plans, launch plays, and co-selling motions with key ISVs and GSIs. \n Enable the field by sharing Lakebase best practices, success stories, and sales motions with broader sales teams, helping scale Lakebase proficiency across the organization. \n \n  What success looks like in this role  \n This role requires the ability to operate across  two key motions  simultaneously: \n \n  Establish top strategic focus accounts  by engaging application development teams to create net-new intelligent applications leveraging Lakebase. \n  Drive longer-term Postgres standardization and migration  within Databricks' most strategic accounts. \n \n Candidates should demonstrate how they can act as a force multiplier across multiple dimensions of the business. \n Success in this role requires strength in four areas: \n \n  Business ownership  – Operate at a business-unit level by tracking revenue, pipeline, and key observations, and by identifying areas needing additional focus or support. \n  Strategic account engagement  – Partner with account teams to engage priority accounts across the global DB700, driving strategic opportunities from initial engagement through successful outcomes. \n  Field enablement  – Build and execute enablement plans that empower AEs and SAs to confidently carry the Lakebase conversation even when the specialist is not present. \n  Market voice and thought leadership  – Develop an internal and external presence by contributing to global AMAs and internal forums, and by representing Databricks at key first- and third-pa",
-    "published_at": "2026-11-18T17:50:10-05:00",
+    "published_at": "2026-11-19T16:47:39-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924844002",
-    "fetched_at": "2026-11-19T02:54:19+00:00"
+    "fetched_at": "2026-11-20T02:47:25+00:00"
   },
   {
     "title": "Strategic DNB Hunter Account Executive (China)",
@@ -163,10 +165,10 @@
     "education": null,
     "experience": null,
     "description": " SLSQ327R457  As a Strategic DNB Hunter Account Executive, your mission will be to acquire key strategic digital native enterprise within the Greater China Region. You know how to sell innovation and change and can guide deals forward to compress decision cycles. You love understanding a product in-depth and are passionate about communicating its value to customers and partners. Always prospecting for new opportunities, you will close new accounts while growing our business in existing accounts. You will report to the Director of Sales, Greater China. This position will be based in Singapore. \n  The impact you will have:  \n \n Prospect for new customers \n Assess your existing customers and develop a strategy to identify and engage all buying centers \n Use a solution approach to selling and creating value for customers \n Identify the most viable use cases in each account to maximize Databricks' impact \n Orchestrate and work with teams to maximize the impact of the Databrick ecosystem on your territory \n Build value with all engagements to promote successful negotiations and close \n Promote the Databricks enterprise cloud data platform \n Be customer-focused by delivering technical and business results using the Databricks Platform \n \n  What we look for:  \n \n Proven success in Digital Native Sales roles, ideally in Big Data, Cloud, or SaaS technology \n Solution and business-outcomes focused sales approach (Command of the Message, MEDDPIC, Challenger Sale) \n Ability to simply articulate intricate cloud & big data technologies and their business value for the customer \n Proven success and upward trajectory in whatever you have done \n Bachelors Degree and 7+ years of experience selling SaaS solutions to Enterprise Customers \n Business proficiency in Mandarin and experience in the GCR territory are required to enable effective collaboration and understanding of client needs. The successful candidate will engage with the customers in Mandarin to conduct technical and business discussions, address sales challenges, and present clear value propositions and outcomes. \n   \n    About Databricks  \n  Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on  LinkedIn ,  X ,  YouTube , and  Instagram .   Benefits    At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click  here .   \n  Our Commitment to Diversity and Inclusion  \n At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. \n  Compliance  \n   If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.    ",
-    "published_at": "2026-11-18T17:50:10-05:00",
+    "published_at": "2026-11-19T16:47:39-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8644185002",
-    "fetched_at": "2026-11-19T02:54:19+00:00"
+    "fetched_at": "2026-11-20T02:47:25+00:00"
   },
   {
     "title": "Account Development Representative",
@@ -187,7 +189,7 @@
     "published_at": "2026-11-16T09:27:51-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8352010",
-    "fetched_at": "2026-11-19T02:54:21+00:00"
+    "fetched_at": "2026-11-20T02:47:26+00:00"
   },
   {
     "title": "Customer Success Manager (Scaled)",
@@ -208,7 +210,7 @@
     "published_at": "2026-11-16T09:27:51-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8153054",
-    "fetched_at": "2026-11-19T02:54:21+00:00"
+    "fetched_at": "2026-11-20T02:47:26+00:00"
   },
   {
     "title": "Enterprise Account Executive, Growth",
@@ -229,7 +231,7 @@
     "published_at": "2026-11-16T09:27:51-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=6740470",
-    "fetched_at": "2026-11-19T02:54:21+00:00"
+    "fetched_at": "2026-11-20T02:47:26+00:00"
   },
   {
     "title": "Enterprise Account Manager - OEM",
@@ -250,7 +252,7 @@
     "published_at": "2026-11-16T09:27:51-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=6829771",
-    "fetched_at": "2026-11-19T02:54:21+00:00"
+    "fetched_at": "2026-11-20T02:47:26+00:00"
   },
   {
     "title": "Principal Partner Specialist",
@@ -271,28 +273,7 @@
     "published_at": "2026-11-16T09:27:51-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8141592",
-    "fetched_at": "2026-11-19T02:54:21+00:00"
-  },
-  {
-    "title": "Project Manager",
-    "company": "MongoDB",
-    "company_type": "外企",
-    "location": "Taipei",
-    "salary_raw": "面议",
-    "salary_min": null,
-    "salary_max": null,
-    "skills": [
-      "MongoDB",
-      "AWS",
-      "Azure"
-    ],
-    "education": null,
-    "experience": null,
-    "description": " MongoDB Professional Services' exists to support the development of our customers’ vision, accelerate customers’ time to value, and drive a multitude of customer adoption scenarios - from building new solutions to modernizing legacy applications or migrating to cloud. Our consulting engagements ensure that our some of the most results-oriented and complex global organizations successfully deliver on their critical initiatives and get the best out of MongoDB.  \n Help us take our business to the next level of excellence in delivery and governance. You will have abundant opportunities to significantly impact the growth of MongoDB and collaborate with a team of technologists, sales and delivery professionals who are among the best in their fields. \n This role will be based remotely in Taiwan \n Position Expectations  \n \n Accountable for project planning and execution, customer experience, and ensuring MongoDB delivery meets committed scope and budget  \n Employ project management excellence to navigate with agility the complex organizations of large enterprises, building mindshare to plan and execute programs likely to have ambiguous risks and challenges  \n Maintain excellence of project governance with internal and customer stakeholders, managing day-to-day project planning and execution, project scope, expectations and risks, and ensuring timelines are met and quality results produced  \n Lend support to pre-sale engagements to assist with scoping of solution and project scope definition  \n Adopt and contribute to the continuous improvement of MongoDB's engagement and project delivery methodologies  \n Confidently lead project meetings, owning meeting agenda and meeting outcomes \n Lead the management of scope, change controls, customer expectations and timelines  \n \n Measures of Success  \n \n Collaborate directly with customers and other internal teams to lead and deliver high-quality, reference-able engagements  \n Of paramount importance is predictability: of forecasts for resource needs and revenue; of internal & customer stakeholder management; of outcomes; of risk management; of customer expectations and experience \n Demonstrate eye for business through robust control of the internal and external budget, project margin, resource utilization and billability across your entire project portfolio  \n \n Candidate Profile  \n \n University degree or relevant work experience  \n 5+ years proven experience with enterprise-scale software solutions, large scale software engineering or consulting services delivery experience preferred \n Demonstrated leadership skills within complex, transformative projects, with direct responsibility for leading project teams, delivering high quality results on schedule and within budget  \n Comfortable creating plans and priorities for both project delivery and customer resources  \n Demonstrated belief in the power of stakeholder management and communications; track record of affecting change through stakeholder engagement  \n Outstanding and effective interpersonal skills; strong verbal and written communication abilities  \n Consulting and delivery experience serving banking and securities clients in Taiwan is preferred \n Certification or deep experience with standard frameworks such as the PMI PMBOK, or Scrum methodologies would be beneficial  \n \n About MongoDB \n MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure. \n With offices worldwide and over 67,000 customers, includi",
-    "published_at": "2026-11-16T09:27:51-05:00",
-    "source_site": "Greenhouse",
-    "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8173798",
-    "fetched_at": "2026-11-19T02:54:21+00:00"
+    "fetched_at": "2026-11-20T02:47:26+00:00"
   },
   {
     "title": "Renewals Specialist",
@@ -313,7 +294,7 @@
     "published_at": "2026-11-16T09:27:51-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8350841",
-    "fetched_at": "2026-11-19T02:54:21+00:00"
+    "fetched_at": "2026-11-20T02:47:26+00:00"
   },
   {
     "title": "Senior Solutions Architect",
@@ -342,7 +323,36 @@
     "published_at": "2026-11-16T09:27:51-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.mongodb.com/careers/job/?gh_jid=7157100",
-    "fetched_at": "2026-11-19T02:54:21+00:00"
+    "fetched_at": "2026-11-20T02:47:26+00:00"
+  },
+  {
+    "title": "Senior Solutions Architect",
+    "company": "MongoDB",
+    "company_type": "外企",
+    "location": "Beijing",
+    "salary_raw": "面议",
+    "salary_min": null,
+    "salary_max": null,
+    "skills": [
+      "Python",
+      "Java",
+      "C++",
+      "C#",
+      "SQL",
+      "MongoDB",
+      "Kafka",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "Node.js"
+    ],
+    "education": null,
+    "experience": null,
+    "description": " We are looking for passionate technologists to join our Pre-Sales organization to ensure that our growth is grounded and guided by strong technical alignment with our platform and the needs of our customers. \n MongoDB Pre-Sales Solution Architects are responsible for guiding our customers and users to design and build reliable, scalable systems using our data platform. Our team is made up of seasoned technical sales professionals, software architects, entrepreneurs, and developers who take direct responsibility for customer success, including the design of their software, deployment, and operations. You'll work closely with our sales executives, helping customers solve business problems by leveraging our solutions, playing a key role in winning deals and driving the business forward. You'll be a trusted advisor to a wide range of users from startups to the world's largest enterprise IT organizations.  \n We are looking to speak to candidates who are based in Beijing for our hybrid working model. \n As an ideal candidate, you will have: \n \n Ideally 8 to 11 years of related experience in a customer facing role, with 5 to 7 years of experience in pre-sales with enterprise software \n Minimum of 3 years experience with modern scripting languages (e.g. Python, Node.js, SQL) and/or popular programming languages (e.g. C/C++, Java, C#) in a professional capacity \n Experience designing with scalable and highly available distributed systems in the cloud and on-prem \n Demonstrated ability to work with customers to review complex architecture of existing applications, providing guidance on how to improve by leveraging technology \n Excellent presentation, communication, and interpersonal skills, with the ability to convey complex technical and business concepts in a clear and compelling manner to technology and business leadership \n Ability to strategize with sales teams and provide recommendations on how to drive a multi-threaded account strategy, aligning other MongoDB and ecosystem resources to move towards a mutually beneficial account plan \n The ability to travel up to 25% \n A Bachelor’s degree or equivalent work experience \n \n You may also have: \n \n Experience selling databases and/or deploying applications with any of the major cloud providers  \n Experience with database programming and data models  \n Experience in data engineering or AI/ML projects \n Experience in transforming legacy systems and platforms into modern, scalable, and efficient technology stacks \n Understanding of popular sales methodologies/ frameworks such as MEDDPICC/ Command of the Message \n A MongoDB Certification \n A Cloud Provider Certification \n \n What you do at MongoDB: \n In this role, you will work on complex opportunities where analysis of situations or data requires an in-depth evaluation of various factors. You will: \n \n Design and Architect: Design scalable and performant applications, systems and infrastructure for large software projects leveraging MongoDB \n Customer Advising and Value Articulation: Guide customers on architecture patterns and optimisation strategies for MongoDB, while clearly communicating its business value to the relevant stakeholders \n Sales Partnership: Collaborate with the sales team to drive account success through account planning, opportunity prioritization/qualification and pipeline generation strategy, while taking ownership of the technical aspects (including but not limited to technical discovery, demos, proof of value, presentations, sizing and documentation) \n Demand Generation: Proactively generate demand within the sales territory through self-driven technical initiatives, participation in events such as industry trade shows and account-based marketing events \n Customer Success: Foster strong customer relationships, build champions and ensure customer success and satisfaction \n Innovation and Improvement: Continuously seek opportunities to innovate and improve MongoDB solutions and processes (e.g. by relaying field feedb",
+    "published_at": "2026-11-19T05:32:28-05:00",
+    "source_site": "Greenhouse",
+    "source_url": "https://www.mongodb.com/careers/job/?gh_jid=8399277",
+    "fetched_at": "2026-11-20T02:47:26+00:00"
   },
   {
     "title": "Beijing Office Administrator",
@@ -359,7 +369,7 @@
     "published_at": "2026-11-11T06:46:53-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7267406",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Embedded Devices Software Solution Sales Manager (Taipei)",
@@ -378,7 +388,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7911759",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Engineering Director, Devices Software Engineering",
@@ -397,7 +407,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7074861",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Engineering Manager - Ubuntu Hardware Certification Quality and Test Engineering",
@@ -417,7 +427,7 @@
     "published_at": "2026-07-16T11:10:59-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5996326",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "IoT Field Engineer - China & Region",
@@ -436,7 +446,7 @@
     "published_at": "2026-07-16T11:10:59-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/2169848",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Linux Devices Software Engineer",
@@ -459,7 +469,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5140562",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Linux Enablement - Software Engineering Manager",
@@ -482,7 +492,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560182",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Linux Enablement - Software Engineering Manager",
@@ -505,7 +515,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/3262042",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU",
@@ -529,7 +539,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5660661",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "PC Platforms Kernel Engineer - Ubuntu Linux",
@@ -550,7 +560,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5396437",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Project Manager - Ubuntu Embedded Systems",
@@ -569,7 +579,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5422728",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Python Engineer - Data Center Hardware Integration (Taipei)",
@@ -589,7 +599,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/4536726",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Senior Ubuntu Embedded IoT System Engineer",
@@ -609,7 +619,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/6731174",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Silicon Alliances Ecosystem Development Manager - APAC",
@@ -629,7 +639,7 @@
     "published_at": "2026-10-16T11:44:32-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5570923",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Silicon Alliances Ecosystem Development Manager - Shanghai or Beijing",
@@ -646,7 +656,7 @@
     "published_at": "2026-10-16T11:44:32-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7561124",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Software Engineer, Ubuntu Commercial Computers",
@@ -665,7 +675,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560784",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
@@ -686,7 +696,7 @@
     "published_at": "2026-10-02T11:01:20-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/8248986",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
@@ -707,7 +717,7 @@
     "published_at": "2026-10-02T10:54:05-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7975990",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Taipei Office Administrator",
@@ -724,7 +734,7 @@
     "published_at": "2026-11-11T06:46:53-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7364802",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Ubuntu Enablement Engineer",
@@ -743,7 +753,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7102393",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Ubuntu Enablement Engineer",
@@ -762,7 +772,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/5560823",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Ubuntu Enablement - Software Engineering Manager",
@@ -785,7 +795,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/4605464",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Ubuntu Linux Kernel Test Engineer",
@@ -810,7 +820,7 @@
     "published_at": "2026-08-05T18:23:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/canonical/jobs/7965671",
-    "fetched_at": "2026-11-19T02:54:22+00:00"
+    "fetched_at": "2026-11-20T02:47:27+00:00"
   },
   {
     "title": "Junior Developer - C++",
@@ -826,10 +836,10 @@
     "education": null,
     "experience": null,
     "description": "  About Akuna  \n Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions and automation. We specialise in providing liquidity as an options market maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies and mathematical models. At Akuna we have a flat structure, where the best idea wins.  Our Founding Partners, including Andrew Killion, first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Shanghai, Sydney, Singapore and London. \n  What you’ll do as Junior Developer on the C++ Team at Akuna:  \n Akuna is looking for Junior C++ Developers to join our development team and contribute to building our proprietary trading systems. Our engineers use modern technologies and development approaches while owning the end to end delivery of projects. In this role you will: \n \n Work on a range of high-performance and low-latency systems, ranging from exchange connectivity, trading algorithms, pricing, and automation. \n Collaborate closely with colleagues from within the technology team and other departments including quant and trading to identify and deliver high impact projects. \n Be responsible for the full software development life cycle from requirements analysis, design, development, testing, deployment, and post deployment reliability and performance. \n Contribute innovative ideas and solutions to the team. \n \n  Qualities that make great candidates:  \n \n BS/MS/PhD in Computer Science, Engineering, or equivalent technical field \n 0-2 years' experience, must be graduating by Jul 2027 or prior \n Familiarity with modern C++ development and best practices \n Excellent communication and collaboration skills \n Passion for building high quality software within a fast-moving environment \n Familiarity with data structures, algorithms, and lower-level performance optimisation \n Familiarity with multi-threaded and distributed systems \n Willing to communicate in English at the technical interviews. \n \n   ",
-    "published_at": "2026-10-08T02:30:13-04:00",
+    "published_at": "2026-11-19T12:33:58-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.akunacapital.com/careers/job/6690496/?gh_jid=6690496",
-    "fetched_at": "2026-11-19T02:54:23+00:00"
+    "fetched_at": "2026-11-20T02:47:28+00:00"
   },
   {
     "title": "Junior Quantitative Researcher - Deep Learning (Time Series)",
@@ -849,10 +859,10 @@
     "education": null,
     "experience": null,
     "description": "  About Akuna:  \n Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions and automation. We specialize in providing liquidity as an options market maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies and mathematical models. \n Our Founding Partners, including Akuna's CEO Andrew Killion, first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Shanghai, Sydney, Singapore and London. \n At Akuna, we believe that the people are the centre of everything we do. Akuna Software Technologies was our first international office and opened in the Fall of 2014. Our Shanghai office works with the latest hardware and software technologies to develop high performance low latency solutions that are robust and scalable, ensuring our strategies are as fast as possible for Akuna’s global trading operations. We run happy hours, have a fully stacked snack room with free drinks and fresh fruits, host team events, social club events, and offer great training with our Akuna University. We are looking for the best talent to join us on the journey. If you enjoy being part of smart, driven teams with real challenges to solve- this could be the place for you! \n  What you’ll do as a Junior Quantitative Researcher at Akuna:  \n We're looking for a Junior Quantitative Researcher who will work specifically on deep learning projects involving large-scale time series data. Strong preference for candidates with hands-on DL experience over general ML/data science backgrounds. In this role you will: \n \n Develop trading strategies using statistical and deep learning technologies \n Design and implement optimization algorithms for portfolio construction \n Develop quantitative models describing market behavior \n Advance existing initiatives and explore opportunities for new research topics \n \n  Qualities that make great candidates:  \n \n Bachelors, Masters or PhD in a technical field – Engineering, Statistics, Computer Science, Mathematics, Physics (or a related subject),  graduate(d) during Jul 2023 - Jul 2027  \n  Deep learning experience is required:  hands-on work with neural network architectures (e.g., RNNs, LSTMs, Transformers, TCNs, or similar) applied to sequential or time series data — through research, working projects, competitions, or internships \n Programming skills: Strong Python programming experience, including familiarity with DL frameworks (PyTorch and/or TensorFlow); C++ knowledge is a plus \n Experience handling large-scale datasets efficiently — data pipelines, batching, and training at scale (GPU experience is a plus) \n Solid foundation in math and statistics, with the ability to translate real-world, noisy, high-dimensional problems into mathematical/DL models \n Prior exposure to time series-specific challenges (non-stationarity, autocorrelation, forecasting, sequence modeling) is a strong plus \n Financial experience is not a requirement \n Willing to communicate in English at the technical interviews     \n \n  Please note:   If you apply to multiple roles, you may be asked to complete multiple coding challenges and interviews.   ",
-    "published_at": "2026-10-08T02:30:47-04:00",
+    "published_at": "2026-11-19T12:33:58-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994",
-    "fetched_at": "2026-11-19T02:54:23+00:00"
+    "fetched_at": "2026-11-20T02:47:28+00:00"
   },
   {
     "title": "Quantitative Developer",
@@ -870,10 +880,10 @@
     "education": null,
     "experience": null,
     "description": "  About Akuna  \n Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions and automation. We specialise in providing liquidity as an options market maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies and mathematical models. At Akuna we have a flat structure, where the best idea wins.  Our Founding Partners, including Andrew Killion, first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Shanghai, Sydney, Singapore and London. \n  What you’ll do as a Quantitative Developer on the Quant Trading & Research team at Akuna:  \n Akuna’s Quantitative Trading and Research team creates trading strategies scientifically by combining its quantitative expertise with sophisticated understanding of derivatives and financial markets. The team is looking to add Quantitative Developers who will work alongside researchers, traders, and system engineers to develop software that incorporates vast amounts of data to drive sophisticated strategies, capturing market opportunities before our competition. The successful candidate will have a strong programming background to produce trading solutions and high-performance production code. In this role you will: \n \n Design and develop production code of trading strategies: pricing models, execution logic and performance optimization \n Develop and improve data and research pipeline \n Advance existing codebase and propose new solutions and improvements \n \n  Requirements for this role:  \n \n 3+ years of experience developing performant, scalable applications in modern C++ \n BS/MS/PhD degree in Computer Science, Engineering, Math, or equivalent \n Experience using data to drive decision-making \n Desire and ability to learn the intricacies of financial markets \n  Willing to prepare and take English technical interviews  \n \n  Qualities that make great candidates:  \n \n Solid understanding of multi-threaded/multi-core programming paradigms \n Experience with high frequency trading system \n Deeper understanding of any of the following fields: Linear Algebra, Numerical Methods, Statistics, Optimization, Signal Processing, Computer Architecture, Machine Learning, Heterogeneous/High Performance computing \n The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role \n Passion towards financial markets and trading \n ",
-    "published_at": "2026-10-29T06:33:09-04:00",
+    "published_at": "2026-11-19T12:33:58-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.akunacapital.com/careers/job/8330722/?gh_jid=8330722",
-    "fetched_at": "2026-11-19T02:54:23+00:00"
+    "fetched_at": "2026-11-20T02:47:28+00:00"
   },
   {
     "title": "Senior Business Development Manager, China",
@@ -890,7 +900,7 @@
     "published_at": "2026-11-06T11:05:06-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8933285002?gh_jid=8933285002",
-    "fetched_at": "2026-11-19T02:54:30+00:00"
+    "fetched_at": "2026-11-20T02:47:35+00:00"
   },
   {
     "title": "Senior Product Designer",
@@ -907,7 +917,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8675713002?gh_jid=8675713002",
-    "fetched_at": "2026-11-19T02:54:30+00:00"
+    "fetched_at": "2026-11-20T02:47:35+00:00"
   },
   {
     "title": "Senior Product Manager",
@@ -924,7 +934,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8675670002?gh_jid=8675670002",
-    "fetched_at": "2026-11-19T02:54:30+00:00"
+    "fetched_at": "2026-11-20T02:47:35+00:00"
   },
   {
     "title": "Senior Software Engineer, Android, Monetization",
@@ -943,7 +953,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8702391002?gh_jid=8702391002",
-    "fetched_at": "2026-11-19T02:54:30+00:00"
+    "fetched_at": "2026-11-20T02:47:35+00:00"
   },
   {
     "title": "Senior Software Engineer, Backend, Monetization",
@@ -964,7 +974,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8702288002?gh_jid=8702288002",
-    "fetched_at": "2026-11-19T02:54:30+00:00"
+    "fetched_at": "2026-11-20T02:47:35+00:00"
   },
   {
     "title": "Senior Software Engineer, iOS, Growth",
@@ -981,7 +991,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8693210002?gh_jid=8693210002",
-    "fetched_at": "2026-11-19T02:54:30+00:00"
+    "fetched_at": "2026-11-20T02:47:35+00:00"
   },
   {
     "title": "Software Engineer II, iOS, Growth",
@@ -998,7 +1008,7 @@
     "published_at": "2026-11-02T11:38:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.duolingo.com/jobs/8612120002?gh_jid=8612120002",
-    "fetched_at": "2026-11-19T02:54:30+00:00"
+    "fetched_at": "2026-11-20T02:47:35+00:00"
   },
   {
     "title": "Analyst, Business Development",
@@ -1015,7 +1025,7 @@
     "published_at": "2026-11-05T14:45:29-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4721840006?gh_jid=4721840006",
-    "fetched_at": "2026-11-19T02:54:31+00:00"
+    "fetched_at": "2026-11-20T02:47:36+00:00"
   },
   {
     "title": "Business Development Associate (Consumer)",
@@ -1032,7 +1042,7 @@
     "published_at": "2026-11-05T14:45:29-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4681211006?gh_jid=4681211006",
-    "fetched_at": "2026-11-19T02:54:31+00:00"
+    "fetched_at": "2026-11-20T02:47:36+00:00"
   },
   {
     "title": "Manager, Business Development - Consumer",
@@ -1049,7 +1059,7 @@
     "published_at": "2026-11-05T14:45:29-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4723008006?gh_jid=4723008006",
-    "fetched_at": "2026-11-19T02:54:31+00:00"
+    "fetched_at": "2026-11-20T02:47:36+00:00"
   },
   {
     "title": "Sr. Analyst, Business Development - Consumer",
@@ -1066,7 +1076,7 @@
     "published_at": "2026-11-05T14:45:29-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://boards.greenhouse.io/applovin/jobs/4723009006?gh_jid=4723009006",
-    "fetched_at": "2026-11-19T02:54:31+00:00"
+    "fetched_at": "2026-11-20T02:47:36+00:00"
   },
   {
     "title": "Lead Performance Strategist",
@@ -1085,7 +1095,7 @@
     "published_at": "2026-11-13T17:44:08-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://liftoff.io/job/8375843?gh_jid=8375843",
-    "fetched_at": "2026-11-19T02:54:32+00:00"
+    "fetched_at": "2026-11-20T02:47:37+00:00"
   },
   {
     "title": "Expression of Interest: Senior Growth Manager (Ad Sales)",
@@ -1104,7 +1114,7 @@
     "published_at": "2026-11-17T20:02:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/moloco/jobs/5687340003",
-    "fetched_at": "2026-11-19T02:54:33+00:00"
+    "fetched_at": "2026-11-20T02:47:39+00:00"
   },
   {
     "title": "Senior New Business Manager",
@@ -1123,7 +1133,7 @@
     "published_at": "2026-11-17T20:02:30-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/moloco/jobs/8042407003",
-    "fetched_at": "2026-11-19T02:54:33+00:00"
+    "fetched_at": "2026-11-20T02:47:39+00:00"
   },
   {
     "title": "Brand & Communications Manager - GCR",
@@ -1140,7 +1150,7 @@
     "published_at": "2026-03-26T04:48:25-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8480742002?gh_jid=8480742002",
-    "fetched_at": "2026-11-19T02:54:34+00:00"
+    "fetched_at": "2026-11-20T02:47:40+00:00"
   },
   {
     "title": "Customer Success Associate",
@@ -1157,7 +1167,7 @@
     "published_at": "2026-10-29T04:59:49-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8923149002?gh_jid=8923149002",
-    "fetched_at": "2026-11-19T02:54:34+00:00"
+    "fetched_at": "2026-11-20T02:47:40+00:00"
   },
   {
     "title": "General Manager, Greater China Region",
@@ -1174,7 +1184,7 @@
     "published_at": "2026-09-17T03:27:55-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8816080002?gh_jid=8816080002",
-    "fetched_at": "2026-11-19T02:54:34+00:00"
+    "fetched_at": "2026-11-20T02:47:40+00:00"
   },
   {
     "title": "Growth Marketing Manager, GCR",
@@ -1191,7 +1201,7 @@
     "published_at": "2026-10-20T06:34:36-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://careers.appsflyer.com/jobs/position/8793780002?gh_jid=8793780002",
-    "fetched_at": "2026-11-19T02:54:34+00:00"
+    "fetched_at": "2026-11-20T02:47:40+00:00"
   },
   {
     "title": "Associate Account Director (DTC Outbound)",
@@ -1208,7 +1218,7 @@
     "published_at": "2026-11-05T02:40:45-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5160619007",
-    "fetched_at": "2026-11-19T02:54:36+00:00"
+    "fetched_at": "2026-11-20T02:47:42+00:00"
   },
   {
     "title": "Account Executive - Majors",
@@ -1225,7 +1235,7 @@
     "published_at": "2026-11-11T00:34:39-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/zscaler/jobs/5282845007",
-    "fetched_at": "2026-11-19T02:54:53+00:00"
+    "fetched_at": "2026-11-20T02:47:59+00:00"
   },
   {
     "title": "Senior Sales Engineer",
@@ -1242,7 +1252,7 @@
     "published_at": "2026-11-09T22:44:33-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/zscaler/jobs/5284060007",
-    "fetched_at": "2026-11-19T02:54:53+00:00"
+    "fetched_at": "2026-11-20T02:47:59+00:00"
   },
   {
     "title": "IT Support Analyst",
@@ -1261,7 +1271,7 @@
     "published_at": "2026-10-29T21:16:43-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8335814",
-    "fetched_at": "2026-11-19T02:54:57+00:00"
+    "fetched_at": "2026-11-20T02:48:03+00:00"
   },
   {
     "title": "Sr. Staff Engineer, Data Engineering",
@@ -1290,7 +1300,7 @@
     "published_at": "2026-09-24T13:27:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8184639",
-    "fetched_at": "2026-11-19T02:54:57+00:00"
+    "fetched_at": "2026-11-20T02:48:03+00:00"
   },
   {
     "title": "Sr. / Staff SDET, AI Gateway",
@@ -1317,7 +1327,7 @@
     "published_at": "2026-11-09T12:31:01-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8168624",
-    "fetched_at": "2026-11-19T02:54:57+00:00"
+    "fetched_at": "2026-11-20T02:48:03+00:00"
   },
   {
     "title": "Staff Engineer, AI Gateway",
@@ -1346,7 +1356,7 @@
     "published_at": "2026-09-24T13:27:08-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8211204",
-    "fetched_at": "2026-11-19T02:54:57+00:00"
+    "fetched_at": "2026-11-20T02:48:03+00:00"
   },
   {
     "title": "Staff Engineer, CASB API",
@@ -1379,7 +1389,7 @@
     "published_at": "2026-10-05T01:12:17-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8038887",
-    "fetched_at": "2026-11-19T02:54:57+00:00"
+    "fetched_at": "2026-11-20T02:48:03+00:00"
   },
   {
     "title": "Staff Machine Learning Scientist",
@@ -1405,7 +1415,7 @@
     "published_at": "2026-10-28T22:58:12-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8329534",
-    "fetched_at": "2026-11-19T02:54:57+00:00"
+    "fetched_at": "2026-11-20T02:48:03+00:00"
   },
   {
     "title": "Staff / Sr. Staff Engineer, AI Gateway",
@@ -1432,7 +1442,7 @@
     "published_at": "2026-11-03T21:04:09-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8171690",
-    "fetched_at": "2026-11-19T02:54:57+00:00"
+    "fetched_at": "2026-11-20T02:48:03+00:00"
   },
   {
     "title": "Staff / Sr. Staff Engineer, Data Engineering",
@@ -1457,7 +1467,7 @@
     "published_at": "2026-10-23T15:29:28-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8319243",
-    "fetched_at": "2026-11-19T02:54:57+00:00"
+    "fetched_at": "2026-11-20T02:48:03+00:00"
   },
   {
     "title": "Senior Developer（OTR）",
@@ -1482,7 +1492,7 @@
     "published_at": "2026-11-10T02:21:37-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.thoughtworks.com/careers/jobs/8190474?gh_jid=8190474",
-    "fetched_at": "2026-11-19T02:54:58+00:00"
+    "fetched_at": "2026-11-20T02:48:04+00:00"
   },
   {
     "title": "Senior Machine Learning Engineer",
@@ -1508,7 +1518,7 @@
     "published_at": "2026-11-10T02:57:04-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.thoughtworks.com/careers/jobs/8358258?gh_jid=8358258",
-    "fetched_at": "2026-11-19T02:54:58+00:00"
+    "fetched_at": "2026-11-20T02:48:04+00:00"
   },
   {
     "title": "Software Developer",
@@ -1532,7 +1542,7 @@
     "published_at": "2026-11-09T01:07:01-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.thoughtworks.com/careers/jobs/8330382?gh_jid=8330382",
-    "fetched_at": "2026-11-19T02:54:58+00:00"
+    "fetched_at": "2026-11-20T02:48:04+00:00"
   },
   {
     "title": "Campus AI/ML Researcher (Intern)",
@@ -1556,7 +1566,7 @@
     "published_at": "2026-08-28T07:28:48-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027938",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Campus C++ Software Engineer (Intern)",
@@ -1577,7 +1587,7 @@
     "published_at": "2026-10-06T10:25:10-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027860",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Campus Python Software Engineer (Intern)",
@@ -1601,7 +1611,7 @@
     "published_at": "2026-10-06T10:21:01-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Campus Quantitative Researcher (Intern)",
@@ -1622,7 +1632,7 @@
     "published_at": "2026-08-28T07:27:49-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern)",
@@ -1643,7 +1653,7 @@
     "published_at": "2026-08-28T07:26:21-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Campus Quantitative Trader (Intern)",
@@ -1660,7 +1670,7 @@
     "published_at": "2026-08-28T07:28:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Cloud Systems Engineer | Production Engineering",
@@ -1686,7 +1696,7 @@
     "published_at": "2026-11-13T05:18:54-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8370626",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Data Scientist | Post Trade Analytics",
@@ -1708,7 +1718,7 @@
     "published_at": "2026-11-12T14:33:14-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7483202",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Deep Learning Researcher | Trading Team",
@@ -1730,7 +1740,7 @@
     "published_at": "2026-11-13T05:34:10-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6603013",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "HR Operations Specialist",
@@ -1747,7 +1757,7 @@
     "published_at": "2026-11-12T15:01:36-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8045867",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Lead Data Analyst",
@@ -1767,7 +1777,7 @@
     "published_at": "2026-11-13T05:24:46-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8236517",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Leadership and Professional Development Specialist | Talent Development",
@@ -1784,7 +1794,7 @@
     "published_at": "2026-11-13T05:30:05-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7946175",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Quantitative Developer",
@@ -1804,7 +1814,7 @@
     "published_at": "2026-11-12T13:38:16-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7822791",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Quantitative Developer | Trading team",
@@ -1825,27 +1835,7 @@
     "published_at": "2026-11-13T10:34:04-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6172858",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
-  },
-  {
-    "title": "Quantitative Developer | Trading Team",
-    "company": "Jump Trading",
-    "company_type": "外企",
-    "location": "Hong Kong",
-    "salary_raw": "面议",
-    "salary_min": null,
-    "salary_max": null,
-    "skills": [
-      "Python",
-      "C++"
-    ],
-    "education": null,
-    "experience": null,
-    "description": " Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect. At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. \n Jump Trading established its dedication to the China market with the launch of our Shanghai office in late 2017 with the ambition of building an independently operational office. Due to this ambition, we are growing our competencies in Trading, Technology and Operations. We bring together the best of two worlds: a start-up environment powered by global Jump Trading dedication and resources. \n This position is part of software development in a trading team. As a Quantitative Developer, you will work on a core team of technologists who build and improve the platforms that drive the trading team. You will work closely with the quantitative researchers on the team to create and improve research and trading infrastructure, improve the scalability of the production systems, maintain the production trading environment, troubleshoot problems, and develop software to automate and improve deployment, configuration, and validation. \n The team is looking for someone who will be passionate about development and demonstrates intellectual curiosity and an ability to solve difficult technical problems in a fast-paced and energetic environment. \n What You'll Do: \n \n Full-cycle development, including research and production systems, writing, testing, and debugging code, deploying finished code into the production environment, and ensuring all code is checked into source control \n Direct support of end users, troubleshooting problems and upgrading applications \n Monitoring, troubleshooting, break/fix of production trading system \n Other duties as assigned or needed \n \n Skills You'll Need: \n \n Proficient in Python and C++, with the ability to develop and maintain code for production applications \n Strong analytical and problem-solving skills \n Must be extremely detail-oriented \n Proven success working with large datasets \n Self-directed and comfortable taking ownership of projects and responsibilities \n Reliable and predictable availability \n \n   ",
-    "published_at": "2026-11-17T00:17:06-05:00",
-    "source_site": "Greenhouse",
-    "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6190021",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Quantitative Developer | Trading Team",
@@ -1870,7 +1860,7 @@
     "published_at": "2026-11-13T05:28:25-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8105914",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Quantitative Researcher | Trading Team",
@@ -1893,7 +1883,7 @@
     "published_at": "2026-11-13T10:31:21-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=6098760",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Senior Human Resources Business Partner",
@@ -1910,7 +1900,7 @@
     "published_at": "2026-11-13T05:19:49-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8329789",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Senior Software Engineer",
@@ -1930,7 +1920,7 @@
     "published_at": "2026-11-12T14:35:36-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7809758",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Software Engineer | Post Trade Analytics",
@@ -1953,7 +1943,7 @@
     "published_at": "2026-11-12T14:37:02-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7495806",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Software Engineer | Trading Team",
@@ -1972,7 +1962,7 @@
     "published_at": "2026-11-17T00:20:29-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7929540",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Talent Acquisition Coordinator",
@@ -1989,7 +1979,7 @@
     "published_at": "2026-11-13T05:23:04-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8236626",
-    "fetched_at": "2026-11-19T02:55:01+00:00"
+    "fetched_at": "2026-11-20T02:48:07+00:00"
   },
   {
     "title": "Delta One Trader",
@@ -2009,7 +1999,7 @@
     "published_at": "2026-10-13T04:26:15-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7708220",
-    "fetched_at": "2026-11-19T02:55:03+00:00"
+    "fetched_at": "2026-11-20T02:48:09+00:00"
   },
   {
     "title": "Digital Assets Trader",
@@ -2029,7 +2019,7 @@
     "published_at": "2026-10-13T10:21:11-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7770955",
-    "fetched_at": "2026-11-19T02:55:03+00:00"
+    "fetched_at": "2026-11-20T02:48:09+00:00"
   },
   {
     "title": "Experienced MFT Quantitative Researcher",
@@ -2048,7 +2038,7 @@
     "published_at": "2026-09-21T23:23:04-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8222298",
-    "fetched_at": "2026-11-19T02:55:03+00:00"
+    "fetched_at": "2026-11-20T02:48:09+00:00"
   },
   {
     "title": "Experienced Quantitative Researcher",
@@ -2067,7 +2057,7 @@
     "published_at": "2026-09-18T04:15:09-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/4003450",
-    "fetched_at": "2026-11-19T02:55:03+00:00"
+    "fetched_at": "2026-11-20T02:48:09+00:00"
   },
   {
     "title": "PhD Graduate Quantitative Researcher",
@@ -2089,7 +2079,7 @@
     "published_at": "2026-09-21T03:22:51-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8213037",
-    "fetched_at": "2026-11-19T02:55:03+00:00"
+    "fetched_at": "2026-11-20T02:48:09+00:00"
   },
   {
     "title": "Python Engineer, Trading Automation",
@@ -2113,7 +2103,7 @@
     "published_at": "2026-10-07T22:53:37-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7064123",
-    "fetched_at": "2026-11-19T02:55:03+00:00"
+    "fetched_at": "2026-11-20T02:48:09+00:00"
   },
   {
     "title": "Risk Manager",
@@ -2133,7 +2123,7 @@
     "published_at": "2026-09-01T00:04:33-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8168790",
-    "fetched_at": "2026-11-19T02:55:03+00:00"
+    "fetched_at": "2026-11-20T02:48:09+00:00"
   },
   {
     "title": "Senior Research Engineer",
@@ -2160,7 +2150,7 @@
     "published_at": "2026-11-08T21:08:54-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/7431246",
-    "fetched_at": "2026-11-19T02:55:03+00:00"
+    "fetched_at": "2026-11-20T02:48:09+00:00"
   },
   {
     "title": "Senior Software Engineer, C++",
@@ -2182,7 +2172,7 @@
     "published_at": "2026-11-06T00:27:40-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/6993714",
-    "fetched_at": "2026-11-19T02:55:03+00:00"
+    "fetched_at": "2026-11-20T02:48:09+00:00"
   },
   {
     "title": "Senior Software Engineer, C++ (Market Data)",
@@ -2201,7 +2191,7 @@
     "published_at": "2026-11-06T00:28:17-05:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8212740",
-    "fetched_at": "2026-11-19T02:55:03+00:00"
+    "fetched_at": "2026-11-20T02:48:09+00:00"
   },
   {
     "title": "Trading Intern",
@@ -2220,6 +2210,6 @@
     "published_at": "2026-09-30T06:42:48-04:00",
     "source_site": "Greenhouse",
     "source_url": "https://job-boards.greenhouse.io/flowtraders/jobs/8102618",
-    "fetched_at": "2026-11-19T02:55:03+00:00"
+    "fetched_at": "2026-11-20T02:48:09+00:00"
   }
 ]
